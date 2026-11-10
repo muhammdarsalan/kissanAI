@@ -1,71 +1,101 @@
+import re, json
 from pathlib import Path
-import json
 import pandas as pd
 from sklearn.model_selection import StratifiedGroupKFold
 
 BASE = Path("data/raw/plantvillage_hf")
-KEEP_CROPS = {"Tomato", "Potato", "Corn_(maize)"}   # edit as you decide
+COLOR = BASE / "images" / "raw" / "color"
+KEEP = {"Tomato", "Potato", "Corn_(maize)"}
+GAP = 2   # edit after reading the validation lines below
 
-# 1. find the color folder and list images
-color_dir = next(p for p in (BASE / "images").rglob("color") if p.is_dir())
-print("color dir:", color_dir)
+leaf_map = json.loads((BASE / "leaf_grouping" / "leaf-map.json").read_text())
+
+def parse(key):
+    m = re.match(r"^(.*?)\s*(\d+)(?:\.\d+)?$", key)
+    return (m.group(1), int(m.group(2))) if m else (key, None)
 
 rows = []
-for class_dir in sorted(color_dir.iterdir()):
-    if not class_dir.is_dir():
+for d in sorted(COLOR.iterdir()):
+    if not d.is_dir():
         continue
-    crop, _, condition = class_dir.name.partition("___")
-    for img in class_dir.iterdir():
-        if img.suffix.lower() in {".jpg", ".jpeg", ".png"}:
-            rows.append({"path": str(img), "name": img.name.lower(),
-                         "label": class_dir.name, "crop": crop,
-                         "condition": condition})
+    crop, _, cond = d.name.partition("___")
+    if crop not in KEEP:
+        continue
+    for f in d.iterdir():
+        if f.suffix.lower() in {".jpg", ".jpeg", ".png"}:
+            key = f.name.lower().rsplit(".", 1)[0].split("___", 1)[-1]
+            prefix, num = parse(key)
+            rows.append(dict(path=str(f), label=d.name, crop=crop,
+                             condition=cond, key=key, prefix=prefix, num=num))
 df = pd.DataFrame(rows)
-print("all color images:", len(df))
-print("sample names:", df["name"].head(3).tolist())
+print("images:", len(df))
 
-# 2. leaf groups from leaf-map.json
-leaf_map = json.loads((BASE / "leaf_grouping" / "leaf-map.json").read_text())
-print("sample leaf-map keys:", list(leaf_map)[:3])
+def gap_cluster_ids(frame, gap):
+    ids = pd.Series([f"p:{l}|{k}" for l, k in zip(frame.label, frame.key)],
+                    index=frame.index, dtype=object)
+    ok = frame.dropna(subset=["num"])
+    for (label, prefix), g in ok.groupby(["label", "prefix"]):
+        g = g.sort_values("num")
+        c, prev = 0, None
+        for idx, n in zip(g.index, g["num"]):
+            if prev is not None and n - prev > gap:
+                c += 1
+            ids[idx] = f"p:{label}|{prefix}|{c}"
+            prev = n
+    return ids
 
-def key_of(name):
-    stem = name.rsplit(".", 1)[0]
-    return stem.split("___", 1)[-1]          # part after the uuid
+# --- validate on images that DO have a leaf-map entry ---
+cov = df[df["key"].isin(leaf_map)].copy()
+cov["mgroup"] = cov["key"].map(lambda k: leaf_map[k][0])
+print("images with a map entry:", len(cov), "/", len(df))
+for g in (0, 1, 2, 3, 5):
+    cov["c"] = gap_cluster_ids(cov, g)
+    inside = (cov.groupby("mgroup")["c"].nunique() == 1).mean()
+    sz = cov.groupby("c").size()
+    print(f"gap={g}: {inside:.1%} of map groups inside one cluster | "
+          f"avg {sz.mean():.1f}, max {sz.max()} images per cluster")
 
-df["key"] = df["name"].map(key_of)
-df["group"] = df["key"].map(lambda k: leaf_map[k][0] if k in leaf_map else None)
-print("images matched to a leaf group:", df["group"].notna().sum(), "/", len(df))
+# --- union-find: final groups ---
+parent = {}
+def find(x):
+    parent.setdefault(x, x)
+    while parent[x] != x:
+        parent[x] = parent[parent[x]]
+        x = parent[x]
+    return x
+def union(a, b):
+    ra, rb = find(a), find(b)
+    if ra != rb:
+        parent[rb] = ra
 
-# 3. official split lists
-def read_split(fname):
-    lines = (BASE / "splits" / fname).read_text().splitlines()
-    print(fname, "sample line:", repr(lines[0]))
-    return {Path(l.strip()).name.lower() for l in lines if l.strip()}
+proxy = gap_cluster_ids(df, GAP)
+nodes = []
+for i, (label, key) in zip(df.index, zip(df["label"], df["key"])):
+    if key in leaf_map:
+        gs = ["m:" + g for g in leaf_map[key]]
+        for g in gs[1:]:
+            union(gs[0], g)
+        node = gs[0]
+    else:
+        node = proxy[i]
+    union(node, f"k:{label}|{key}")
+    nodes.append(node)
+df["group"] = [find(n) for n in nodes]
+print(f"GAP={GAP} | groups: {df['group'].nunique()} | "
+      f"largest group: {df['group'].value_counts().iloc[0]} images")
+print(df.groupby("label")["group"].nunique().rename("groups per class"))
 
-train_names = read_split("color_train.txt")
-test_names = read_split("color_test.txt")
-df["official"] = df["name"].map(
-    lambda n: "test" if n in test_names else ("train" if n in train_names else None))
-print(df["official"].value_counts(dropna=False))
+# --- our own leaf-grouped 80/10/10 split ---
+sgkf = StratifiedGroupKFold(n_splits=10, shuffle=True, random_state=42)
+folds = [idx for _, idx in sgkf.split(df, df["label"], df["group"])]
+df["split"] = "train"
+df.loc[df.index[folds[0]], "split"] = "test"
+df.loc[df.index[folds[1]], "split"] = "val"
 
-# 4. keep only our crops, drop anything unmatched
-df = df[df["crop"].isin(KEEP_CROPS)].copy()
-bad = df["group"].isna() | df["official"].isna()
-print("dropped (no group or no split):", int(bad.sum()))
-df = df[~bad].copy()
-
-# 5. carve validation out of train, grouped by leaf
-df["split"] = df["official"]
-tr = df[df["official"] == "train"]
-sgkf = StratifiedGroupKFold(n_splits=9, shuffle=True, random_state=42)
-_, val_idx = next(sgkf.split(tr, tr["label"], tr["group"]))
-df.loc[tr.index[val_idx], "split"] = "val"
-
-# 6. leakage check
 for a, b in [("train", "val"), ("train", "test"), ("val", "test")]:
-    shared = set(df[df.split == a]["group"]) & set(df[df.split == b]["group"])
-    print(f"leaf groups shared between {a} and {b}: {len(shared)}")
+    shared = set(df[df.split == a].group) & set(df[df.split == b].group)
+    print(f"groups shared between {a} and {b}: {len(shared)}")
 
 Path("data/processed").mkdir(parents=True, exist_ok=True)
-df.drop(columns=["name", "official"]).to_csv("data/processed/splits.csv", index=False)
+df.drop(columns=["key", "prefix", "num"]).to_csv("data/processed/splits.csv", index=False)
 print(pd.crosstab(df["label"], df["split"]))
