@@ -1,0 +1,8 @@
+.venv/
+data/raw/
+data/field_test/
+models/*.pt
+__pycache__/
+.ipynb_checkpoints/
+.env
+*.key
