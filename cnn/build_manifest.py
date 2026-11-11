@@ -6,7 +6,7 @@ from sklearn.model_selection import StratifiedGroupKFold
 BASE = Path("data/raw/plantvillage_hf")
 COLOR = BASE / "images" / "raw" / "color"
 KEEP = {"Tomato", "Potato", "Corn_(maize)"}
-GAP = 2   # edit after reading the validation lines below
+BUCKET = 50
 
 leaf_map = json.loads((BASE / "leaf_grouping" / "leaf-map.json").read_text())
 
@@ -30,32 +30,21 @@ for d in sorted(COLOR.iterdir()):
 df = pd.DataFrame(rows)
 print("images:", len(df))
 
-def gap_cluster_ids(frame, gap):
-    ids = pd.Series([f"p:{l}|{k}" for l, k in zip(frame.label, frame.key)],
-                    index=frame.index, dtype=object)
-    ok = frame.dropna(subset=["num"])
-    for (label, prefix), g in ok.groupby(["label", "prefix"]):
-        g = g.sort_values("num")
-        c, prev = 0, None
-        for idx, n in zip(g.index, g["num"]):
-            if prev is not None and n - prev > gap:
-                c += 1
-            ids[idx] = f"p:{label}|{prefix}|{c}"
-            prev = n
-    return ids
+def bucket_id(frame, size):
+    return pd.Series(
+        [f"p:{l}|{p}|{int(n) // size if pd.notna(n) else k}"
+         for l, p, n, k in zip(frame.label, frame.prefix, frame.num, frame.key)],
+        index=frame.index)
 
-# --- validate on images that DO have a leaf-map entry ---
 cov = df[df["key"].isin(leaf_map)].copy()
 cov["mgroup"] = cov["key"].map(lambda k: leaf_map[k][0])
 print("images with a map entry:", len(cov), "/", len(df))
-for g in (0, 1, 2, 3, 5):
-    cov["c"] = gap_cluster_ids(cov, g)
-    inside = (cov.groupby("mgroup")["c"].nunique() == 1).mean()
-    sz = cov.groupby("c").size()
-    print(f"gap={g}: {inside:.1%} of map groups inside one cluster | "
-          f"avg {sz.mean():.1f}, max {sz.max()} images per cluster")
+for size in (20, 50, 100):
+    cov["b"] = bucket_id(cov, size)
+    inside = (cov.groupby("mgroup")["b"].nunique() == 1).mean()
+    print(f"bucket={size}: {inside:.1%} of map groups inside one bucket, "
+          f"avg {cov.groupby('b').size().mean():.1f} images per bucket")
 
-# --- union-find: final groups ---
 parent = {}
 def find(x):
     parent.setdefault(x, x)
@@ -68,9 +57,9 @@ def union(a, b):
     if ra != rb:
         parent[rb] = ra
 
-proxy = gap_cluster_ids(df, GAP)
+proxy = bucket_id(df, BUCKET)
 nodes = []
-for i, (label, key) in zip(df.index, zip(df["label"], df["key"])):
+for i, label, key in zip(df.index, df["label"], df["key"]):
     if key in leaf_map:
         gs = ["m:" + g for g in leaf_map[key]]
         for g in gs[1:]:
@@ -81,21 +70,35 @@ for i, (label, key) in zip(df.index, zip(df["label"], df["key"])):
     union(node, f"k:{label}|{key}")
     nodes.append(node)
 df["group"] = [find(n) for n in nodes]
-print(f"GAP={GAP} | groups: {df['group'].nunique()} | "
+print(f"BUCKET={BUCKET} | groups: {df['group'].nunique()} | "
       f"largest group: {df['group'].value_counts().iloc[0]} images")
 print(df.groupby("label")["group"].nunique().rename("groups per class"))
 
-# --- our own leaf-grouped 80/10/10 split ---
 sgkf = StratifiedGroupKFold(n_splits=10, shuffle=True, random_state=42)
 folds = [idx for _, idx in sgkf.split(df, df["label"], df["group"])]
 df["split"] = "train"
 df.loc[df.index[folds[0]], "split"] = "test"
 df.loc[df.index[folds[1]], "split"] = "val"
 
+for split in ("val", "test"):
+    for label in df["label"].unique():
+        cls = df[df.label == label]
+        if (cls.split == split).any():
+            continue
+        sizes = cls[cls.split == "train"].groupby("group").size()
+        target = max(1, int(0.1 * len(cls)))
+        pick = (sizes - target).abs().idxmin()
+        df.loc[df.group == pick, "split"] = split
+        print(f"moved group {pick} ({sizes[pick]} images) to {split} for {label}")
+
 for a, b in [("train", "val"), ("train", "test"), ("val", "test")]:
     shared = set(df[df.split == a].group) & set(df[df.split == b].group)
     print(f"groups shared between {a} and {b}: {len(shared)}")
 
+ct = pd.crosstab(df["label"], df["split"])
+print(ct)
+missing = [(l, s) for l in ct.index for s in ("val", "test") if ct.loc[l, s] == 0]
+print("classes missing from val/test:", missing)
+
 Path("data/processed").mkdir(parents=True, exist_ok=True)
 df.drop(columns=["key", "prefix", "num"]).to_csv("data/processed/splits.csv", index=False)
-print(pd.crosstab(df["label"], df["split"]))
