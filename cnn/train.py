@@ -49,6 +49,8 @@ def main():
     ap.add_argument("--ft-epochs", type=int, default=7)
     ap.add_argument("--batch-size", type=int, default=32)
     ap.add_argument("--workers", type=int, default=2)
+    ap.add_argument("--extra-csv", default=None)
+    ap.add_argument("--field-repeat", type=int, default=5)
     ap.add_argument("--smoke", action="store_true", help="tiny CPU-friendly test run")
     a = ap.parse_args()
 
@@ -56,7 +58,9 @@ def main():
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
     use_amp = device.type == "cuda"
     bs, workers = (16, 0) if a.smoke else (a.batch_size, a.workers)
-    loaders, classes, weights = get_loaders(batch_size=bs, num_workers=workers)
+    loaders, classes, weights = get_loaders(batch_size=bs, num_workers=workers,
+                                            extra_csv=a.extra_csv,
+                                            field_repeat=a.field_repeat)
 
     if a.smoke:
         for split, n in (("train", 256), ("val", 128)):
@@ -71,7 +75,7 @@ def main():
     scaler = torch.amp.GradScaler(device.type, enabled=use_amp)
     Path("models").mkdir(exist_ok=True)
     Path("eval").mkdir(exist_ok=True)
-    tag = a.model + ("_smoke" if a.smoke else "")
+    tag = a.model + ("_field" if a.extra_csv else "") + ("_smoke" if a.smoke else "")
     state = {"best": -1.0}
     log = []
 

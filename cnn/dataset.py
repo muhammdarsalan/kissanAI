@@ -2,6 +2,8 @@ import json
 from pathlib import Path
 import pandas as pd
 import torch
+import matplotlib
+matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 from PIL import Image
 from torch.utils.data import Dataset, DataLoader
@@ -10,6 +12,7 @@ from torchvision import transforms as T
 SPLITS_CSV = "data/processed/splits.csv"
 CLASSES_JSON = "configs/classes.json"
 MEAN, STD = [0.485, 0.456, 0.406], [0.229, 0.224, 0.225]
+
 
 def make_transforms(img_size=224):
     train_tf = T.Compose([
@@ -29,19 +32,30 @@ def make_transforms(img_size=224):
     ])
     return train_tf, eval_tf
 
+
 class LeafDataset(Dataset):
     def __init__(self, df, label2idx, transform):
         self.paths = df["path"].str.replace("\\", "/", regex=False).tolist()
         self.targets = [label2idx[l] for l in df["label"]]
         self.transform = transform
+
     def __len__(self):
         return len(self.paths)
+
     def __getitem__(self, i):
         img = Image.open(self.paths[i]).convert("RGB")
         return self.transform(img), self.targets[i]
 
-def get_loaders(batch_size=32, img_size=224, num_workers=2, csv=SPLITS_CSV):
+
+def get_loaders(batch_size=32, img_size=224, num_workers=2, csv=SPLITS_CSV,
+                extra_csv=None, field_repeat=5):
     df = pd.read_csv(csv)
+    if extra_csv and Path(extra_csv).exists():
+        ex = pd.read_csv(extra_csv)
+        ex_train = pd.concat([ex[ex.split == "train"]] * field_repeat)
+        ex_val = ex[ex.split == "val"]
+        df = pd.concat([df, ex_train, ex_val], ignore_index=True)
+        print(f"extra field data: {len(ex_train)} train rows (x{field_repeat}), {len(ex_val)} val rows")
     classes = sorted(df["label"].unique())
     label2idx = {c: i for i, c in enumerate(classes)}
     Path("configs").mkdir(exist_ok=True)
@@ -60,6 +74,7 @@ def get_loaders(batch_size=32, img_size=224, num_workers=2, csv=SPLITS_CSV):
         [len(parts["train"]) / (len(classes) * counts[c]) for c in classes],
         dtype=torch.float)
     return loaders, classes, weights
+
 
 if __name__ == "__main__":
     loaders, classes, weights = get_loaders(batch_size=16, num_workers=0)
