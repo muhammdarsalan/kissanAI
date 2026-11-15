@@ -1,0 +1,32 @@
+﻿val: accuracy 0.9790 | macro-F1 0.9777 | n=2377
+                                                    precision    recall  f1-score   support
+
+Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot       0.94      0.98      0.96        51
+                       Corn_(maize)___Common_rust_       1.00      1.00      1.00        99
+               Corn_(maize)___Northern_Leaf_Blight       0.98      0.97      0.97        99
+                            Corn_(maize)___healthy       1.00      0.99      1.00       117
+                             Potato___Early_blight       1.00      0.99      0.99       100
+                              Potato___Late_blight       0.95      1.00      0.98       100
+                                  Potato___healthy       1.00      1.00      1.00        16
+                           Tomato___Bacterial_spot       0.93      1.00      0.97       215
+                             Tomato___Early_blight       0.96      0.93      0.94       100
+                              Tomato___Late_blight       0.98      0.97      0.98       191
+                                Tomato___Leaf_Mold       0.99      0.99      0.99        96
+                       Tomato___Septoria_leaf_spot       0.96      0.98      0.97       176
+     Tomato___Spider_mites Two-spotted_spider_mite       0.98      0.99      0.99       168
+                              Tomato___Target_Spot       0.99      0.92      0.96       133
+            Tomato___Tomato_Yellow_Leaf_Curl_Virus       1.00      0.97      0.98       535
+                      Tomato___Tomato_mosaic_virus       0.95      0.95      0.95        21
+                                  Tomato___healthy       0.99      1.00      1.00       160
+
+                                          accuracy                           0.98      2377
+                                         macro avg       0.98      0.98      0.98      2377
+                                      weighted avg       0.98      0.98      0.98      2377
+
+ threshold  coverage  accuracy_on_kept
+      0.00     1.000             0.979
+      0.50     0.997             0.981
+      0.70     0.979             0.988
+      0.80     0.962             0.993
+      0.90     0.941             0.994
+      0.95     0.911             0.998
