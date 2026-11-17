@@ -1,753 +1,753 @@
 path,true,pred,conf
-data\field_test2\_unknown\fp_1051.jpg,_unknown,Tomato___Early_blight,0.5843784213066101
-data\field_test2\_unknown\fp_107.jpg,_unknown,Tomato___Late_blight,0.9001264572143555
-data\field_test2\_unknown\fp_1315.jpg,_unknown,Tomato___healthy,0.5841441750526428
-data\field_test2\_unknown\fp_1368.jpg,_unknown,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.8638624548912048
-data\field_test2\_unknown\fp_1389.jpg,_unknown,Tomato___Early_blight,0.74882572889328
-data\field_test2\_unknown\fp_1410.jpg,_unknown,Tomato___Late_blight,0.7920451760292053
-data\field_test2\_unknown\fp_1415.jpg,_unknown,Tomato___Late_blight,0.6610037088394165
-data\field_test2\_unknown\fp_1430.jpg,_unknown,Tomato___Early_blight,0.503508448600769
-data\field_test2\_unknown\fp_1486.jpg,_unknown,Tomato___Late_blight,0.9195519685745239
-data\field_test2\_unknown\fp_1559.jpg,_unknown,Tomato___Early_blight,0.290918231010437
-data\field_test2\_unknown\fp_1576.jpg,_unknown,Tomato___Late_blight,0.6362767815589905
-data\field_test2\_unknown\fp_1619.jpg,_unknown,Tomato___Early_blight,0.5136520862579346
-data\field_test2\_unknown\fp_167.jpg,_unknown,Corn_(maize)___Northern_Leaf_Blight,0.583647608757019
-data\field_test2\_unknown\fp_1881.jpg,_unknown,Tomato___healthy,0.5657215118408203
-data\field_test2\_unknown\fp_1902.jpg,_unknown,Potato___Late_blight,0.532620906829834
-data\field_test2\_unknown\fp_1936.jpg,_unknown,Corn_(maize)___healthy,0.7982088923454285
-data\field_test2\_unknown\fp_1951.jpg,_unknown,Tomato___Late_blight,0.9810197949409485
-data\field_test2\_unknown\fp_1985.jpg,_unknown,Tomato___Target_Spot,0.4998951256275177
-data\field_test2\_unknown\fp_2051.jpg,_unknown,Corn_(maize)___Common_rust_,0.8903276324272156
-data\field_test2\_unknown\fp_2077.jpg,_unknown,Potato___Early_blight,0.5375509858131409
-data\field_test2\_unknown\fp_2112.jpg,_unknown,Tomato___Late_blight,0.9420744776725769
-data\field_test2\_unknown\fp_2144.jpg,_unknown,Corn_(maize)___healthy,0.50777667760849
-data\field_test2\_unknown\fp_2177.jpg,_unknown,Tomato___Late_blight,0.9355438351631165
-data\field_test2\_unknown\fp_2255.jpg,_unknown,Tomato___Early_blight,0.9993906021118164
-data\field_test2\_unknown\fp_234.jpg,_unknown,Tomato___Early_blight,0.9876132011413574
-data\field_test2\_unknown\fp_2346.jpg,_unknown,Tomato___Septoria_leaf_spot,0.30197569727897644
-data\field_test2\_unknown\fp_2355.jpg,_unknown,Tomato___Early_blight,0.47871696949005127
-data\field_test2\_unknown\fp_2356.jpg,_unknown,Tomato___Late_blight,0.3819427490234375
-data\field_test2\_unknown\fp_2368.jpg,_unknown,Potato___Early_blight,0.495185524225235
-data\field_test2\_unknown\fp_2369.jpg,_unknown,Tomato___Late_blight,0.8689079880714417
-data\field_test2\_unknown\fp_2375.jpg,_unknown,Tomato___Early_blight,0.3352247476577759
-data\field_test2\_unknown\fp_2451.jpg,_unknown,Tomato___Early_blight,0.7888801693916321
-data\field_test2\_unknown\fp_2452.jpg,_unknown,Potato___Early_blight,0.642055094242096
-data\field_test2\_unknown\fp_2522.jpg,_unknown,Tomato___Early_blight,0.9778099656105042
-data\field_test2\_unknown\fp_2526.jpg,_unknown,Potato___Late_blight,0.5849180221557617
-data\field_test2\_unknown\fp_2575.jpg,_unknown,Potato___Early_blight,0.8422984480857849
-data\field_test2\_unknown\fp_2635.jpg,_unknown,Tomato___Early_blight,0.7471240758895874
-data\field_test2\_unknown\fp_2674.jpg,_unknown,Tomato___Early_blight,0.8808211088180542
-data\field_test2\_unknown\fp_2748.jpg,_unknown,Corn_(maize)___healthy,0.9034287929534912
-data\field_test2\_unknown\fp_2778.jpg,_unknown,Corn_(maize)___healthy,0.5112440586090088
-data\field_test2\_unknown\fp_2812.jpg,_unknown,Tomato___Septoria_leaf_spot,0.30242326855659485
-data\field_test2\_unknown\fp_2839.jpg,_unknown,Corn_(maize)___Northern_Leaf_Blight,0.7818736433982849
-data\field_test2\_unknown\fp_2896.jpg,_unknown,Tomato___Early_blight,0.7538005709648132
-data\field_test2\_unknown\fp_2964.jpg,_unknown,Tomato___Late_blight,0.7509800791740417
-data\field_test2\_unknown\fp_2973.jpg,_unknown,Potato___Early_blight,0.5095852017402649
-data\field_test2\_unknown\fp_2996.jpg,_unknown,Potato___Early_blight,0.66972416639328
-data\field_test2\_unknown\fp_3026.jpg,_unknown,Tomato___Late_blight,0.687347412109375
-data\field_test2\_unknown\fp_3055.jpg,_unknown,Tomato___Late_blight,0.4744073748588562
-data\field_test2\_unknown\fp_3115.jpg,_unknown,Tomato___Early_blight,0.9586300253868103
-data\field_test2\_unknown\fp_3172.jpg,_unknown,Potato___Early_blight,0.3185068666934967
-data\field_test2\_unknown\fp_3227.jpg,_unknown,Potato___Early_blight,0.6632728576660156
-data\field_test2\_unknown\fp_3292.jpg,_unknown,Tomato___Early_blight,0.7756995558738708
-data\field_test2\_unknown\fp_3364.jpg,_unknown,Tomato___Early_blight,0.44549691677093506
-data\field_test2\_unknown\fp_3373.jpg,_unknown,Tomato___Late_blight,0.5013757348060608
-data\field_test2\_unknown\fp_3444.jpg,_unknown,Tomato___Early_blight,0.7463279366493225
-data\field_test2\_unknown\fp_3466.jpg,_unknown,Corn_(maize)___healthy,0.9716713428497314
-data\field_test2\_unknown\fp_3499.jpg,_unknown,Tomato___Early_blight,0.9991958737373352
-data\field_test2\_unknown\fp_352.jpg,_unknown,Tomato___healthy,0.8835684061050415
-data\field_test2\_unknown\fp_3540.jpg,_unknown,Tomato___Early_blight,0.9792584776878357
-data\field_test2\_unknown\fp_3551.jpg,_unknown,Corn_(maize)___Northern_Leaf_Blight,0.5700617432594299
-data\field_test2\_unknown\fp_3626.jpg,_unknown,Tomato___Septoria_leaf_spot,0.408839613199234
-data\field_test2\_unknown\fp_3650.jpg,_unknown,Tomato___healthy,0.3613508641719818
-data\field_test2\_unknown\fp_3651.jpg,_unknown,Tomato___Target_Spot,0.6016103625297546
-data\field_test2\_unknown\fp_3675.jpg,_unknown,Tomato___Leaf_Mold,0.32971906661987305
-data\field_test2\_unknown\fp_369.jpg,_unknown,Tomato___Late_blight,0.33147355914115906
-data\field_test2\_unknown\fp_3710.jpg,_unknown,Tomato___Early_blight,0.42079681158065796
-data\field_test2\_unknown\fp_3785.jpg,_unknown,Tomato___Early_blight,0.8640406131744385
-data\field_test2\_unknown\fp_3793.jpg,_unknown,Tomato___Late_blight,0.9576175212860107
-data\field_test2\_unknown\fp_3795.jpg,_unknown,Potato___Early_blight,0.6276822686195374
-data\field_test2\_unknown\fp_3806.jpg,_unknown,Tomato___Early_blight,0.9988062381744385
-data\field_test2\_unknown\fp_3853.jpg,_unknown,Corn_(maize)___healthy,0.5727441906929016
-data\field_test2\_unknown\fp_3888.jpg,_unknown,Tomato___Late_blight,0.8789026141166687
-data\field_test2\_unknown\fp_4147.jpg,_unknown,Potato___Early_blight,0.8214325308799744
-data\field_test2\_unknown\fp_4152.jpg,_unknown,Tomato___Late_blight,0.5185294151306152
-data\field_test2\_unknown\fp_4163.jpg,_unknown,Tomato___Late_blight,0.48789671063423157
-data\field_test2\_unknown\fp_4184.jpg,_unknown,Tomato___Tomato_Yellow_Leaf_Curl_Virus,0.3707704246044159
-data\field_test2\_unknown\fp_4260.jpg,_unknown,Tomato___Late_blight,0.5703907608985901
-data\field_test2\_unknown\fp_4318.jpg,_unknown,Tomato___healthy,0.9088577628135681
-data\field_test2\_unknown\fp_4329.jpg,_unknown,Tomato___Early_blight,0.8200827836990356
-data\field_test2\_unknown\fp_435.jpg,_unknown,Tomato___Early_blight,0.6808270812034607
-data\field_test2\_unknown\fp_4404.jpg,_unknown,Tomato___Late_blight,0.8756207823753357
-data\field_test2\_unknown\fp_4422.jpg,_unknown,Tomato___healthy,0.4923686683177948
-data\field_test2\_unknown\fp_4431.jpg,_unknown,Tomato___Late_blight,0.9661267399787903
-data\field_test2\_unknown\fp_4496.jpg,_unknown,Tomato___Late_blight,0.6845414042472839
-data\field_test2\_unknown\fp_4525.jpg,_unknown,Tomato___Early_blight,0.5576356053352356
-data\field_test2\_unknown\fp_4545.jpg,_unknown,Tomato___Early_blight,0.917022168636322
-data\field_test2\_unknown\fp_4547.jpg,_unknown,Tomato___Late_blight,0.689450740814209
-data\field_test2\_unknown\fp_4557.jpg,_unknown,Potato___Early_blight,0.8226130604743958
-data\field_test2\_unknown\fp_4596.jpg,_unknown,Tomato___Late_blight,0.5020852088928223
-data\field_test2\_unknown\fp_4615.jpg,_unknown,Corn_(maize)___healthy,0.8866887092590332
-data\field_test2\_unknown\fp_4718.jpg,_unknown,Tomato___Septoria_leaf_spot,0.6654141545295715
-data\field_test2\_unknown\fp_4726.jpg,_unknown,Tomato___Late_blight,0.991719126701355
-data\field_test2\_unknown\fp_4760.jpg,_unknown,Tomato___Late_blight,0.43541011214256287
-data\field_test2\_unknown\fp_4823.jpg,_unknown,Tomato___Early_blight,0.4151388704776764
-data\field_test2\_unknown\fp_4824.jpg,_unknown,Tomato___Early_blight,0.8555272221565247
-data\field_test2\_unknown\fp_4897.jpg,_unknown,Tomato___Early_blight,0.6616501808166504
-data\field_test2\_unknown\fp_4943.jpg,_unknown,Tomato___Early_blight,0.5966126322746277
-data\field_test2\_unknown\fp_4990.jpg,_unknown,Tomato___Early_blight,0.8402856588363647
-data\field_test2\_unknown\fp_50.jpg,_unknown,Tomato___Early_blight,0.7033541202545166
-data\field_test2\_unknown\fp_5006.jpg,_unknown,Potato___Early_blight,0.44458624720573425
-data\field_test2\_unknown\fp_5059.jpg,_unknown,Tomato___Early_blight,0.7045180797576904
-data\field_test2\_unknown\fp_5136.jpg,_unknown,Tomato___Early_blight,0.9822653532028198
-data\field_test2\_unknown\fp_5139.jpg,_unknown,Potato___Early_blight,0.9344244599342346
-data\field_test2\_unknown\fp_514.jpg,_unknown,Tomato___Bacterial_spot,0.7438539862632751
-data\field_test2\_unknown\fp_5154.jpg,_unknown,Tomato___Early_blight,0.5378181338310242
-data\field_test2\_unknown\fp_5195.jpg,_unknown,Tomato___Late_blight,0.9164124727249146
-data\field_test2\_unknown\fp_5285.jpg,_unknown,Tomato___Early_blight,0.9180079698562622
-data\field_test2\_unknown\fp_5314.jpg,_unknown,Corn_(maize)___Northern_Leaf_Blight,0.3928109109401703
-data\field_test2\_unknown\fp_5315.jpg,_unknown,Tomato___Late_blight,0.601590096950531
-data\field_test2\_unknown\fp_5320.jpg,_unknown,Tomato___healthy,0.42335179448127747
-data\field_test2\_unknown\fp_5324.jpg,_unknown,Tomato___Late_blight,0.499401330947876
-data\field_test2\_unknown\fp_5464.jpg,_unknown,Tomato___Late_blight,0.7437363862991333
-data\field_test2\_unknown\fp_5508.jpg,_unknown,Tomato___Early_blight,0.3939875066280365
-data\field_test2\_unknown\fp_5518.jpg,_unknown,Tomato___Early_blight,0.9392825961112976
-data\field_test2\_unknown\fp_5599.jpg,_unknown,Potato___Early_blight,0.6941559910774231
-data\field_test2\_unknown\fp_5631.jpg,_unknown,Tomato___Late_blight,0.8876912593841553
-data\field_test2\_unknown\fp_5708.jpg,_unknown,Tomato___Late_blight,0.9768338799476624
-data\field_test2\_unknown\fp_5735.jpg,_unknown,Tomato___Late_blight,0.9982733726501465
-data\field_test2\_unknown\fp_5737.jpg,_unknown,Potato___Late_blight,0.6670143008232117
-data\field_test2\_unknown\fp_5754.jpg,_unknown,Potato___Early_blight,0.5339170694351196
-data\field_test2\_unknown\fp_5807.jpg,_unknown,Tomato___Early_blight,0.9245387315750122
-data\field_test2\_unknown\fp_5850.jpg,_unknown,Tomato___Early_blight,0.7899070382118225
-data\field_test2\_unknown\fp_5851.jpg,_unknown,Potato___Late_blight,0.4695005714893341
-data\field_test2\_unknown\fp_5860.jpg,_unknown,Tomato___Early_blight,0.7994349002838135
-data\field_test2\_unknown\fp_5862.jpg,_unknown,Tomato___Early_blight,0.556990385055542
-data\field_test2\_unknown\fp_5911.jpg,_unknown,Tomato___Early_blight,0.9987347722053528
-data\field_test2\_unknown\fp_5968.jpg,_unknown,Tomato___Early_blight,0.8751345276832581
-data\field_test2\_unknown\fp_6058.jpg,_unknown,Tomato___Septoria_leaf_spot,0.6966891884803772
-data\field_test2\_unknown\fp_6127.jpg,_unknown,Tomato___Early_blight,0.6867656707763672
-data\field_test2\_unknown\fp_6175.jpg,_unknown,Tomato___Early_blight,0.7966832518577576
-data\field_test2\_unknown\fp_620.jpg,_unknown,Tomato___Leaf_Mold,0.6655144095420837
-data\field_test2\_unknown\fp_6346.jpg,_unknown,Tomato___Early_blight,0.480991393327713
-data\field_test2\_unknown\fp_636.jpg,_unknown,Tomato___Late_blight,0.44245103001594543
-data\field_test2\_unknown\fp_637.jpg,_unknown,Tomato___Early_blight,0.6583491563796997
-data\field_test2\_unknown\fp_6425.jpg,_unknown,Potato___Early_blight,0.37120985984802246
-data\field_test2\_unknown\fp_6519.jpg,_unknown,Potato___Early_blight,0.34725555777549744
-data\field_test2\_unknown\fp_6572.jpg,_unknown,Tomato___Early_blight,0.865726113319397
-data\field_test2\_unknown\fp_6589.jpg,_unknown,Tomato___Late_blight,0.7798513770103455
-data\field_test2\_unknown\fp_6647.jpg,_unknown,Tomato___Early_blight,0.855242908000946
-data\field_test2\_unknown\fp_6649.jpg,_unknown,Tomato___Target_Spot,0.8207632303237915
-data\field_test2\_unknown\fp_6702.jpg,_unknown,Potato___Late_blight,0.3927842974662781
-data\field_test2\_unknown\fp_6730.jpg,_unknown,Potato___Early_blight,0.8505589365959167
-data\field_test2\_unknown\fp_6740.jpg,_unknown,Corn_(maize)___healthy,0.7182778716087341
-data\field_test2\_unknown\fp_6794.jpg,_unknown,Tomato___Late_blight,0.6992440819740295
-data\field_test2\_unknown\fp_6851.jpg,_unknown,Tomato___Late_blight,0.6498552560806274
-data\field_test2\_unknown\fp_6857.jpg,_unknown,Tomato___Late_blight,0.7275679111480713
-data\field_test2\_unknown\fp_6883.jpg,_unknown,Tomato___Target_Spot,0.5887144207954407
-data\field_test2\_unknown\fp_7149.jpg,_unknown,Tomato___Late_blight,0.8296276926994324
-data\field_test2\_unknown\fp_7151.jpg,_unknown,Potato___Early_blight,0.4157346487045288
-data\field_test2\_unknown\fp_7179.jpg,_unknown,Potato___Early_blight,0.7376543283462524
-data\field_test2\_unknown\fp_7354.jpg,_unknown,Tomato___Early_blight,0.5752547383308411
-data\field_test2\_unknown\fp_7389.jpg,_unknown,Tomato___Early_blight,0.9216029644012451
-data\field_test2\_unknown\fp_7390.jpg,_unknown,Potato___Early_blight,0.8952706456184387
-data\field_test2\_unknown\fp_7478.jpg,_unknown,Potato___Early_blight,0.8138484954833984
-data\field_test2\_unknown\fp_7485.jpg,_unknown,Tomato___Bacterial_spot,0.6742071509361267
-data\field_test2\_unknown\fp_749.jpg,_unknown,Potato___Early_blight,0.48306742310523987
-data\field_test2\_unknown\fp_752.jpg,_unknown,Tomato___Early_blight,0.9969573020935059
-data\field_test2\_unknown\fp_7543.jpg,_unknown,Tomato___Early_blight,0.6124874353408813
-data\field_test2\_unknown\fp_7593.jpg,_unknown,Tomato___Early_blight,0.8371334671974182
-data\field_test2\_unknown\fp_7595.jpg,_unknown,Tomato___Late_blight,0.4941701292991638
-data\field_test2\_unknown\fp_7656.jpg,_unknown,Tomato___Early_blight,0.3292290270328522
-data\field_test2\_unknown\fp_7672.jpg,_unknown,Tomato___Early_blight,0.9757702350616455
-data\field_test2\_unknown\fp_7680.jpg,_unknown,Tomato___Early_blight,0.8505695462226868
-data\field_test2\_unknown\fp_7681.jpg,_unknown,Potato___Early_blight,0.7811163067817688
-data\field_test2\_unknown\fp_7684.jpg,_unknown,Tomato___Early_blight,0.7870982885360718
-data\field_test2\_unknown\fp_7697.jpg,_unknown,Potato___Early_blight,0.543383777141571
-data\field_test2\_unknown\fp_7748.jpg,_unknown,Tomato___Late_blight,0.43179234862327576
-data\field_test2\_unknown\fp_7784.jpg,_unknown,Tomato___Late_blight,0.8640844821929932
-data\field_test2\_unknown\fp_7797.jpg,_unknown,Tomato___Early_blight,0.863030195236206
-data\field_test2\_unknown\fp_7808.jpg,_unknown,Tomato___Early_blight,0.3895106911659241
-data\field_test2\_unknown\fp_7816.jpg,_unknown,Tomato___Early_blight,0.9927841424942017
-data\field_test2\_unknown\fp_7817.jpg,_unknown,Tomato___Late_blight,0.6837034225463867
-data\field_test2\_unknown\fp_7828.jpg,_unknown,Tomato___Late_blight,0.5120878219604492
-data\field_test2\_unknown\fp_7916.jpg,_unknown,Tomato___Late_blight,0.44406282901763916
-data\field_test2\_unknown\fp_7994.jpg,_unknown,Tomato___Early_blight,0.522668719291687
-data\field_test2\_unknown\fp_7998.jpg,_unknown,Tomato___Late_blight,0.6456208825111389
-data\field_test2\_unknown\fp_813.jpg,_unknown,Potato___Early_blight,0.7151272892951965
-data\field_test2\_unknown\fp_8204.jpg,_unknown,Tomato___Early_blight,0.9084137678146362
-data\field_test2\_unknown\fp_8205.jpg,_unknown,Tomato___Late_blight,0.35633158683776855
-data\field_test2\_unknown\fp_822.jpg,_unknown,Tomato___Septoria_leaf_spot,0.5127508640289307
-data\field_test2\_unknown\fp_8226.jpg,_unknown,Tomato___Early_blight,0.3422585427761078
-data\field_test2\_unknown\fp_8237.jpg,_unknown,Potato___Late_blight,0.4202646315097809
-data\field_test2\_unknown\fp_8244.jpg,_unknown,Tomato___Target_Spot,0.5146243572235107
-data\field_test2\_unknown\fp_8247.jpg,_unknown,Tomato___healthy,0.3590373694896698
-data\field_test2\_unknown\fp_8294.jpg,_unknown,Tomato___Late_blight,0.9146047830581665
-data\field_test2\_unknown\fp_8324.jpg,_unknown,Tomato___Early_blight,0.9919598698616028
-data\field_test2\_unknown\fp_8347.jpg,_unknown,Tomato___healthy,0.6427438259124756
-data\field_test2\_unknown\fp_8355.jpg,_unknown,Tomato___Late_blight,0.6287343502044678
-data\field_test2\_unknown\fp_836.jpg,_unknown,Tomato___Late_blight,0.3157957196235657
-data\field_test2\_unknown\fp_8371.jpg,_unknown,Tomato___Late_blight,0.9564487338066101
-data\field_test2\_unknown\fp_8372.jpg,_unknown,Tomato___Early_blight,0.98935866355896
-data\field_test2\_unknown\fp_8419.jpg,_unknown,Potato___Early_blight,0.45558884739875793
-data\field_test2\_unknown\fp_8519.jpg,_unknown,Potato___Late_blight,0.35301727056503296
-data\field_test2\_unknown\fp_863.jpg,_unknown,Tomato___Early_blight,0.5043810606002808
-data\field_test2\_unknown\fp_868.jpg,_unknown,Tomato___Target_Spot,0.5285636782646179
-data\field_test2\_unknown\fp_925.jpg,_unknown,Tomato___Late_blight,0.9691799283027649
-data\field_test2\_unknown\fp_980.jpg,_unknown,Tomato___Early_blight,0.8260824084281921
-data\field_test2\_unknown\fp_985.jpg,_unknown,Corn_(maize)___healthy,0.2931787967681885
-data\field_test2\_unknown\fp_989.jpg,_unknown,Tomato___Early_blight,0.7446289658546448
-data\field_test2\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fp_1043.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.6068226099014282
-data\field_test2\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fp_1082.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___healthy,0.9943248629570007
-data\field_test2\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fp_1668.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.9523568749427795
-data\field_test2\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fp_1669.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.9982696771621704
-data\field_test2\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fp_2286.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.7340904474258423
-data\field_test2\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fp_267.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.9040437340736389
-data\field_test2\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fp_2730.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___healthy,0.6970662474632263
-data\field_test2\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fp_2731.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.9990429282188416
-data\field_test2\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fp_2732.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.9587152600288391
-data\field_test2\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fp_2802.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.9681306481361389
-data\field_test2\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fp_3200.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.9289553761482239
-data\field_test2\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fp_3223.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.5049258470535278
-data\field_test2\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fp_3350.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.9728589653968811
-data\field_test2\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fp_3351.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Tomato___Early_blight,0.9510205388069153
-data\field_test2\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fp_3352.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Tomato___Early_blight,0.982658326625824
-data\field_test2\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fp_3353.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Tomato___Early_blight,0.941409707069397
-data\field_test2\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fp_3354.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight,0.845604658126831
-data\field_test2\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fp_3573.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight,0.6807916164398193
-data\field_test2\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fp_3761.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.7357975840568542
-data\field_test2\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fp_3762.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.9166083335876465
-data\field_test2\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fp_3950.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.9485343098640442
-data\field_test2\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fp_3951.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.755239725112915
-data\field_test2\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fp_3952.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.9943554401397705
-data\field_test2\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fp_4769.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.9901288151741028
-data\field_test2\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fp_5052.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.7609530687332153
-data\field_test2\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fp_5053.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Tomato___Late_blight,0.7279366254806519
-data\field_test2\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fp_5054.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___healthy,0.7389107346534729
-data\field_test2\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fp_5055.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.7826876044273376
-data\field_test2\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fp_5434.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.9794137477874756
-data\field_test2\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fp_5435.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.8954417109489441
-data\field_test2\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fp_5436.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight,0.4849061667919159
-data\field_test2\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fp_5437.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.9179710149765015
-data\field_test2\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fp_5689.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.9083475470542908
-data\field_test2\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fp_5854.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.9877429008483887
-data\field_test2\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fp_645.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.9994914531707764
-data\field_test2\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fp_6681.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.8774450421333313
-data\field_test2\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fp_6682.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.6891024112701416
-data\field_test2\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fp_6793.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.27660250663757324
-data\field_test2\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fp_6822.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___healthy,0.9520727396011353
-data\field_test2\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fp_6823.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.6712444424629211
-data\field_test2\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fp_6824.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.7590656280517578
-data\field_test2\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fp_6825.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.5560910701751709
-data\field_test2\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fp_6826.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.9817935228347778
-data\field_test2\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fp_7199.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.9744060635566711
-data\field_test2\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fp_7767.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.44256582856178284
-data\field_test2\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fp_793.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.868201494216919
-data\field_test2\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fp_8027.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.9623612761497498
-data\field_test2\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fp_806.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.9308871626853943
-data\field_test2\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fp_8127.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.9941926598548889
-data\field_test2\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fp_8128.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.9570911526679993
-data\field_test2\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fp_8129.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight,0.71002596616745
-data\field_test2\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fp_8285.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.8641507625579834
-data\field_test2\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fp_837.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.9800165891647339
-data\field_test2\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fp_838.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.9517310857772827
-data\field_test2\Corn_(maize)___Common_rust_\fp_1218.jpg,Corn_(maize)___Common_rust_,Corn_(maize)___Northern_Leaf_Blight,0.7134063243865967
-data\field_test2\Corn_(maize)___Common_rust_\fp_1246.jpg,Corn_(maize)___Common_rust_,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.9874968528747559
-data\field_test2\Corn_(maize)___Common_rust_\fp_1333.jpg,Corn_(maize)___Common_rust_,Corn_(maize)___Northern_Leaf_Blight,0.624970555305481
-data\field_test2\Corn_(maize)___Common_rust_\fp_1355.jpg,Corn_(maize)___Common_rust_,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.9712280035018921
-data\field_test2\Corn_(maize)___Common_rust_\fp_154.jpg,Corn_(maize)___Common_rust_,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.6280599236488342
-data\field_test2\Corn_(maize)___Common_rust_\fp_1641.jpg,Corn_(maize)___Common_rust_,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.9997864365577698
-data\field_test2\Corn_(maize)___Common_rust_\fp_1815.jpg,Corn_(maize)___Common_rust_,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.5453321933746338
-data\field_test2\Corn_(maize)___Common_rust_\fp_1974.jpg,Corn_(maize)___Common_rust_,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.8414604067802429
-data\field_test2\Corn_(maize)___Common_rust_\fp_1992.jpg,Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,0.6545476317405701
-data\field_test2\Corn_(maize)___Common_rust_\fp_2190.jpg,Corn_(maize)___Common_rust_,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.8289583921432495
-data\field_test2\Corn_(maize)___Common_rust_\fp_2240.jpg,Corn_(maize)___Common_rust_,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.9984461665153503
-data\field_test2\Corn_(maize)___Common_rust_\fp_2383.jpg,Corn_(maize)___Common_rust_,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.9972869157791138
-data\field_test2\Corn_(maize)___Common_rust_\fp_2399.jpg,Corn_(maize)___Common_rust_,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.9994631409645081
-data\field_test2\Corn_(maize)___Common_rust_\fp_2665.jpg,Corn_(maize)___Common_rust_,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.9716885685920715
-data\field_test2\Corn_(maize)___Common_rust_\fp_2861.jpg,Corn_(maize)___Common_rust_,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.9201945662498474
-data\field_test2\Corn_(maize)___Common_rust_\fp_3221.jpg,Corn_(maize)___Common_rust_,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.998526930809021
-data\field_test2\Corn_(maize)___Common_rust_\fp_3345.jpg,Corn_(maize)___Common_rust_,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.9500401020050049
-data\field_test2\Corn_(maize)___Common_rust_\fp_3362.jpg,Corn_(maize)___Common_rust_,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.9493798017501831
-data\field_test2\Corn_(maize)___Common_rust_\fp_3363.jpg,Corn_(maize)___Common_rust_,Corn_(maize)___Northern_Leaf_Blight,0.7932787537574768
-data\field_test2\Corn_(maize)___Common_rust_\fp_3569.jpg,Corn_(maize)___Common_rust_,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.9376035928726196
-data\field_test2\Corn_(maize)___Common_rust_\fp_359.jpg,Corn_(maize)___Common_rust_,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.5827985405921936
-data\field_test2\Corn_(maize)___Common_rust_\fp_363.jpg,Corn_(maize)___Common_rust_,Corn_(maize)___healthy,0.9975727200508118
-data\field_test2\Corn_(maize)___Common_rust_\fp_3792.jpg,Corn_(maize)___Common_rust_,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.968122124671936
-data\field_test2\Corn_(maize)___Common_rust_\fp_3886.jpg,Corn_(maize)___Common_rust_,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.8188090920448303
-data\field_test2\Corn_(maize)___Common_rust_\fp_39.jpg,Corn_(maize)___Common_rust_,Corn_(maize)___healthy,0.4791313707828522
-data\field_test2\Corn_(maize)___Common_rust_\fp_4040.jpg,Corn_(maize)___Common_rust_,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.9983539581298828
-data\field_test2\Corn_(maize)___Common_rust_\fp_4088.jpg,Corn_(maize)___Common_rust_,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.4899575412273407
-data\field_test2\Corn_(maize)___Common_rust_\fp_4258.jpg,Corn_(maize)___Common_rust_,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.9315840601921082
-data\field_test2\Corn_(maize)___Common_rust_\fp_5209.jpg,Corn_(maize)___Common_rust_,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.9834553003311157
-data\field_test2\Corn_(maize)___Common_rust_\fp_5328.jpg,Corn_(maize)___Common_rust_,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.4833332300186157
-data\field_test2\Corn_(maize)___Common_rust_\fp_5705.jpg,Corn_(maize)___Common_rust_,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.8378235101699829
-data\field_test2\Corn_(maize)___Common_rust_\fp_6182.jpg,Corn_(maize)___Common_rust_,Corn_(maize)___healthy,0.7207592725753784
-data\field_test2\Corn_(maize)___Common_rust_\fp_6199.jpg,Corn_(maize)___Common_rust_,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.9897318482398987
-data\field_test2\Corn_(maize)___Common_rust_\fp_6441.jpg,Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,0.7695813179016113
-data\field_test2\Corn_(maize)___Common_rust_\fp_6977.jpg,Corn_(maize)___Common_rust_,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.9746246337890625
-data\field_test2\Corn_(maize)___Common_rust_\fp_6985.jpg,Corn_(maize)___Common_rust_,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.8360382318496704
-data\field_test2\Corn_(maize)___Common_rust_\fp_6986.jpg,Corn_(maize)___Common_rust_,Corn_(maize)___Northern_Leaf_Blight,0.6361751556396484
-data\field_test2\Corn_(maize)___Common_rust_\fp_7019.jpg,Corn_(maize)___Common_rust_,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.9473047256469727
-data\field_test2\Corn_(maize)___Common_rust_\fp_7030.jpg,Corn_(maize)___Common_rust_,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.8302127122879028
-data\field_test2\Corn_(maize)___Common_rust_\fp_7031.jpg,Corn_(maize)___Common_rust_,Corn_(maize)___Northern_Leaf_Blight,0.7151889204978943
-data\field_test2\Corn_(maize)___Common_rust_\fp_7047.jpg,Corn_(maize)___Common_rust_,Corn_(maize)___Northern_Leaf_Blight,0.5480705499649048
-data\field_test2\Corn_(maize)___Common_rust_\fp_7120.jpg,Corn_(maize)___Common_rust_,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.9995618462562561
-data\field_test2\Corn_(maize)___Common_rust_\fp_7136.jpg,Corn_(maize)___Common_rust_,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.5751591324806213
-data\field_test2\Corn_(maize)___Common_rust_\fp_7461.jpg,Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,0.8261795043945312
-data\field_test2\Corn_(maize)___Common_rust_\fp_7624.jpg,Corn_(maize)___Common_rust_,Corn_(maize)___healthy,0.5382941961288452
-data\field_test2\Corn_(maize)___Common_rust_\fp_7641.jpg,Corn_(maize)___Common_rust_,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.990024209022522
-data\field_test2\Corn_(maize)___Common_rust_\fp_7988.jpg,Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,0.44927385449409485
-data\field_test2\Corn_(maize)___Common_rust_\fp_812.jpg,Corn_(maize)___Common_rust_,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.9197545051574707
-data\field_test2\Corn_(maize)___Common_rust_\fp_8432.jpg,Corn_(maize)___Common_rust_,Corn_(maize)___Northern_Leaf_Blight,0.968031108379364
-data\field_test2\Corn_(maize)___healthy\fp_1037.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9809240102767944
-data\field_test2\Corn_(maize)___healthy\fp_1089.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9999955892562866
-data\field_test2\Corn_(maize)___healthy\fp_123.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9971285462379456
-data\field_test2\Corn_(maize)___healthy\fp_124.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9999897480010986
-data\field_test2\Corn_(maize)___healthy\fp_125.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.396971732378006
-data\field_test2\Corn_(maize)___healthy\fp_126.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9995971322059631
-data\field_test2\Corn_(maize)___healthy\fp_13.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9846919178962708
-data\field_test2\Corn_(maize)___healthy\fp_14.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9921929240226746
-data\field_test2\Corn_(maize)___healthy\fp_1403.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9531735777854919
-data\field_test2\Corn_(maize)___healthy\fp_1413.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.999452531337738
-data\field_test2\Corn_(maize)___healthy\fp_1434.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9561877250671387
-data\field_test2\Corn_(maize)___healthy\fp_15.jpg,Corn_(maize)___healthy,Potato___Late_blight,0.831765353679657
-data\field_test2\Corn_(maize)___healthy\fp_1512.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9983305335044861
-data\field_test2\Corn_(maize)___healthy\fp_1661.jpg,Corn_(maize)___healthy,Corn_(maize)___Common_rust_,0.8142577409744263
-data\field_test2\Corn_(maize)___healthy\fp_1674.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.35089197754859924
-data\field_test2\Corn_(maize)___healthy\fp_1678.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9999408721923828
-data\field_test2\Corn_(maize)___healthy\fp_1702.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.8523341417312622
-data\field_test2\Corn_(maize)___healthy\fp_1704.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9991152882575989
-data\field_test2\Corn_(maize)___healthy\fp_1705.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9626663327217102
-data\field_test2\Corn_(maize)___healthy\fp_1836.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9999071359634399
-data\field_test2\Corn_(maize)___healthy\fp_1837.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9999982118606567
-data\field_test2\Corn_(maize)___healthy\fp_1838.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9989721775054932
-data\field_test2\Corn_(maize)___healthy\fp_1839.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9999895095825195
-data\field_test2\Corn_(maize)___healthy\fp_1865.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9771840572357178
-data\field_test2\Corn_(maize)___healthy\fp_1866.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9999322891235352
-data\field_test2\Corn_(maize)___healthy\fp_1933.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.82343989610672
-data\field_test2\Corn_(maize)___healthy\fp_1946.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9888001680374146
-data\field_test2\Corn_(maize)___healthy\fp_1950.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9947417974472046
-data\field_test2\Corn_(maize)___healthy\fp_20.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.8787697553634644
-data\field_test2\Corn_(maize)___healthy\fp_2033.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9999939203262329
-data\field_test2\Corn_(maize)___healthy\fp_2034.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9999521970748901
-data\field_test2\Corn_(maize)___healthy\fp_2290.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9978781938552856
-data\field_test2\Corn_(maize)___healthy\fp_2322.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9947353005409241
-data\field_test2\Corn_(maize)___healthy\fp_2413.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.8966438174247742
-data\field_test2\Corn_(maize)___healthy\fp_2414.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9904711246490479
-data\field_test2\Corn_(maize)___healthy\fp_2500.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9971010088920593
-data\field_test2\Corn_(maize)___healthy\fp_2533.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.5117971897125244
-data\field_test2\Corn_(maize)___healthy\fp_2633.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9977839589118958
-data\field_test2\Corn_(maize)___healthy\fp_2664.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.4540468752384186
-data\field_test2\Corn_(maize)___healthy\fp_2697.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9999784231185913
-data\field_test2\Corn_(maize)___healthy\fp_2698.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9998937845230103
-data\field_test2\Corn_(maize)___healthy\fp_2699.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9985835552215576
-data\field_test2\Corn_(maize)___healthy\fp_279.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9999430179595947
-data\field_test2\Corn_(maize)___healthy\fp_28.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9970787763595581
-data\field_test2\Corn_(maize)___healthy\fp_285.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9999445676803589
-data\field_test2\Corn_(maize)___healthy\fp_2877.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.38455697894096375
-data\field_test2\Corn_(maize)___healthy\fp_2889.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9883063435554504
-data\field_test2\Corn_(maize)___healthy\fp_2890.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9751513600349426
-data\field_test2\Corn_(maize)___healthy\fp_2891.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9473200440406799
-data\field_test2\Corn_(maize)___healthy\fp_2900.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9999215602874756
-data\field_test2\Corn_(maize)___healthy\fp_2920.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.998796820640564
-data\field_test2\Corn_(maize)___healthy\fp_294.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9993749260902405
-data\field_test2\Corn_(maize)___healthy\fp_2997.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9998828172683716
-data\field_test2\Corn_(maize)___healthy\fp_3044.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9994624257087708
-data\field_test2\Corn_(maize)___healthy\fp_3191.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9992507100105286
-data\field_test2\Corn_(maize)___healthy\fp_3283.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.987305760383606
-data\field_test2\Corn_(maize)___healthy\fp_3442.jpg,Corn_(maize)___healthy,Potato___Late_blight,0.4116050601005554
-data\field_test2\Corn_(maize)___healthy\fp_347.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9972111582756042
-data\field_test2\Corn_(maize)___healthy\fp_3510.jpg,Corn_(maize)___healthy,Tomato___Early_blight,0.4117237627506256
-data\field_test2\Corn_(maize)___healthy\fp_3514.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9966737031936646
-data\field_test2\Corn_(maize)___healthy\fp_3515.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9324657320976257
-data\field_test2\Corn_(maize)___healthy\fp_3516.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9999949932098389
-data\field_test2\Corn_(maize)___healthy\fp_4070.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9999246597290039
-data\field_test2\Corn_(maize)___healthy\fp_4071.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.8107049465179443
-data\field_test2\Corn_(maize)___healthy\fp_4072.jpg,Corn_(maize)___healthy,Tomato___Early_blight,0.9699406027793884
-data\field_test2\Corn_(maize)___healthy\fp_4081.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9882286787033081
-data\field_test2\Corn_(maize)___healthy\fp_4179.jpg,Corn_(maize)___healthy,Corn_(maize)___Northern_Leaf_Blight,0.6178813576698303
-data\field_test2\Corn_(maize)___healthy\fp_4426.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.4399357736110687
-data\field_test2\Corn_(maize)___healthy\fp_4427.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.887624979019165
-data\field_test2\Corn_(maize)___healthy\fp_4428.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9592148065567017
-data\field_test2\Corn_(maize)___healthy\fp_443.jpg,Corn_(maize)___healthy,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.4452451467514038
-data\field_test2\Corn_(maize)___healthy\fp_4604.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9994718432426453
-data\field_test2\Corn_(maize)___healthy\fp_4605.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.969872772693634
-data\field_test2\Corn_(maize)___healthy\fp_4606.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.999970555305481
-data\field_test2\Corn_(maize)___healthy\fp_4771.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.99739009141922
-data\field_test2\Corn_(maize)___healthy\fp_4772.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9999171495437622
-data\field_test2\Corn_(maize)___healthy\fp_4773.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9972587823867798
-data\field_test2\Corn_(maize)___healthy\fp_4820.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9531436562538147
-data\field_test2\Corn_(maize)___healthy\fp_5057.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9980408549308777
-data\field_test2\Corn_(maize)___healthy\fp_5252.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.997300922870636
-data\field_test2\Corn_(maize)___healthy\fp_5406.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9587047696113586
-data\field_test2\Corn_(maize)___healthy\fp_5487.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.47492876648902893
-data\field_test2\Corn_(maize)___healthy\fp_5520.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9998557567596436
-data\field_test2\Corn_(maize)___healthy\fp_5535.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9999665021896362
-data\field_test2\Corn_(maize)___healthy\fp_5562.jpg,Corn_(maize)___healthy,Corn_(maize)___Northern_Leaf_Blight,0.8933515548706055
-data\field_test2\Corn_(maize)___healthy\fp_5586.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9999961853027344
-data\field_test2\Corn_(maize)___healthy\fp_5587.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9992417097091675
-data\field_test2\Corn_(maize)___healthy\fp_5773.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9999966621398926
-data\field_test2\Corn_(maize)___healthy\fp_5774.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.7896668314933777
-data\field_test2\Corn_(maize)___healthy\fp_5775.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9120304584503174
-data\field_test2\Corn_(maize)___healthy\fp_5843.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9978616833686829
-data\field_test2\Corn_(maize)___healthy\fp_6091.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9999935626983643
-data\field_test2\Corn_(maize)___healthy\fp_614.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9899407029151917
-data\field_test2\Corn_(maize)___healthy\fp_6183.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9980207681655884
-data\field_test2\Corn_(maize)___healthy\fp_6238.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9999217987060547
-data\field_test2\Corn_(maize)___healthy\fp_6239.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.7880703210830688
-data\field_test2\Corn_(maize)___healthy\fp_6256.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9995660185813904
-data\field_test2\Corn_(maize)___healthy\fp_6259.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9993497729301453
-data\field_test2\Corn_(maize)___healthy\fp_6404.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.8929190039634705
-data\field_test2\Corn_(maize)___healthy\fp_6405.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9999996423721313
-data\field_test2\Corn_(maize)___healthy\fp_6406.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9810515642166138
-data\field_test2\Corn_(maize)___healthy\fp_6416.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9267107844352722
-data\field_test2\Corn_(maize)___healthy\fp_6488.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9105805158615112
-data\field_test2\Corn_(maize)___healthy\fp_6504.jpg,Corn_(maize)___healthy,Tomato___Early_blight,0.5002789497375488
-data\field_test2\Corn_(maize)___healthy\fp_6505.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9999374151229858
-data\field_test2\Corn_(maize)___healthy\fp_6506.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9999743700027466
-data\field_test2\Corn_(maize)___healthy\fp_6507.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9999996423721313
-data\field_test2\Corn_(maize)___healthy\fp_6568.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.6423327922821045
-data\field_test2\Corn_(maize)___healthy\fp_6569.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.6507698893547058
-data\field_test2\Corn_(maize)___healthy\fp_670.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9978875517845154
-data\field_test2\Corn_(maize)___healthy\fp_671.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9988597631454468
-data\field_test2\Corn_(maize)___healthy\fp_6710.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9998890161514282
-data\field_test2\Corn_(maize)___healthy\fp_6711.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9973192811012268
-data\field_test2\Corn_(maize)___healthy\fp_6712.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.7299275994300842
-data\field_test2\Corn_(maize)___healthy\fp_6749.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9997498393058777
-data\field_test2\Corn_(maize)___healthy\fp_6855.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.5674702525138855
-data\field_test2\Corn_(maize)___healthy\fp_6856.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9999953508377075
-data\field_test2\Corn_(maize)___healthy\fp_6920.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.998601496219635
-data\field_test2\Corn_(maize)___healthy\fp_6989.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.6751486659049988
-data\field_test2\Corn_(maize)___healthy\fp_6990.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.974748432636261
-data\field_test2\Corn_(maize)___healthy\fp_7012.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9985628724098206
-data\field_test2\Corn_(maize)___healthy\fp_7013.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.7773600220680237
-data\field_test2\Corn_(maize)___healthy\fp_7072.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9179383516311646
-data\field_test2\Corn_(maize)___healthy\fp_727.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9997331500053406
-data\field_test2\Corn_(maize)___healthy\fp_7316.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9988162517547607
-data\field_test2\Corn_(maize)___healthy\fp_7318.jpg,Corn_(maize)___healthy,Tomato___Late_blight,0.6825066208839417
-data\field_test2\Corn_(maize)___healthy\fp_7475.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.95183926820755
-data\field_test2\Corn_(maize)___healthy\fp_7545.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9931055903434753
-data\field_test2\Corn_(maize)___healthy\fp_7721.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.99321049451828
-data\field_test2\Corn_(maize)___healthy\fp_779.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9985817670822144
-data\field_test2\Corn_(maize)___healthy\fp_7792.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.993035078048706
-data\field_test2\Corn_(maize)___healthy\fp_7855.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.8270468711853027
-data\field_test2\Corn_(maize)___healthy\fp_7949.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9957455992698669
-data\field_test2\Corn_(maize)___healthy\fp_7968.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9987911581993103
-data\field_test2\Corn_(maize)___healthy\fp_8030.jpg,Corn_(maize)___healthy,Tomato___Early_blight,0.2441263496875763
-data\field_test2\Corn_(maize)___healthy\fp_8031.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.7512944936752319
-data\field_test2\Corn_(maize)___healthy\fp_8098.jpg,Corn_(maize)___healthy,Corn_(maize)___Common_rust_,0.5817104578018188
-data\field_test2\Corn_(maize)___healthy\fp_8103.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9326592683792114
-data\field_test2\Corn_(maize)___healthy\fp_8105.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9920002222061157
-data\field_test2\Corn_(maize)___healthy\fp_8148.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9986106157302856
-data\field_test2\Corn_(maize)___healthy\fp_8333.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9993376135826111
-data\field_test2\Corn_(maize)___healthy\fp_8374.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9796225428581238
-data\field_test2\Corn_(maize)___healthy\fp_8435.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.999559223651886
-data\field_test2\Corn_(maize)___healthy\fp_8447.jpg,Corn_(maize)___healthy,Tomato___Early_blight,0.8588549494743347
-data\field_test2\Corn_(maize)___healthy\fp_8501.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9902229309082031
-data\field_test2\Corn_(maize)___healthy\fp_8567.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9196168780326843
-data\field_test2\Corn_(maize)___healthy\fp_88.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9979687333106995
-data\field_test2\Corn_(maize)___healthy\fp_898.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9583937525749207
-data\field_test2\Corn_(maize)___healthy\fp_90.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9306012392044067
-data\field_test2\Corn_(maize)___healthy\fp_914.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9958666563034058
-data\field_test2\Corn_(maize)___healthy\fp_954.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9955794215202332
-data\field_test2\Corn_(maize)___healthy\fp_997.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.8768072724342346
-data\field_test2\Tomato___healthy\fp_1178.jpg,Tomato___healthy,Tomato___Early_blight,0.9010215401649475
-data\field_test2\Tomato___healthy\fp_1179.jpg,Tomato___healthy,Corn_(maize)___healthy,0.612991213798523
-data\field_test2\Tomato___healthy\fp_1260.jpg,Tomato___healthy,Tomato___Early_blight,0.853218138217926
-data\field_test2\Tomato___healthy\fp_1264.jpg,Tomato___healthy,Corn_(maize)___healthy,0.7087050080299377
-data\field_test2\Tomato___healthy\fp_1275.jpg,Tomato___healthy,Tomato___Late_blight,0.8065240383148193
-data\field_test2\Tomato___healthy\fp_1278.jpg,Tomato___healthy,Tomato___Late_blight,0.998440682888031
-data\field_test2\Tomato___healthy\fp_1280.jpg,Tomato___healthy,Corn_(maize)___healthy,0.49174925684928894
-data\field_test2\Tomato___healthy\fp_1296.jpg,Tomato___healthy,Tomato___Late_blight,0.8644129037857056
-data\field_test2\Tomato___healthy\fp_1385.jpg,Tomato___healthy,Tomato___Septoria_leaf_spot,0.5997574329376221
-data\field_test2\Tomato___healthy\fp_1386.jpg,Tomato___healthy,Tomato___Early_blight,0.4657611548900604
-data\field_test2\Tomato___healthy\fp_1387.jpg,Tomato___healthy,Potato___Early_blight,0.3289273679256439
-data\field_test2\Tomato___healthy\fp_1398.jpg,Tomato___healthy,Tomato___Late_blight,0.969433605670929
-data\field_test2\Tomato___healthy\fp_1399.jpg,Tomato___healthy,Tomato___Late_blight,0.9889441728591919
-data\field_test2\Tomato___healthy\fp_1400.jpg,Tomato___healthy,Tomato___Late_blight,0.7481658458709717
-data\field_test2\Tomato___healthy\fp_1401.jpg,Tomato___healthy,Tomato___healthy,0.5323370099067688
-data\field_test2\Tomato___healthy\fp_1402.jpg,Tomato___healthy,Tomato___Early_blight,0.6087804436683655
-data\field_test2\Tomato___healthy\fp_1419.jpg,Tomato___healthy,Tomato___healthy,0.305807501077652
-data\field_test2\Tomato___healthy\fp_1420.jpg,Tomato___healthy,Corn_(maize)___healthy,0.59525465965271
-data\field_test2\Tomato___healthy\fp_1477.jpg,Tomato___healthy,Corn_(maize)___healthy,0.8166736364364624
-data\field_test2\Tomato___healthy\fp_1478.jpg,Tomato___healthy,Tomato___Early_blight,0.5970027446746826
-data\field_test2\Tomato___healthy\fp_1479.jpg,Tomato___healthy,Tomato___Late_blight,0.808910071849823
-data\field_test2\Tomato___healthy\fp_1501.jpg,Tomato___healthy,Corn_(maize)___healthy,0.9275943636894226
-data\field_test2\Tomato___healthy\fp_1502.jpg,Tomato___healthy,Tomato___Late_blight,0.9346122145652771
-data\field_test2\Tomato___healthy\fp_1528.jpg,Tomato___healthy,Tomato___healthy,0.6974220871925354
-data\field_test2\Tomato___healthy\fp_1529.jpg,Tomato___healthy,Tomato___healthy,0.46371588110923767
-data\field_test2\Tomato___healthy\fp_1615.jpg,Tomato___healthy,Tomato___healthy,0.6382076740264893
-data\field_test2\Tomato___healthy\fp_1616.jpg,Tomato___healthy,Tomato___Early_blight,0.8849683403968811
-data\field_test2\Tomato___healthy\fp_1618.jpg,Tomato___healthy,Tomato___healthy,0.496998131275177
-data\field_test2\Tomato___healthy\fp_1701.jpg,Tomato___healthy,Tomato___healthy,0.5282281041145325
-data\field_test2\Tomato___healthy\fp_1766.jpg,Tomato___healthy,Tomato___Late_blight,0.7814849615097046
-data\field_test2\Tomato___healthy\fp_1774.jpg,Tomato___healthy,Tomato___Tomato_Yellow_Leaf_Curl_Virus,0.7835954427719116
-data\field_test2\Tomato___healthy\fp_1796.jpg,Tomato___healthy,Tomato___Early_blight,0.4906286597251892
-data\field_test2\Tomato___healthy\fp_1797.jpg,Tomato___healthy,Tomato___Early_blight,0.48317867517471313
-data\field_test2\Tomato___healthy\fp_1798.jpg,Tomato___healthy,Tomato___Late_blight,0.984748899936676
-data\field_test2\Tomato___healthy\fp_1853.jpg,Tomato___healthy,Tomato___Late_blight,0.8308011889457703
-data\field_test2\Tomato___healthy\fp_2155.jpg,Tomato___healthy,Tomato___Late_blight,0.6225008368492126
-data\field_test2\Tomato___healthy\fp_224.jpg,Tomato___healthy,Tomato___Late_blight,0.80140221118927
-data\field_test2\Tomato___healthy\fp_225.jpg,Tomato___healthy,Tomato___Late_blight,0.959571123123169
-data\field_test2\Tomato___healthy\fp_2258.jpg,Tomato___healthy,Tomato___Late_blight,0.9248146414756775
-data\field_test2\Tomato___healthy\fp_2259.jpg,Tomato___healthy,Potato___healthy,0.48980677127838135
-data\field_test2\Tomato___healthy\fp_2316.jpg,Tomato___healthy,Tomato___Late_blight,0.9977952241897583
-data\field_test2\Tomato___healthy\fp_2317.jpg,Tomato___healthy,Tomato___Leaf_Mold,0.6921776533126831
-data\field_test2\Tomato___healthy\fp_2387.jpg,Tomato___healthy,Tomato___healthy,0.5508626103401184
-data\field_test2\Tomato___healthy\fp_2404.jpg,Tomato___healthy,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.47097915410995483
-data\field_test2\Tomato___healthy\fp_2405.jpg,Tomato___healthy,Tomato___Late_blight,0.7093287110328674
-data\field_test2\Tomato___healthy\fp_2406.jpg,Tomato___healthy,Tomato___Leaf_Mold,0.7686507701873779
-data\field_test2\Tomato___healthy\fp_2423.jpg,Tomato___healthy,Tomato___Late_blight,0.9829193353652954
-data\field_test2\Tomato___healthy\fp_2424.jpg,Tomato___healthy,Tomato___Late_blight,0.5413623452186584
-data\field_test2\Tomato___healthy\fp_2517.jpg,Tomato___healthy,Tomato___Leaf_Mold,0.603478193283081
-data\field_test2\Tomato___healthy\fp_2518.jpg,Tomato___healthy,Tomato___Early_blight,0.5885462760925293
-data\field_test2\Tomato___healthy\fp_2587.jpg,Tomato___healthy,Corn_(maize)___healthy,0.7636241912841797
-data\field_test2\Tomato___healthy\fp_2648.jpg,Tomato___healthy,Tomato___Late_blight,0.6757955551147461
-data\field_test2\Tomato___healthy\fp_2649.jpg,Tomato___healthy,Tomato___Late_blight,0.7683220505714417
-data\field_test2\Tomato___healthy\fp_2650.jpg,Tomato___healthy,Tomato___Late_blight,0.8031330108642578
-data\field_test2\Tomato___healthy\fp_2678.jpg,Tomato___healthy,Tomato___Late_blight,0.7901384234428406
-data\field_test2\Tomato___healthy\fp_2703.jpg,Tomato___healthy,Corn_(maize)___healthy,0.9907726049423218
-data\field_test2\Tomato___healthy\fp_2704.jpg,Tomato___healthy,Tomato___healthy,0.792863667011261
-data\field_test2\Tomato___healthy\fp_2746.jpg,Tomato___healthy,Tomato___Late_blight,0.8347744941711426
-data\field_test2\Tomato___healthy\fp_2747.jpg,Tomato___healthy,Tomato___healthy,0.5608582496643066
-data\field_test2\Tomato___healthy\fp_2865.jpg,Tomato___healthy,Tomato___healthy,0.8736367225646973
-data\field_test2\Tomato___healthy\fp_2866.jpg,Tomato___healthy,Tomato___healthy,0.79365074634552
-data\field_test2\Tomato___healthy\fp_2867.jpg,Tomato___healthy,Tomato___Early_blight,0.9886645078659058
-data\field_test2\Tomato___healthy\fp_287.jpg,Tomato___healthy,Corn_(maize)___healthy,0.4139641225337982
-data\field_test2\Tomato___healthy\fp_2870.jpg,Tomato___healthy,Corn_(maize)___healthy,0.39140066504478455
-data\field_test2\Tomato___healthy\fp_2871.jpg,Tomato___healthy,Tomato___healthy,0.4382356107234955
-data\field_test2\Tomato___healthy\fp_2874.jpg,Tomato___healthy,Tomato___Late_blight,0.8203249573707581
-data\field_test2\Tomato___healthy\fp_288.jpg,Tomato___healthy,Tomato___Late_blight,0.9701990485191345
-data\field_test2\Tomato___healthy\fp_2922.jpg,Tomato___healthy,Tomato___healthy,0.6847145557403564
-data\field_test2\Tomato___healthy\fp_2923.jpg,Tomato___healthy,Corn_(maize)___healthy,0.6666989326477051
-data\field_test2\Tomato___healthy\fp_2943.jpg,Tomato___healthy,Tomato___Early_blight,0.9501972198486328
-data\field_test2\Tomato___healthy\fp_2944.jpg,Tomato___healthy,Corn_(maize)___healthy,0.8212569355964661
-data\field_test2\Tomato___healthy\fp_2945.jpg,Tomato___healthy,Corn_(maize)___healthy,0.6829220652580261
-data\field_test2\Tomato___healthy\fp_2946.jpg,Tomato___healthy,Tomato___Late_blight,0.45734378695487976
-data\field_test2\Tomato___healthy\fp_2988.jpg,Tomato___healthy,Tomato___Early_blight,0.8722724914550781
-data\field_test2\Tomato___healthy\fp_3052.jpg,Tomato___healthy,Tomato___healthy,0.6651870012283325
-data\field_test2\Tomato___healthy\fp_3053.jpg,Tomato___healthy,Corn_(maize)___healthy,0.839973509311676
-data\field_test2\Tomato___healthy\fp_3058.jpg,Tomato___healthy,Tomato___Early_blight,0.8668699860572815
-data\field_test2\Tomato___healthy\fp_3059.jpg,Tomato___healthy,Tomato___healthy,0.912279486656189
-data\field_test2\Tomato___healthy\fp_3060.jpg,Tomato___healthy,Tomato___Early_blight,0.31943684816360474
-data\field_test2\Tomato___healthy\fp_3141.jpg,Tomato___healthy,Tomato___Late_blight,0.999970555305481
-data\field_test2\Tomato___healthy\fp_3270.jpg,Tomato___healthy,Tomato___Early_blight,0.8936250805854797
-data\field_test2\Tomato___healthy\fp_329.jpg,Tomato___healthy,Tomato___Late_blight,0.8691296577453613
-data\field_test2\Tomato___healthy\fp_3340.jpg,Tomato___healthy,Tomato___healthy,0.6384844779968262
-data\field_test2\Tomato___healthy\fp_3341.jpg,Tomato___healthy,Tomato___Late_blight,0.9344292879104614
-data\field_test2\Tomato___healthy\fp_3342.jpg,Tomato___healthy,Tomato___healthy,0.7411521673202515
-data\field_test2\Tomato___healthy\fp_3521.jpg,Tomato___healthy,Tomato___Leaf_Mold,0.4200589060783386
-data\field_test2\Tomato___healthy\fp_3631.jpg,Tomato___healthy,Tomato___Early_blight,0.5542219281196594
-data\field_test2\Tomato___healthy\fp_3632.jpg,Tomato___healthy,Corn_(maize)___healthy,0.9179173707962036
-data\field_test2\Tomato___healthy\fp_3633.jpg,Tomato___healthy,Corn_(maize)___healthy,0.8221161961555481
-data\field_test2\Tomato___healthy\fp_3777.jpg,Tomato___healthy,Tomato___Late_blight,0.9983249306678772
-data\field_test2\Tomato___healthy\fp_3778.jpg,Tomato___healthy,Tomato___Early_blight,0.9863990545272827
-data\field_test2\Tomato___healthy\fp_3819.jpg,Tomato___healthy,Tomato___healthy,0.39993757009506226
-data\field_test2\Tomato___healthy\fp_3822.jpg,Tomato___healthy,Tomato___healthy,0.6658450961112976
-data\field_test2\Tomato___healthy\fp_3823.jpg,Tomato___healthy,Corn_(maize)___Northern_Leaf_Blight,0.46285712718963623
-data\field_test2\Tomato___healthy\fp_3824.jpg,Tomato___healthy,Tomato___Late_blight,0.9714520573616028
-data\field_test2\Tomato___healthy\fp_384.jpg,Tomato___healthy,Tomato___Early_blight,0.7469127774238586
-data\field_test2\Tomato___healthy\fp_385.jpg,Tomato___healthy,Tomato___Late_blight,0.9699346423149109
-data\field_test2\Tomato___healthy\fp_3891.jpg,Tomato___healthy,Corn_(maize)___healthy,0.3659783601760864
-data\field_test2\Tomato___healthy\fp_3898.jpg,Tomato___healthy,Tomato___Late_blight,0.9996418952941895
-data\field_test2\Tomato___healthy\fp_390.jpg,Tomato___healthy,Corn_(maize)___healthy,0.5933851003646851
-data\field_test2\Tomato___healthy\fp_3906.jpg,Tomato___healthy,Tomato___Late_blight,0.7323741912841797
-data\field_test2\Tomato___healthy\fp_3907.jpg,Tomato___healthy,Tomato___Late_blight,0.9163947701454163
-data\field_test2\Tomato___healthy\fp_4112.jpg,Tomato___healthy,Tomato___Late_blight,0.7866222858428955
-data\field_test2\Tomato___healthy\fp_4113.jpg,Tomato___healthy,Tomato___Late_blight,0.46424102783203125
-data\field_test2\Tomato___healthy\fp_4114.jpg,Tomato___healthy,Tomato___Early_blight,0.5368369817733765
-data\field_test2\Tomato___healthy\fp_414.jpg,Tomato___healthy,Tomato___Late_blight,0.859221339225769
-data\field_test2\Tomato___healthy\fp_415.jpg,Tomato___healthy,Tomato___Late_blight,0.7050461769104004
-data\field_test2\Tomato___healthy\fp_4204.jpg,Tomato___healthy,Tomato___Early_blight,0.28737956285476685
-data\field_test2\Tomato___healthy\fp_4214.jpg,Tomato___healthy,Tomato___Late_blight,0.9291578531265259
-data\field_test2\Tomato___healthy\fp_4280.jpg,Tomato___healthy,Tomato___Leaf_Mold,0.7600300908088684
-data\field_test2\Tomato___healthy\fp_4281.jpg,Tomato___healthy,Tomato___Early_blight,0.9612868428230286
-data\field_test2\Tomato___healthy\fp_4282.jpg,Tomato___healthy,Tomato___Late_blight,0.8874433636665344
-data\field_test2\Tomato___healthy\fp_4283.jpg,Tomato___healthy,Tomato___Late_blight,0.8377600908279419
-data\field_test2\Tomato___healthy\fp_4284.jpg,Tomato___healthy,Tomato___Late_blight,0.6159432530403137
-data\field_test2\Tomato___healthy\fp_4370.jpg,Tomato___healthy,Tomato___Late_blight,0.9571945667266846
-data\field_test2\Tomato___healthy\fp_4371.jpg,Tomato___healthy,Tomato___healthy,0.7370427250862122
-data\field_test2\Tomato___healthy\fp_4394.jpg,Tomato___healthy,Tomato___healthy,0.9340959787368774
-data\field_test2\Tomato___healthy\fp_441.jpg,Tomato___healthy,Tomato___healthy,0.7382180690765381
-data\field_test2\Tomato___healthy\fp_442.jpg,Tomato___healthy,Corn_(maize)___healthy,0.8137497305870056
-data\field_test2\Tomato___healthy\fp_4574.jpg,Tomato___healthy,Tomato___healthy,0.6444373726844788
-data\field_test2\Tomato___healthy\fp_4575.jpg,Tomato___healthy,Corn_(maize)___healthy,0.9085204005241394
-data\field_test2\Tomato___healthy\fp_4864.jpg,Tomato___healthy,Corn_(maize)___healthy,0.5701237916946411
-data\field_test2\Tomato___healthy\fp_4865.jpg,Tomato___healthy,Tomato___Late_blight,0.5190024971961975
-data\field_test2\Tomato___healthy\fp_4866.jpg,Tomato___healthy,Tomato___Early_blight,0.5317547917366028
-data\field_test2\Tomato___healthy\fp_4873.jpg,Tomato___healthy,Tomato___Septoria_leaf_spot,0.45363685488700867
-data\field_test2\Tomato___healthy\fp_4874.jpg,Tomato___healthy,Tomato___Leaf_Mold,0.39087483286857605
-data\field_test2\Tomato___healthy\fp_4875.jpg,Tomato___healthy,Tomato___Tomato_Yellow_Leaf_Curl_Virus,0.6136767268180847
-data\field_test2\Tomato___healthy\fp_501.jpg,Tomato___healthy,Potato___Late_blight,0.34748730063438416
-data\field_test2\Tomato___healthy\fp_5127.jpg,Tomato___healthy,Tomato___Late_blight,0.8291711807250977
-data\field_test2\Tomato___healthy\fp_5128.jpg,Tomato___healthy,Tomato___Late_blight,0.9915470480918884
-data\field_test2\Tomato___healthy\fp_5129.jpg,Tomato___healthy,Tomato___Late_blight,0.48349788784980774
-data\field_test2\Tomato___healthy\fp_5130.jpg,Tomato___healthy,Tomato___Late_blight,0.748177170753479
-data\field_test2\Tomato___healthy\fp_5131.jpg,Tomato___healthy,Tomato___Late_blight,0.9227996468544006
-data\field_test2\Tomato___healthy\fp_5132.jpg,Tomato___healthy,Tomato___Early_blight,0.44651728868484497
-data\field_test2\Tomato___healthy\fp_5142.jpg,Tomato___healthy,Tomato___Late_blight,0.9996672868728638
-data\field_test2\Tomato___healthy\fp_5143.jpg,Tomato___healthy,Corn_(maize)___healthy,0.47954851388931274
-data\field_test2\Tomato___healthy\fp_5185.jpg,Tomato___healthy,Tomato___Early_blight,0.4546481668949127
-data\field_test2\Tomato___healthy\fp_5186.jpg,Tomato___healthy,Tomato___Early_blight,0.9218424558639526
-data\field_test2\Tomato___healthy\fp_5239.jpg,Tomato___healthy,Tomato___healthy,0.7288841009140015
-data\field_test2\Tomato___healthy\fp_5240.jpg,Tomato___healthy,Tomato___Early_blight,0.788861095905304
-data\field_test2\Tomato___healthy\fp_5291.jpg,Tomato___healthy,Tomato___Late_blight,0.8345322608947754
-data\field_test2\Tomato___healthy\fp_5307.jpg,Tomato___healthy,Tomato___Late_blight,0.8080659508705139
-data\field_test2\Tomato___healthy\fp_531.jpg,Tomato___healthy,Tomato___Early_blight,0.28446701169013977
-data\field_test2\Tomato___healthy\fp_532.jpg,Tomato___healthy,Tomato___Late_blight,0.6711305379867554
-data\field_test2\Tomato___healthy\fp_5409.jpg,Tomato___healthy,Tomato___Late_blight,0.7104995846748352
-data\field_test2\Tomato___healthy\fp_5410.jpg,Tomato___healthy,Tomato___Late_blight,0.5821669101715088
-data\field_test2\Tomato___healthy\fp_550.jpg,Tomato___healthy,Tomato___Late_blight,0.8103422522544861
-data\field_test2\Tomato___healthy\fp_551.jpg,Tomato___healthy,Corn_(maize)___healthy,0.8278957605361938
-data\field_test2\Tomato___healthy\fp_5626.jpg,Tomato___healthy,Corn_(maize)___healthy,0.7056326866149902
-data\field_test2\Tomato___healthy\fp_5644.jpg,Tomato___healthy,Tomato___Tomato_Yellow_Leaf_Curl_Virus,0.35098692774772644
-data\field_test2\Tomato___healthy\fp_5757.jpg,Tomato___healthy,Tomato___Late_blight,0.34437718987464905
-data\field_test2\Tomato___healthy\fp_5817.jpg,Tomato___healthy,Tomato___Late_blight,0.9574812650680542
-data\field_test2\Tomato___healthy\fp_5818.jpg,Tomato___healthy,Tomato___Early_blight,0.5170269012451172
-data\field_test2\Tomato___healthy\fp_5890.jpg,Tomato___healthy,Corn_(maize)___healthy,0.8974011540412903
-data\field_test2\Tomato___healthy\fp_5891.jpg,Tomato___healthy,Corn_(maize)___Common_rust_,0.6484723091125488
-data\field_test2\Tomato___healthy\fp_5950.jpg,Tomato___healthy,Corn_(maize)___healthy,0.8290334939956665
-data\field_test2\Tomato___healthy\fp_5951.jpg,Tomato___healthy,Tomato___Early_blight,0.48947975039482117
-data\field_test2\Tomato___healthy\fp_5952.jpg,Tomato___healthy,Tomato___Early_blight,0.9857137203216553
-data\field_test2\Tomato___healthy\fp_5966.jpg,Tomato___healthy,Tomato___Early_blight,0.4784403145313263
-data\field_test2\Tomato___healthy\fp_5967.jpg,Tomato___healthy,Tomato___Late_blight,0.5880250334739685
-data\field_test2\Tomato___healthy\fp_5990.jpg,Tomato___healthy,Tomato___Late_blight,0.9979027509689331
-data\field_test2\Tomato___healthy\fp_5991.jpg,Tomato___healthy,Tomato___Septoria_leaf_spot,0.7402891516685486
-data\field_test2\Tomato___healthy\fp_5992.jpg,Tomato___healthy,Tomato___Late_blight,0.998313307762146
-data\field_test2\Tomato___healthy\fp_5993.jpg,Tomato___healthy,Tomato___Late_blight,0.882786750793457
-data\field_test2\Tomato___healthy\fp_5994.jpg,Tomato___healthy,Tomato___Leaf_Mold,0.45161816477775574
-data\field_test2\Tomato___healthy\fp_5995.jpg,Tomato___healthy,Tomato___Late_blight,0.9848600029945374
-data\field_test2\Tomato___healthy\fp_5996.jpg,Tomato___healthy,Tomato___Late_blight,0.8448011875152588
-data\field_test2\Tomato___healthy\fp_5999.jpg,Tomato___healthy,Tomato___Early_blight,0.8602369427680969
-data\field_test2\Tomato___healthy\fp_6000.jpg,Tomato___healthy,Tomato___Late_blight,0.7049095034599304
-data\field_test2\Tomato___healthy\fp_6036.jpg,Tomato___healthy,Tomato___healthy,0.5119976997375488
-data\field_test2\Tomato___healthy\fp_604.jpg,Tomato___healthy,Corn_(maize)___healthy,0.7969458103179932
-data\field_test2\Tomato___healthy\fp_605.jpg,Tomato___healthy,Tomato___healthy,0.6894936561584473
-data\field_test2\Tomato___healthy\fp_606.jpg,Tomato___healthy,Tomato___Early_blight,0.6435570120811462
-data\field_test2\Tomato___healthy\fp_607.jpg,Tomato___healthy,Tomato___healthy,0.9332268238067627
-data\field_test2\Tomato___healthy\fp_6072.jpg,Tomato___healthy,Corn_(maize)___healthy,0.4810383915901184
-data\field_test2\Tomato___healthy\fp_6073.jpg,Tomato___healthy,Corn_(maize)___healthy,0.9344696402549744
-data\field_test2\Tomato___healthy\fp_6076.jpg,Tomato___healthy,Tomato___Early_blight,0.36046573519706726
-data\field_test2\Tomato___healthy\fp_6094.jpg,Tomato___healthy,Corn_(maize)___healthy,0.8603100776672363
-data\field_test2\Tomato___healthy\fp_6095.jpg,Tomato___healthy,Tomato___Tomato_Yellow_Leaf_Curl_Virus,0.7347433567047119
-data\field_test2\Tomato___healthy\fp_6181.jpg,Tomato___healthy,Tomato___Late_blight,0.9777687788009644
-data\field_test2\Tomato___healthy\fp_6192.jpg,Tomato___healthy,Tomato___Late_blight,0.991818904876709
-data\field_test2\Tomato___healthy\fp_6193.jpg,Tomato___healthy,Tomato___Late_blight,0.9965280890464783
-data\field_test2\Tomato___healthy\fp_6204.jpg,Tomato___healthy,Tomato___healthy,0.3821287155151367
-data\field_test2\Tomato___healthy\fp_6205.jpg,Tomato___healthy,Tomato___Early_blight,0.6040955781936646
-data\field_test2\Tomato___healthy\fp_6206.jpg,Tomato___healthy,Tomato___Leaf_Mold,0.8103773593902588
-data\field_test2\Tomato___healthy\fp_6307.jpg,Tomato___healthy,Tomato___Late_blight,0.9848912358283997
-data\field_test2\Tomato___healthy\fp_6308.jpg,Tomato___healthy,Tomato___Late_blight,0.8340258002281189
-data\field_test2\Tomato___healthy\fp_6309.jpg,Tomato___healthy,Tomato___Late_blight,0.7626230716705322
-data\field_test2\Tomato___healthy\fp_6347.jpg,Tomato___healthy,Potato___Early_blight,0.7583708167076111
-data\field_test2\Tomato___healthy\fp_6348.jpg,Tomato___healthy,Tomato___Late_blight,0.990790605545044
-data\field_test2\Tomato___healthy\fp_6353.jpg,Tomato___healthy,Tomato___Early_blight,0.4444989860057831
-data\field_test2\Tomato___healthy\fp_6354.jpg,Tomato___healthy,Tomato___Late_blight,0.9512121677398682
-data\field_test2\Tomato___healthy\fp_6355.jpg,Tomato___healthy,Tomato___Late_blight,0.48292094469070435
-data\field_test2\Tomato___healthy\fp_6370.jpg,Tomato___healthy,Tomato___healthy,0.3145869970321655
-data\field_test2\Tomato___healthy\fp_6511.jpg,Tomato___healthy,Tomato___Early_blight,0.7643398642539978
-data\field_test2\Tomato___healthy\fp_662.jpg,Tomato___healthy,Tomato___Late_blight,0.8047531843185425
-data\field_test2\Tomato___healthy\fp_6620.jpg,Tomato___healthy,Tomato___healthy,0.7386358380317688
-data\field_test2\Tomato___healthy\fp_6621.jpg,Tomato___healthy,Tomato___Leaf_Mold,0.7519699335098267
-data\field_test2\Tomato___healthy\fp_663.jpg,Tomato___healthy,Tomato___Late_blight,0.8838384747505188
-data\field_test2\Tomato___healthy\fp_664.jpg,Tomato___healthy,Tomato___Late_blight,0.9825238585472107
-data\field_test2\Tomato___healthy\fp_6677.jpg,Tomato___healthy,Corn_(maize)___healthy,0.9252108931541443
-data\field_test2\Tomato___healthy\fp_6678.jpg,Tomato___healthy,Corn_(maize)___healthy,0.4811573028564453
-data\field_test2\Tomato___healthy\fp_6696.jpg,Tomato___healthy,Tomato___Late_blight,0.618582010269165
-data\field_test2\Tomato___healthy\fp_6697.jpg,Tomato___healthy,Tomato___Early_blight,0.3685109317302704
-data\field_test2\Tomato___healthy\fp_6698.jpg,Tomato___healthy,Tomato___healthy,0.6457064747810364
-data\field_test2\Tomato___healthy\fp_6734.jpg,Tomato___healthy,Tomato___Early_blight,0.7726887464523315
-data\field_test2\Tomato___healthy\fp_6735.jpg,Tomato___healthy,Tomato___Early_blight,0.9952804446220398
-data\field_test2\Tomato___healthy\fp_6736.jpg,Tomato___healthy,Tomato___Early_blight,0.7185192704200745
-data\field_test2\Tomato___healthy\fp_6737.jpg,Tomato___healthy,Tomato___Late_blight,0.5641387104988098
-data\field_test2\Tomato___healthy\fp_6759.jpg,Tomato___healthy,Tomato___healthy,0.4425238072872162
-data\field_test2\Tomato___healthy\fp_6760.jpg,Tomato___healthy,Corn_(maize)___Northern_Leaf_Blight,0.4666879177093506
-data\field_test2\Tomato___healthy\fp_6761.jpg,Tomato___healthy,Tomato___Early_blight,0.5342129468917847
-data\field_test2\Tomato___healthy\fp_6762.jpg,Tomato___healthy,Tomato___Late_blight,0.42533209919929504
-data\field_test2\Tomato___healthy\fp_6763.jpg,Tomato___healthy,Tomato___Early_blight,0.4199950397014618
-data\field_test2\Tomato___healthy\fp_6834.jpg,Tomato___healthy,Corn_(maize)___healthy,0.422313928604126
-data\field_test2\Tomato___healthy\fp_6836.jpg,Tomato___healthy,Tomato___Late_blight,0.9418445229530334
-data\field_test2\Tomato___healthy\fp_6837.jpg,Tomato___healthy,Tomato___Early_blight,0.6919757723808289
-data\field_test2\Tomato___healthy\fp_6878.jpg,Tomato___healthy,Tomato___Late_blight,0.5840640068054199
-data\field_test2\Tomato___healthy\fp_6879.jpg,Tomato___healthy,Tomato___Late_blight,0.6697643399238586
-data\field_test2\Tomato___healthy\fp_6880.jpg,Tomato___healthy,Tomato___healthy,0.4046042859554291
-data\field_test2\Tomato___healthy\fp_7010.jpg,Tomato___healthy,Potato___healthy,0.3943767547607422
-data\field_test2\Tomato___healthy\fp_7022.jpg,Tomato___healthy,Tomato___Early_blight,0.6077234745025635
-data\field_test2\Tomato___healthy\fp_7027.jpg,Tomato___healthy,Tomato___Late_blight,0.9194535613059998
-data\field_test2\Tomato___healthy\fp_7028.jpg,Tomato___healthy,Tomato___Leaf_Mold,0.9257794618606567
-data\field_test2\Tomato___healthy\fp_7029.jpg,Tomato___healthy,Tomato___Early_blight,0.9958937168121338
-data\field_test2\Tomato___healthy\fp_7073.jpg,Tomato___healthy,Tomato___Early_blight,0.7530456781387329
-data\field_test2\Tomato___healthy\fp_7074.jpg,Tomato___healthy,Tomato___Late_blight,0.9021504521369934
-data\field_test2\Tomato___healthy\fp_7079.jpg,Tomato___healthy,Tomato___healthy,0.6615163683891296
-data\field_test2\Tomato___healthy\fp_7080.jpg,Tomato___healthy,Tomato___Early_blight,0.7375183701515198
-data\field_test2\Tomato___healthy\fp_7087.jpg,Tomato___healthy,Tomato___Late_blight,0.5199112296104431
-data\field_test2\Tomato___healthy\fp_709.jpg,Tomato___healthy,Tomato___Late_blight,0.9986109733581543
-data\field_test2\Tomato___healthy\fp_7090.jpg,Tomato___healthy,Tomato___Early_blight,0.9675987362861633
-data\field_test2\Tomato___healthy\fp_710.jpg,Tomato___healthy,Corn_(maize)___healthy,0.9257372617721558
-data\field_test2\Tomato___healthy\fp_711.jpg,Tomato___healthy,Tomato___Late_blight,0.9994951486587524
-data\field_test2\Tomato___healthy\fp_712.jpg,Tomato___healthy,Tomato___Early_blight,0.8386372327804565
-data\field_test2\Tomato___healthy\fp_713.jpg,Tomato___healthy,Tomato___Early_blight,0.725146472454071
-data\field_test2\Tomato___healthy\fp_7135.jpg,Tomato___healthy,Tomato___Late_blight,0.9149210453033447
-data\field_test2\Tomato___healthy\fp_714.jpg,Tomato___healthy,Tomato___Late_blight,0.9382298588752747
-data\field_test2\Tomato___healthy\fp_7191.jpg,Tomato___healthy,Tomato___Early_blight,0.9252811074256897
-data\field_test2\Tomato___healthy\fp_7192.jpg,Tomato___healthy,Tomato___Late_blight,0.9467370510101318
-data\field_test2\Tomato___healthy\fp_7193.jpg,Tomato___healthy,Corn_(maize)___healthy,0.8021264672279358
-data\field_test2\Tomato___healthy\fp_721.jpg,Tomato___healthy,Tomato___Late_blight,0.4989291727542877
-data\field_test2\Tomato___healthy\fp_724.jpg,Tomato___healthy,Tomato___healthy,0.32373911142349243
-data\field_test2\Tomato___healthy\fp_7279.jpg,Tomato___healthy,Tomato___Late_blight,0.740591287612915
-data\field_test2\Tomato___healthy\fp_7280.jpg,Tomato___healthy,Tomato___Late_blight,0.6743449568748474
-data\field_test2\Tomato___healthy\fp_7281.jpg,Tomato___healthy,Tomato___Late_blight,0.9634128212928772
-data\field_test2\Tomato___healthy\fp_7458.jpg,Tomato___healthy,Tomato___Early_blight,0.4339953362941742
-data\field_test2\Tomato___healthy\fp_7459.jpg,Tomato___healthy,Tomato___Early_blight,0.9758135080337524
-data\field_test2\Tomato___healthy\fp_7531.jpg,Tomato___healthy,Potato___Early_blight,0.47645917534828186
-data\field_test2\Tomato___healthy\fp_762.jpg,Tomato___healthy,Corn_(maize)___healthy,0.9104230403900146
-data\field_test2\Tomato___healthy\fp_763.jpg,Tomato___healthy,Tomato___Late_blight,0.976001501083374
-data\field_test2\Tomato___healthy\fp_7630.jpg,Tomato___healthy,Tomato___Early_blight,0.2946931719779968
-data\field_test2\Tomato___healthy\fp_7661.jpg,Tomato___healthy,Tomato___healthy,0.5662898421287537
-data\field_test2\Tomato___healthy\fp_7717.jpg,Tomato___healthy,Tomato___Early_blight,0.9892134070396423
-data\field_test2\Tomato___healthy\fp_7718.jpg,Tomato___healthy,Tomato___Late_blight,0.7903892993927002
-data\field_test2\Tomato___healthy\fp_7719.jpg,Tomato___healthy,Tomato___Late_blight,0.8867780566215515
-data\field_test2\Tomato___healthy\fp_7851.jpg,Tomato___healthy,Corn_(maize)___healthy,0.605682909488678
-data\field_test2\Tomato___healthy\fp_7922.jpg,Tomato___healthy,Tomato___Tomato_Yellow_Leaf_Curl_Virus,0.6264578104019165
-data\field_test2\Tomato___healthy\fp_7928.jpg,Tomato___healthy,Tomato___Early_blight,0.9961966276168823
-data\field_test2\Tomato___healthy\fp_7929.jpg,Tomato___healthy,Tomato___Late_blight,0.5861678123474121
-data\field_test2\Tomato___healthy\fp_7941.jpg,Tomato___healthy,Tomato___Late_blight,0.8473666906356812
-data\field_test2\Tomato___healthy\fp_7942.jpg,Tomato___healthy,Tomato___Early_blight,0.8566169142723083
-data\field_test2\Tomato___healthy\fp_795.jpg,Tomato___healthy,Tomato___healthy,0.503000020980835
-data\field_test2\Tomato___healthy\fp_8007.jpg,Tomato___healthy,Tomato___Late_blight,0.3038809597492218
-data\field_test2\Tomato___healthy\fp_8020.jpg,Tomato___healthy,Corn_(maize)___healthy,0.4595597982406616
-data\field_test2\Tomato___healthy\fp_8023.jpg,Tomato___healthy,Tomato___Late_blight,0.7280054092407227
-data\field_test2\Tomato___healthy\fp_8131.jpg,Tomato___healthy,Tomato___healthy,0.5993244051933289
-data\field_test2\Tomato___healthy\fp_8133.jpg,Tomato___healthy,Tomato___Late_blight,0.9881554841995239
-data\field_test2\Tomato___healthy\fp_8272.jpg,Tomato___healthy,Tomato___healthy,0.424884170293808
-data\field_test2\Tomato___healthy\fp_8273.jpg,Tomato___healthy,Tomato___Early_blight,0.9986639022827148
-data\field_test2\Tomato___healthy\fp_8274.jpg,Tomato___healthy,Tomato___healthy,0.7474759221076965
-data\field_test2\Tomato___healthy\fp_8369.jpg,Tomato___healthy,Tomato___Late_blight,0.9934159517288208
-data\field_test2\Tomato___healthy\fp_8428.jpg,Tomato___healthy,Tomato___Late_blight,0.41520461440086365
-data\field_test2\Tomato___healthy\fp_8429.jpg,Tomato___healthy,Tomato___healthy,0.8463743329048157
-data\field_test2\Tomato___healthy\fp_8542.jpg,Tomato___healthy,Corn_(maize)___healthy,0.6880983114242554
-data\field_test2\Tomato___healthy\fp_917.jpg,Tomato___healthy,Tomato___healthy,0.9596679210662842
-data\field_test2\Tomato___healthy\fp_918.jpg,Tomato___healthy,Corn_(maize)___healthy,0.9291723370552063
-data\field_test2\Tomato___healthy\fp_919.jpg,Tomato___healthy,Potato___Early_blight,0.5408521294593811
-data\field_test2\Tomato___healthy\fp_957.jpg,Tomato___healthy,Tomato___Septoria_leaf_spot,0.9356133341789246
-data\field_test2\Tomato___Tomato_mosaic_virus\fp_1084.jpg,Tomato___Tomato_mosaic_virus,Tomato___Late_blight,0.9860996603965759
-data\field_test2\Tomato___Tomato_mosaic_virus\fp_1231.jpg,Tomato___Tomato_mosaic_virus,Tomato___Tomato_Yellow_Leaf_Curl_Virus,0.5933891534805298
-data\field_test2\Tomato___Tomato_mosaic_virus\fp_3144.jpg,Tomato___Tomato_mosaic_virus,Potato___Early_blight,0.5912779569625854
-data\field_test2\Tomato___Tomato_mosaic_virus\fp_3145.jpg,Tomato___Tomato_mosaic_virus,Tomato___Early_blight,0.9165527820587158
-data\field_test2\Tomato___Tomato_mosaic_virus\fp_3146.jpg,Tomato___Tomato_mosaic_virus,Tomato___Bacterial_spot,0.8603987097740173
-data\field_test2\Tomato___Tomato_mosaic_virus\fp_3248.jpg,Tomato___Tomato_mosaic_virus,Corn_(maize)___Common_rust_,0.4414230287075043
-data\field_test2\Tomato___Tomato_mosaic_virus\fp_3249.jpg,Tomato___Tomato_mosaic_virus,Tomato___Bacterial_spot,0.5657128095626831
-data\field_test2\Tomato___Tomato_mosaic_virus\fp_3332.jpg,Tomato___Tomato_mosaic_virus,Potato___Early_blight,0.9552337527275085
-data\field_test2\Tomato___Tomato_mosaic_virus\fp_3645.jpg,Tomato___Tomato_mosaic_virus,Tomato___Late_blight,0.7237821221351624
-data\field_test2\Tomato___Tomato_mosaic_virus\fp_3932.jpg,Tomato___Tomato_mosaic_virus,Tomato___Late_blight,0.9983053207397461
-data\field_test2\Tomato___Tomato_mosaic_virus\fp_4457.jpg,Tomato___Tomato_mosaic_virus,Tomato___Late_blight,0.6993422508239746
-data\field_test2\Tomato___Tomato_mosaic_virus\fp_4458.jpg,Tomato___Tomato_mosaic_virus,Tomato___Septoria_leaf_spot,0.8373401165008545
-data\field_test2\Tomato___Tomato_mosaic_virus\fp_4459.jpg,Tomato___Tomato_mosaic_virus,Tomato___Septoria_leaf_spot,0.7819727659225464
-data\field_test2\Tomato___Tomato_mosaic_virus\fp_6438.jpg,Tomato___Tomato_mosaic_virus,Tomato___Bacterial_spot,0.7938446402549744
-data\field_test2\Tomato___Tomato_mosaic_virus\fp_698.jpg,Tomato___Tomato_mosaic_virus,Tomato___Early_blight,0.8569510579109192
-data\field_test2\Tomato___Tomato_mosaic_virus\fp_7320.jpg,Tomato___Tomato_mosaic_virus,Tomato___Early_blight,0.5769460201263428
-data\field_test2\Tomato___Tomato_mosaic_virus\fp_8308.jpg,Tomato___Tomato_mosaic_virus,Tomato___Early_blight,0.9812076091766357
-data\field_test2\Tomato___Tomato_mosaic_virus\fp_8309.jpg,Tomato___Tomato_mosaic_virus,Tomato___Early_blight,0.7085356116294861
-data\field_test2\Tomato___Tomato_mosaic_virus\fp_841.jpg,Tomato___Tomato_mosaic_virus,Tomato___Late_blight,0.9784448742866516
+data\field_test2\_unknown\fp_1051.jpg,_unknown,Tomato___Leaf_Mold,0.9766770601272583
+data\field_test2\_unknown\fp_107.jpg,_unknown,Tomato___healthy,0.9106976389884949
+data\field_test2\_unknown\fp_1315.jpg,_unknown,Tomato___healthy,0.9899260997772217
+data\field_test2\_unknown\fp_1368.jpg,_unknown,Tomato___Bacterial_spot,0.8459222912788391
+data\field_test2\_unknown\fp_1389.jpg,_unknown,Tomato___Leaf_Mold,0.43823856115341187
+data\field_test2\_unknown\fp_1410.jpg,_unknown,Tomato___Late_blight,0.6959471106529236
+data\field_test2\_unknown\fp_1415.jpg,_unknown,Tomato___healthy,0.841587483882904
+data\field_test2\_unknown\fp_1430.jpg,_unknown,Tomato___Bacterial_spot,0.8272937536239624
+data\field_test2\_unknown\fp_1486.jpg,_unknown,Corn_(maize)___Northern_Leaf_Blight,0.44407227635383606
+data\field_test2\_unknown\fp_1559.jpg,_unknown,Tomato___Bacterial_spot,0.5833138227462769
+data\field_test2\_unknown\fp_1576.jpg,_unknown,Tomato___Leaf_Mold,0.4232165515422821
+data\field_test2\_unknown\fp_1619.jpg,_unknown,Tomato___Tomato_mosaic_virus,0.6374337673187256
+data\field_test2\_unknown\fp_167.jpg,_unknown,Corn_(maize)___Common_rust_,0.9818893671035767
+data\field_test2\_unknown\fp_1881.jpg,_unknown,Tomato___Tomato_mosaic_virus,0.33677321672439575
+data\field_test2\_unknown\fp_1902.jpg,_unknown,Tomato___healthy,0.6112284660339355
+data\field_test2\_unknown\fp_1936.jpg,_unknown,Tomato___healthy,0.50389564037323
+data\field_test2\_unknown\fp_1951.jpg,_unknown,Tomato___Bacterial_spot,0.547250509262085
+data\field_test2\_unknown\fp_1985.jpg,_unknown,Tomato___healthy,0.6029092669487
+data\field_test2\_unknown\fp_2051.jpg,_unknown,Tomato___Bacterial_spot,0.41175591945648193
+data\field_test2\_unknown\fp_2077.jpg,_unknown,Tomato___Bacterial_spot,0.8706777095794678
+data\field_test2\_unknown\fp_2112.jpg,_unknown,Tomato___Bacterial_spot,0.8730628490447998
+data\field_test2\_unknown\fp_2144.jpg,_unknown,Corn_(maize)___healthy,0.7576818466186523
+data\field_test2\_unknown\fp_2177.jpg,_unknown,Tomato___healthy,0.9920295476913452
+data\field_test2\_unknown\fp_2255.jpg,_unknown,Tomato___healthy,0.5036675333976746
+data\field_test2\_unknown\fp_234.jpg,_unknown,Tomato___Bacterial_spot,0.3585570752620697
+data\field_test2\_unknown\fp_2346.jpg,_unknown,Tomato___Bacterial_spot,0.478666216135025
+data\field_test2\_unknown\fp_2355.jpg,_unknown,Tomato___Leaf_Mold,0.5045112371444702
+data\field_test2\_unknown\fp_2356.jpg,_unknown,Potato___Late_blight,0.3276746869087219
+data\field_test2\_unknown\fp_2368.jpg,_unknown,Tomato___healthy,0.9715694189071655
+data\field_test2\_unknown\fp_2369.jpg,_unknown,Tomato___Leaf_Mold,0.3595978319644928
+data\field_test2\_unknown\fp_2375.jpg,_unknown,Tomato___healthy,0.9011446833610535
+data\field_test2\_unknown\fp_2451.jpg,_unknown,Tomato___healthy,0.8640827536582947
+data\field_test2\_unknown\fp_2452.jpg,_unknown,Tomato___Septoria_leaf_spot,0.6472357511520386
+data\field_test2\_unknown\fp_2522.jpg,_unknown,Tomato___Leaf_Mold,0.8676358461380005
+data\field_test2\_unknown\fp_2526.jpg,_unknown,Tomato___healthy,0.5727283358573914
+data\field_test2\_unknown\fp_2575.jpg,_unknown,Corn_(maize)___Northern_Leaf_Blight,0.7082027792930603
+data\field_test2\_unknown\fp_2635.jpg,_unknown,Tomato___healthy,0.600626528263092
+data\field_test2\_unknown\fp_2674.jpg,_unknown,Tomato___Bacterial_spot,0.4928577244281769
+data\field_test2\_unknown\fp_2748.jpg,_unknown,Tomato___healthy,0.9891674518585205
+data\field_test2\_unknown\fp_2778.jpg,_unknown,Tomato___Bacterial_spot,0.6669782400131226
+data\field_test2\_unknown\fp_2812.jpg,_unknown,Tomato___Septoria_leaf_spot,0.45840951800346375
+data\field_test2\_unknown\fp_2839.jpg,_unknown,Corn_(maize)___Northern_Leaf_Blight,0.5554189682006836
+data\field_test2\_unknown\fp_2896.jpg,_unknown,Tomato___healthy,0.8411567211151123
+data\field_test2\_unknown\fp_2964.jpg,_unknown,Tomato___healthy,0.49791038036346436
+data\field_test2\_unknown\fp_2973.jpg,_unknown,Tomato___Tomato_mosaic_virus,0.37649959325790405
+data\field_test2\_unknown\fp_2996.jpg,_unknown,Tomato___Septoria_leaf_spot,0.6014224886894226
+data\field_test2\_unknown\fp_3026.jpg,_unknown,Tomato___healthy,0.7455763816833496
+data\field_test2\_unknown\fp_3055.jpg,_unknown,Corn_(maize)___Northern_Leaf_Blight,0.972439706325531
+data\field_test2\_unknown\fp_3115.jpg,_unknown,Tomato___healthy,0.9995156526565552
+data\field_test2\_unknown\fp_3172.jpg,_unknown,Tomato___healthy,0.7824245691299438
+data\field_test2\_unknown\fp_3227.jpg,_unknown,Tomato___Bacterial_spot,0.9283657670021057
+data\field_test2\_unknown\fp_3292.jpg,_unknown,Tomato___healthy,0.7077879309654236
+data\field_test2\_unknown\fp_3364.jpg,_unknown,Tomato___Tomato_Yellow_Leaf_Curl_Virus,0.8202617764472961
+data\field_test2\_unknown\fp_3373.jpg,_unknown,Tomato___Tomato_Yellow_Leaf_Curl_Virus,0.604622483253479
+data\field_test2\_unknown\fp_3444.jpg,_unknown,Tomato___healthy,0.5846859812736511
+data\field_test2\_unknown\fp_3466.jpg,_unknown,Tomato___healthy,0.9981186985969543
+data\field_test2\_unknown\fp_3499.jpg,_unknown,Tomato___Bacterial_spot,0.5644872188568115
+data\field_test2\_unknown\fp_352.jpg,_unknown,Tomato___healthy,0.9884144067764282
+data\field_test2\_unknown\fp_3540.jpg,_unknown,Tomato___healthy,0.9996542930603027
+data\field_test2\_unknown\fp_3551.jpg,_unknown,Tomato___healthy,0.5029848217964172
+data\field_test2\_unknown\fp_3626.jpg,_unknown,Tomato___Septoria_leaf_spot,0.3188316822052002
+data\field_test2\_unknown\fp_3650.jpg,_unknown,Tomato___Bacterial_spot,0.7020680904388428
+data\field_test2\_unknown\fp_3651.jpg,_unknown,Tomato___Bacterial_spot,0.8463268280029297
+data\field_test2\_unknown\fp_3675.jpg,_unknown,Tomato___Septoria_leaf_spot,0.45554739236831665
+data\field_test2\_unknown\fp_369.jpg,_unknown,Tomato___Bacterial_spot,0.724433422088623
+data\field_test2\_unknown\fp_3710.jpg,_unknown,Tomato___healthy,0.2388707399368286
+data\field_test2\_unknown\fp_3785.jpg,_unknown,Tomato___Early_blight,0.5486276745796204
+data\field_test2\_unknown\fp_3793.jpg,_unknown,Tomato___healthy,0.8840504288673401
+data\field_test2\_unknown\fp_3795.jpg,_unknown,Tomato___Septoria_leaf_spot,0.4994705021381378
+data\field_test2\_unknown\fp_3806.jpg,_unknown,Tomato___Tomato_mosaic_virus,0.5027102828025818
+data\field_test2\_unknown\fp_3853.jpg,_unknown,Tomato___healthy,0.9323915839195251
+data\field_test2\_unknown\fp_3888.jpg,_unknown,Tomato___Leaf_Mold,0.4717658758163452
+data\field_test2\_unknown\fp_4147.jpg,_unknown,Tomato___Bacterial_spot,0.7153182029724121
+data\field_test2\_unknown\fp_4152.jpg,_unknown,Tomato___Leaf_Mold,0.6000232696533203
+data\field_test2\_unknown\fp_4163.jpg,_unknown,Tomato___Late_blight,0.9170947670936584
+data\field_test2\_unknown\fp_4184.jpg,_unknown,Tomato___Septoria_leaf_spot,0.5423783659934998
+data\field_test2\_unknown\fp_4260.jpg,_unknown,Tomato___healthy,0.846153736114502
+data\field_test2\_unknown\fp_4318.jpg,_unknown,Tomato___healthy,0.9948595762252808
+data\field_test2\_unknown\fp_4329.jpg,_unknown,Tomato___Bacterial_spot,0.6609615683555603
+data\field_test2\_unknown\fp_435.jpg,_unknown,Tomato___Bacterial_spot,0.8025991916656494
+data\field_test2\_unknown\fp_4404.jpg,_unknown,Tomato___healthy,0.5909902453422546
+data\field_test2\_unknown\fp_4422.jpg,_unknown,Tomato___healthy,0.7986864447593689
+data\field_test2\_unknown\fp_4431.jpg,_unknown,Tomato___Bacterial_spot,0.7200472950935364
+data\field_test2\_unknown\fp_4496.jpg,_unknown,Tomato___Bacterial_spot,0.4606168270111084
+data\field_test2\_unknown\fp_4525.jpg,_unknown,Tomato___healthy,0.9620923399925232
+data\field_test2\_unknown\fp_4545.jpg,_unknown,Tomato___healthy,0.9883296489715576
+data\field_test2\_unknown\fp_4547.jpg,_unknown,Tomato___healthy,0.8591381907463074
+data\field_test2\_unknown\fp_4557.jpg,_unknown,Tomato___healthy,0.6906977295875549
+data\field_test2\_unknown\fp_4596.jpg,_unknown,Tomato___Leaf_Mold,0.6741305589675903
+data\field_test2\_unknown\fp_4615.jpg,_unknown,Tomato___Bacterial_spot,0.8553845882415771
+data\field_test2\_unknown\fp_4718.jpg,_unknown,Corn_(maize)___Northern_Leaf_Blight,0.8626692891120911
+data\field_test2\_unknown\fp_4726.jpg,_unknown,Tomato___healthy,0.8893873691558838
+data\field_test2\_unknown\fp_4760.jpg,_unknown,Tomato___Bacterial_spot,0.87643963098526
+data\field_test2\_unknown\fp_4823.jpg,_unknown,Tomato___healthy,0.5045307278633118
+data\field_test2\_unknown\fp_4824.jpg,_unknown,Tomato___Leaf_Mold,0.4032006859779358
+data\field_test2\_unknown\fp_4897.jpg,_unknown,Tomato___healthy,0.9917579293251038
+data\field_test2\_unknown\fp_4943.jpg,_unknown,Tomato___healthy,0.7805018424987793
+data\field_test2\_unknown\fp_4990.jpg,_unknown,Tomato___Late_blight,0.33989930152893066
+data\field_test2\_unknown\fp_50.jpg,_unknown,Corn_(maize)___Northern_Leaf_Blight,0.700742244720459
+data\field_test2\_unknown\fp_5006.jpg,_unknown,Potato___Early_blight,0.5852974653244019
+data\field_test2\_unknown\fp_5059.jpg,_unknown,Tomato___healthy,0.7731370329856873
+data\field_test2\_unknown\fp_5136.jpg,_unknown,Tomato___Tomato_mosaic_virus,0.7480624914169312
+data\field_test2\_unknown\fp_5139.jpg,_unknown,Tomato___Bacterial_spot,0.6038278341293335
+data\field_test2\_unknown\fp_514.jpg,_unknown,Tomato___Bacterial_spot,0.5631512999534607
+data\field_test2\_unknown\fp_5154.jpg,_unknown,Tomato___Bacterial_spot,0.7577583193778992
+data\field_test2\_unknown\fp_5195.jpg,_unknown,Tomato___Bacterial_spot,0.7852699756622314
+data\field_test2\_unknown\fp_5285.jpg,_unknown,Tomato___healthy,0.9707151651382446
+data\field_test2\_unknown\fp_5314.jpg,_unknown,Tomato___healthy,0.45964688062667847
+data\field_test2\_unknown\fp_5315.jpg,_unknown,Tomato___healthy,0.8747928142547607
+data\field_test2\_unknown\fp_5320.jpg,_unknown,Tomato___healthy,0.7437686324119568
+data\field_test2\_unknown\fp_5324.jpg,_unknown,Tomato___Bacterial_spot,0.5568580627441406
+data\field_test2\_unknown\fp_5464.jpg,_unknown,Tomato___healthy,0.984713077545166
+data\field_test2\_unknown\fp_5508.jpg,_unknown,Tomato___healthy,0.47035059332847595
+data\field_test2\_unknown\fp_5518.jpg,_unknown,Tomato___healthy,0.3775966763496399
+data\field_test2\_unknown\fp_5599.jpg,_unknown,Potato___Late_blight,0.7080516219139099
+data\field_test2\_unknown\fp_5631.jpg,_unknown,Tomato___Bacterial_spot,0.5755840539932251
+data\field_test2\_unknown\fp_5708.jpg,_unknown,Tomato___healthy,0.530757486820221
+data\field_test2\_unknown\fp_5735.jpg,_unknown,Tomato___Late_blight,0.4991379380226135
+data\field_test2\_unknown\fp_5737.jpg,_unknown,Tomato___Tomato_mosaic_virus,0.4526790380477905
+data\field_test2\_unknown\fp_5754.jpg,_unknown,Tomato___Bacterial_spot,0.5447217226028442
+data\field_test2\_unknown\fp_5807.jpg,_unknown,Tomato___Leaf_Mold,0.3088030517101288
+data\field_test2\_unknown\fp_5850.jpg,_unknown,Tomato___healthy,0.9950518012046814
+data\field_test2\_unknown\fp_5851.jpg,_unknown,Tomato___healthy,0.837961733341217
+data\field_test2\_unknown\fp_5860.jpg,_unknown,Tomato___healthy,0.7435969710350037
+data\field_test2\_unknown\fp_5862.jpg,_unknown,Tomato___healthy,0.3553001582622528
+data\field_test2\_unknown\fp_5911.jpg,_unknown,Tomato___healthy,0.894971489906311
+data\field_test2\_unknown\fp_5968.jpg,_unknown,Tomato___Septoria_leaf_spot,0.402648389339447
+data\field_test2\_unknown\fp_6058.jpg,_unknown,Tomato___Tomato_mosaic_virus,0.9105067849159241
+data\field_test2\_unknown\fp_6127.jpg,_unknown,Tomato___healthy,0.9483481645584106
+data\field_test2\_unknown\fp_6175.jpg,_unknown,Tomato___Leaf_Mold,0.5409021377563477
+data\field_test2\_unknown\fp_620.jpg,_unknown,Tomato___healthy,0.9947749376296997
+data\field_test2\_unknown\fp_6346.jpg,_unknown,Tomato___Tomato_mosaic_virus,0.6710668802261353
+data\field_test2\_unknown\fp_636.jpg,_unknown,Tomato___Bacterial_spot,0.5557213425636292
+data\field_test2\_unknown\fp_637.jpg,_unknown,Corn_(maize)___Common_rust_,0.39864376187324524
+data\field_test2\_unknown\fp_6425.jpg,_unknown,Tomato___Bacterial_spot,0.4239746332168579
+data\field_test2\_unknown\fp_6519.jpg,_unknown,Tomato___healthy,0.9993640780448914
+data\field_test2\_unknown\fp_6572.jpg,_unknown,Tomato___Septoria_leaf_spot,0.6385445594787598
+data\field_test2\_unknown\fp_6589.jpg,_unknown,Tomato___Tomato_mosaic_virus,0.5111536383628845
+data\field_test2\_unknown\fp_6647.jpg,_unknown,Tomato___healthy,0.5898938775062561
+data\field_test2\_unknown\fp_6649.jpg,_unknown,Tomato___healthy,0.554618775844574
+data\field_test2\_unknown\fp_6702.jpg,_unknown,Tomato___Bacterial_spot,0.8473732471466064
+data\field_test2\_unknown\fp_6730.jpg,_unknown,Tomato___healthy,0.970949113368988
+data\field_test2\_unknown\fp_6740.jpg,_unknown,Tomato___healthy,0.6237138509750366
+data\field_test2\_unknown\fp_6794.jpg,_unknown,Tomato___Bacterial_spot,0.89292311668396
+data\field_test2\_unknown\fp_6851.jpg,_unknown,Tomato___healthy,0.9947764873504639
+data\field_test2\_unknown\fp_6857.jpg,_unknown,Potato___Late_blight,0.5771220326423645
+data\field_test2\_unknown\fp_6883.jpg,_unknown,Tomato___healthy,0.6385133862495422
+data\field_test2\_unknown\fp_7149.jpg,_unknown,Tomato___healthy,0.5359402298927307
+data\field_test2\_unknown\fp_7151.jpg,_unknown,Tomato___Bacterial_spot,0.7681698799133301
+data\field_test2\_unknown\fp_7179.jpg,_unknown,Tomato___Bacterial_spot,0.9605603218078613
+data\field_test2\_unknown\fp_7354.jpg,_unknown,Tomato___healthy,0.8794843554496765
+data\field_test2\_unknown\fp_7389.jpg,_unknown,Corn_(maize)___Northern_Leaf_Blight,0.530572235584259
+data\field_test2\_unknown\fp_7390.jpg,_unknown,Tomato___Septoria_leaf_spot,0.4290291666984558
+data\field_test2\_unknown\fp_7478.jpg,_unknown,Tomato___Bacterial_spot,0.7997028827667236
+data\field_test2\_unknown\fp_7485.jpg,_unknown,Tomato___Bacterial_spot,0.8385863304138184
+data\field_test2\_unknown\fp_749.jpg,_unknown,Tomato___Bacterial_spot,0.2904758155345917
+data\field_test2\_unknown\fp_752.jpg,_unknown,Tomato___Leaf_Mold,0.29429367184638977
+data\field_test2\_unknown\fp_7543.jpg,_unknown,Tomato___Late_blight,0.7160077691078186
+data\field_test2\_unknown\fp_7593.jpg,_unknown,Tomato___Tomato_mosaic_virus,0.4070604741573334
+data\field_test2\_unknown\fp_7595.jpg,_unknown,Tomato___Bacterial_spot,0.5705016851425171
+data\field_test2\_unknown\fp_7656.jpg,_unknown,Tomato___Tomato_Yellow_Leaf_Curl_Virus,0.7686378955841064
+data\field_test2\_unknown\fp_7672.jpg,_unknown,Tomato___Bacterial_spot,0.6654350161552429
+data\field_test2\_unknown\fp_7680.jpg,_unknown,Tomato___Bacterial_spot,0.8726662993431091
+data\field_test2\_unknown\fp_7681.jpg,_unknown,Corn_(maize)___Northern_Leaf_Blight,0.6871463060379028
+data\field_test2\_unknown\fp_7684.jpg,_unknown,Tomato___healthy,0.98223477602005
+data\field_test2\_unknown\fp_7697.jpg,_unknown,Tomato___healthy,0.6469234824180603
+data\field_test2\_unknown\fp_7748.jpg,_unknown,Tomato___healthy,0.9991635084152222
+data\field_test2\_unknown\fp_7784.jpg,_unknown,Tomato___healthy,0.8474909067153931
+data\field_test2\_unknown\fp_7797.jpg,_unknown,Tomato___healthy,0.9947177767753601
+data\field_test2\_unknown\fp_7808.jpg,_unknown,Tomato___Septoria_leaf_spot,0.5119100213050842
+data\field_test2\_unknown\fp_7816.jpg,_unknown,Tomato___Late_blight,0.3435479700565338
+data\field_test2\_unknown\fp_7817.jpg,_unknown,Tomato___healthy,0.9844881296157837
+data\field_test2\_unknown\fp_7828.jpg,_unknown,Tomato___Leaf_Mold,0.702467679977417
+data\field_test2\_unknown\fp_7916.jpg,_unknown,Corn_(maize)___Northern_Leaf_Blight,0.5612127184867859
+data\field_test2\_unknown\fp_7994.jpg,_unknown,Tomato___healthy,0.8349676728248596
+data\field_test2\_unknown\fp_7998.jpg,_unknown,Tomato___healthy,0.9675906300544739
+data\field_test2\_unknown\fp_813.jpg,_unknown,Tomato___healthy,0.7277482748031616
+data\field_test2\_unknown\fp_8204.jpg,_unknown,Tomato___Septoria_leaf_spot,0.35060492157936096
+data\field_test2\_unknown\fp_8205.jpg,_unknown,Tomato___Bacterial_spot,0.3749968707561493
+data\field_test2\_unknown\fp_822.jpg,_unknown,Tomato___healthy,0.41144758462905884
+data\field_test2\_unknown\fp_8226.jpg,_unknown,Tomato___healthy,0.6649001836776733
+data\field_test2\_unknown\fp_8237.jpg,_unknown,Tomato___healthy,0.924875795841217
+data\field_test2\_unknown\fp_8244.jpg,_unknown,Tomato___Tomato_mosaic_virus,0.9810945987701416
+data\field_test2\_unknown\fp_8247.jpg,_unknown,Tomato___Tomato_mosaic_virus,0.6318118572235107
+data\field_test2\_unknown\fp_8294.jpg,_unknown,Tomato___Septoria_leaf_spot,0.3876775801181793
+data\field_test2\_unknown\fp_8324.jpg,_unknown,Tomato___healthy,0.9515533447265625
+data\field_test2\_unknown\fp_8347.jpg,_unknown,Tomato___healthy,0.6405806541442871
+data\field_test2\_unknown\fp_8355.jpg,_unknown,Tomato___healthy,0.49536898732185364
+data\field_test2\_unknown\fp_836.jpg,_unknown,Tomato___Tomato_mosaic_virus,0.7512149810791016
+data\field_test2\_unknown\fp_8371.jpg,_unknown,Tomato___healthy,0.8801122903823853
+data\field_test2\_unknown\fp_8372.jpg,_unknown,Tomato___Early_blight,0.38767626881599426
+data\field_test2\_unknown\fp_8419.jpg,_unknown,Tomato___healthy,0.6794500946998596
+data\field_test2\_unknown\fp_8519.jpg,_unknown,Potato___Late_blight,0.6261540055274963
+data\field_test2\_unknown\fp_863.jpg,_unknown,Tomato___healthy,0.9973880648612976
+data\field_test2\_unknown\fp_868.jpg,_unknown,Tomato___Bacterial_spot,0.41218283772468567
+data\field_test2\_unknown\fp_925.jpg,_unknown,Tomato___Bacterial_spot,0.3978230357170105
+data\field_test2\_unknown\fp_980.jpg,_unknown,Tomato___healthy,0.772423267364502
+data\field_test2\_unknown\fp_985.jpg,_unknown,Tomato___healthy,0.8656980395317078
+data\field_test2\_unknown\fp_989.jpg,_unknown,Tomato___healthy,0.8959422707557678
+data\field_test2\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fp_1043.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight,0.6840773224830627
+data\field_test2\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fp_1082.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.47265154123306274
+data\field_test2\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fp_1668.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight,0.9256538152694702
+data\field_test2\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fp_1669.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight,0.9762296676635742
+data\field_test2\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fp_2286.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight,0.7852262258529663
+data\field_test2\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fp_267.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight,0.9998552799224854
+data\field_test2\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fp_2730.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.9498143196105957
+data\field_test2\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fp_2731.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.9775213003158569
+data\field_test2\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fp_2732.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Common_rust_,0.9748340845108032
+data\field_test2\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fp_2802.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight,0.9752513766288757
+data\field_test2\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fp_3200.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.7760598659515381
+data\field_test2\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fp_3223.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight,0.7552667856216431
+data\field_test2\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fp_3350.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.8042526841163635
+data\field_test2\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fp_3351.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight,0.9972003698348999
+data\field_test2\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fp_3352.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight,0.9828752279281616
+data\field_test2\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fp_3353.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight,0.9616708755493164
+data\field_test2\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fp_3354.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight,0.8931710720062256
+data\field_test2\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fp_3573.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight,0.9974505305290222
+data\field_test2\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fp_3761.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight,0.9150859713554382
+data\field_test2\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fp_3762.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight,0.6073627471923828
+data\field_test2\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fp_3950.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.6221234202384949
+data\field_test2\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fp_3951.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight,0.9459825158119202
+data\field_test2\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fp_3952.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.9773007035255432
+data\field_test2\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fp_4769.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight,0.9541634321212769
+data\field_test2\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fp_5052.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight,0.9668475389480591
+data\field_test2\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fp_5053.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Common_rust_,0.8483018279075623
+data\field_test2\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fp_5054.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Common_rust_,0.999388575553894
+data\field_test2\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fp_5055.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Common_rust_,0.9937183856964111
+data\field_test2\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fp_5434.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight,0.9454476237297058
+data\field_test2\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fp_5435.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.5395238399505615
+data\field_test2\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fp_5436.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight,0.9012754559516907
+data\field_test2\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fp_5437.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight,0.8270818591117859
+data\field_test2\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fp_5689.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight,0.996969997882843
+data\field_test2\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fp_5854.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.901000440120697
+data\field_test2\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fp_645.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Common_rust_,0.5941911339759827
+data\field_test2\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fp_6681.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.8379722833633423
+data\field_test2\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fp_6682.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.5761126279830933
+data\field_test2\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fp_6793.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight,0.8932258486747742
+data\field_test2\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fp_6822.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight,0.9968857169151306
+data\field_test2\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fp_6823.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight,0.5607154369354248
+data\field_test2\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fp_6824.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight,0.9707349538803101
+data\field_test2\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fp_6825.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight,0.985340416431427
+data\field_test2\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fp_6826.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.6046632528305054
+data\field_test2\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fp_7199.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight,0.9991414546966553
+data\field_test2\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fp_7767.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight,0.8923786878585815
+data\field_test2\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fp_793.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight,0.7650756239891052
+data\field_test2\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fp_8027.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight,0.9833617806434631
+data\field_test2\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fp_806.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight,0.8993520140647888
+data\field_test2\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fp_8127.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.9781127572059631
+data\field_test2\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fp_8128.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.9583926796913147
+data\field_test2\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fp_8129.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight,0.7594496607780457
+data\field_test2\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fp_8285.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight,0.8101312518119812
+data\field_test2\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fp_837.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.9528793692588806
+data\field_test2\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fp_838.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.7928699851036072
+data\field_test2\Corn_(maize)___Common_rust_\fp_1218.jpg,Corn_(maize)___Common_rust_,Corn_(maize)___Northern_Leaf_Blight,0.9794166684150696
+data\field_test2\Corn_(maize)___Common_rust_\fp_1246.jpg,Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,0.9267622828483582
+data\field_test2\Corn_(maize)___Common_rust_\fp_1333.jpg,Corn_(maize)___Common_rust_,Corn_(maize)___Northern_Leaf_Blight,0.9868560433387756
+data\field_test2\Corn_(maize)___Common_rust_\fp_1355.jpg,Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,0.48247861862182617
+data\field_test2\Corn_(maize)___Common_rust_\fp_154.jpg,Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,0.8793710470199585
+data\field_test2\Corn_(maize)___Common_rust_\fp_1641.jpg,Corn_(maize)___Common_rust_,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.8426097631454468
+data\field_test2\Corn_(maize)___Common_rust_\fp_1815.jpg,Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,0.9594841599464417
+data\field_test2\Corn_(maize)___Common_rust_\fp_1974.jpg,Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,0.9913881421089172
+data\field_test2\Corn_(maize)___Common_rust_\fp_1992.jpg,Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,0.9841311573982239
+data\field_test2\Corn_(maize)___Common_rust_\fp_2190.jpg,Corn_(maize)___Common_rust_,Corn_(maize)___Northern_Leaf_Blight,0.8486317992210388
+data\field_test2\Corn_(maize)___Common_rust_\fp_2240.jpg,Corn_(maize)___Common_rust_,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.9537544250488281
+data\field_test2\Corn_(maize)___Common_rust_\fp_2383.jpg,Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,0.6219345927238464
+data\field_test2\Corn_(maize)___Common_rust_\fp_2399.jpg,Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,0.6265871524810791
+data\field_test2\Corn_(maize)___Common_rust_\fp_2665.jpg,Corn_(maize)___Common_rust_,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.9757123589515686
+data\field_test2\Corn_(maize)___Common_rust_\fp_2861.jpg,Corn_(maize)___Common_rust_,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.9130220413208008
+data\field_test2\Corn_(maize)___Common_rust_\fp_3221.jpg,Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,0.5137588977813721
+data\field_test2\Corn_(maize)___Common_rust_\fp_3345.jpg,Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,0.47906816005706787
+data\field_test2\Corn_(maize)___Common_rust_\fp_3362.jpg,Corn_(maize)___Common_rust_,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.6356067061424255
+data\field_test2\Corn_(maize)___Common_rust_\fp_3363.jpg,Corn_(maize)___Common_rust_,Corn_(maize)___Northern_Leaf_Blight,0.8886100649833679
+data\field_test2\Corn_(maize)___Common_rust_\fp_3569.jpg,Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,0.9415285587310791
+data\field_test2\Corn_(maize)___Common_rust_\fp_359.jpg,Corn_(maize)___Common_rust_,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.5335031747817993
+data\field_test2\Corn_(maize)___Common_rust_\fp_363.jpg,Corn_(maize)___Common_rust_,Corn_(maize)___healthy,0.9950188398361206
+data\field_test2\Corn_(maize)___Common_rust_\fp_3792.jpg,Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,0.8844517469406128
+data\field_test2\Corn_(maize)___Common_rust_\fp_3886.jpg,Corn_(maize)___Common_rust_,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.6619506478309631
+data\field_test2\Corn_(maize)___Common_rust_\fp_39.jpg,Corn_(maize)___Common_rust_,Corn_(maize)___healthy,0.5304328799247742
+data\field_test2\Corn_(maize)___Common_rust_\fp_4040.jpg,Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,0.5152338147163391
+data\field_test2\Corn_(maize)___Common_rust_\fp_4088.jpg,Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,0.7678250074386597
+data\field_test2\Corn_(maize)___Common_rust_\fp_4258.jpg,Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,0.9921194314956665
+data\field_test2\Corn_(maize)___Common_rust_\fp_5209.jpg,Corn_(maize)___Common_rust_,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.5375572443008423
+data\field_test2\Corn_(maize)___Common_rust_\fp_5328.jpg,Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,0.9375987648963928
+data\field_test2\Corn_(maize)___Common_rust_\fp_5705.jpg,Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,0.9411329627037048
+data\field_test2\Corn_(maize)___Common_rust_\fp_6182.jpg,Corn_(maize)___Common_rust_,Corn_(maize)___Northern_Leaf_Blight,0.9056556224822998
+data\field_test2\Corn_(maize)___Common_rust_\fp_6199.jpg,Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,0.6263515949249268
+data\field_test2\Corn_(maize)___Common_rust_\fp_6441.jpg,Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,0.9435571432113647
+data\field_test2\Corn_(maize)___Common_rust_\fp_6977.jpg,Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,0.679313063621521
+data\field_test2\Corn_(maize)___Common_rust_\fp_6985.jpg,Corn_(maize)___Common_rust_,Corn_(maize)___Northern_Leaf_Blight,0.48555153608322144
+data\field_test2\Corn_(maize)___Common_rust_\fp_6986.jpg,Corn_(maize)___Common_rust_,Corn_(maize)___Northern_Leaf_Blight,0.9506128430366516
+data\field_test2\Corn_(maize)___Common_rust_\fp_7019.jpg,Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,0.8999943733215332
+data\field_test2\Corn_(maize)___Common_rust_\fp_7030.jpg,Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,0.5978838205337524
+data\field_test2\Corn_(maize)___Common_rust_\fp_7031.jpg,Corn_(maize)___Common_rust_,Corn_(maize)___Northern_Leaf_Blight,0.7392162084579468
+data\field_test2\Corn_(maize)___Common_rust_\fp_7047.jpg,Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,0.986441433429718
+data\field_test2\Corn_(maize)___Common_rust_\fp_7120.jpg,Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,0.8371149897575378
+data\field_test2\Corn_(maize)___Common_rust_\fp_7136.jpg,Corn_(maize)___Common_rust_,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.7004600167274475
+data\field_test2\Corn_(maize)___Common_rust_\fp_7461.jpg,Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,0.9595219492912292
+data\field_test2\Corn_(maize)___Common_rust_\fp_7624.jpg,Corn_(maize)___Common_rust_,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.897095799446106
+data\field_test2\Corn_(maize)___Common_rust_\fp_7641.jpg,Corn_(maize)___Common_rust_,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.9475162625312805
+data\field_test2\Corn_(maize)___Common_rust_\fp_7988.jpg,Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,0.9628427028656006
+data\field_test2\Corn_(maize)___Common_rust_\fp_812.jpg,Corn_(maize)___Common_rust_,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.6530951261520386
+data\field_test2\Corn_(maize)___Common_rust_\fp_8432.jpg,Corn_(maize)___Common_rust_,Corn_(maize)___Northern_Leaf_Blight,0.9262348413467407
+data\field_test2\Corn_(maize)___healthy\fp_1037.jpg,Corn_(maize)___healthy,Corn_(maize)___Common_rust_,0.9629019498825073
+data\field_test2\Corn_(maize)___healthy\fp_1089.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.999992847442627
+data\field_test2\Corn_(maize)___healthy\fp_123.jpg,Corn_(maize)___healthy,Corn_(maize)___Northern_Leaf_Blight,0.9569504857063293
+data\field_test2\Corn_(maize)___healthy\fp_124.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9798754453659058
+data\field_test2\Corn_(maize)___healthy\fp_125.jpg,Corn_(maize)___healthy,Corn_(maize)___Northern_Leaf_Blight,0.9988157749176025
+data\field_test2\Corn_(maize)___healthy\fp_126.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9566553831100464
+data\field_test2\Corn_(maize)___healthy\fp_13.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.5480533242225647
+data\field_test2\Corn_(maize)___healthy\fp_14.jpg,Corn_(maize)___healthy,Corn_(maize)___Northern_Leaf_Blight,0.4228910803794861
+data\field_test2\Corn_(maize)___healthy\fp_1403.jpg,Corn_(maize)___healthy,Corn_(maize)___Common_rust_,0.6529538035392761
+data\field_test2\Corn_(maize)___healthy\fp_1413.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9997684359550476
+data\field_test2\Corn_(maize)___healthy\fp_1434.jpg,Corn_(maize)___healthy,Corn_(maize)___Common_rust_,0.787996768951416
+data\field_test2\Corn_(maize)___healthy\fp_15.jpg,Corn_(maize)___healthy,Tomato___healthy,0.5584842562675476
+data\field_test2\Corn_(maize)___healthy\fp_1512.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9836140871047974
+data\field_test2\Corn_(maize)___healthy\fp_1661.jpg,Corn_(maize)___healthy,Corn_(maize)___Common_rust_,0.987726628780365
+data\field_test2\Corn_(maize)___healthy\fp_1674.jpg,Corn_(maize)___healthy,Corn_(maize)___Northern_Leaf_Blight,0.8781855702400208
+data\field_test2\Corn_(maize)___healthy\fp_1678.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9981124401092529
+data\field_test2\Corn_(maize)___healthy\fp_1702.jpg,Corn_(maize)___healthy,Corn_(maize)___Northern_Leaf_Blight,0.9998538494110107
+data\field_test2\Corn_(maize)___healthy\fp_1704.jpg,Corn_(maize)___healthy,Corn_(maize)___Northern_Leaf_Blight,0.9208343029022217
+data\field_test2\Corn_(maize)___healthy\fp_1705.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.5779107809066772
+data\field_test2\Corn_(maize)___healthy\fp_1836.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9136732816696167
+data\field_test2\Corn_(maize)___healthy\fp_1837.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9997285008430481
+data\field_test2\Corn_(maize)___healthy\fp_1838.jpg,Corn_(maize)___healthy,Corn_(maize)___Common_rust_,0.5311508774757385
+data\field_test2\Corn_(maize)___healthy\fp_1839.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9994248151779175
+data\field_test2\Corn_(maize)___healthy\fp_1865.jpg,Corn_(maize)___healthy,Corn_(maize)___Northern_Leaf_Blight,0.5377349853515625
+data\field_test2\Corn_(maize)___healthy\fp_1866.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9997606873512268
+data\field_test2\Corn_(maize)___healthy\fp_1933.jpg,Corn_(maize)___healthy,Tomato___healthy,0.9939348101615906
+data\field_test2\Corn_(maize)___healthy\fp_1946.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.470892071723938
+data\field_test2\Corn_(maize)___healthy\fp_1950.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.793278694152832
+data\field_test2\Corn_(maize)___healthy\fp_20.jpg,Corn_(maize)___healthy,Corn_(maize)___Northern_Leaf_Blight,0.6604709625244141
+data\field_test2\Corn_(maize)___healthy\fp_2033.jpg,Corn_(maize)___healthy,Corn_(maize)___Common_rust_,0.8400773406028748
+data\field_test2\Corn_(maize)___healthy\fp_2034.jpg,Corn_(maize)___healthy,Corn_(maize)___Northern_Leaf_Blight,0.7372798919677734
+data\field_test2\Corn_(maize)___healthy\fp_2290.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.6209238767623901
+data\field_test2\Corn_(maize)___healthy\fp_2322.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.7898209691047668
+data\field_test2\Corn_(maize)___healthy\fp_2413.jpg,Corn_(maize)___healthy,Corn_(maize)___Common_rust_,0.5456040501594543
+data\field_test2\Corn_(maize)___healthy\fp_2414.jpg,Corn_(maize)___healthy,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.45055022835731506
+data\field_test2\Corn_(maize)___healthy\fp_2500.jpg,Corn_(maize)___healthy,Corn_(maize)___Northern_Leaf_Blight,0.9392613768577576
+data\field_test2\Corn_(maize)___healthy\fp_2533.jpg,Corn_(maize)___healthy,Corn_(maize)___Northern_Leaf_Blight,0.998293936252594
+data\field_test2\Corn_(maize)___healthy\fp_2633.jpg,Corn_(maize)___healthy,Corn_(maize)___Common_rust_,0.7264742851257324
+data\field_test2\Corn_(maize)___healthy\fp_2664.jpg,Corn_(maize)___healthy,Corn_(maize)___Common_rust_,0.9849230051040649
+data\field_test2\Corn_(maize)___healthy\fp_2697.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9890764951705933
+data\field_test2\Corn_(maize)___healthy\fp_2698.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.5079270601272583
+data\field_test2\Corn_(maize)___healthy\fp_2699.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9069550037384033
+data\field_test2\Corn_(maize)___healthy\fp_279.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.999944806098938
+data\field_test2\Corn_(maize)___healthy\fp_28.jpg,Corn_(maize)___healthy,Corn_(maize)___Common_rust_,0.7885398268699646
+data\field_test2\Corn_(maize)___healthy\fp_285.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9776216745376587
+data\field_test2\Corn_(maize)___healthy\fp_2877.jpg,Corn_(maize)___healthy,Corn_(maize)___Northern_Leaf_Blight,0.9939919114112854
+data\field_test2\Corn_(maize)___healthy\fp_2889.jpg,Corn_(maize)___healthy,Corn_(maize)___Common_rust_,0.8838563561439514
+data\field_test2\Corn_(maize)___healthy\fp_2890.jpg,Corn_(maize)___healthy,Corn_(maize)___Common_rust_,0.9287741184234619
+data\field_test2\Corn_(maize)___healthy\fp_2891.jpg,Corn_(maize)___healthy,Corn_(maize)___Common_rust_,0.9876402020454407
+data\field_test2\Corn_(maize)___healthy\fp_2900.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.999967098236084
+data\field_test2\Corn_(maize)___healthy\fp_2920.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9973323345184326
+data\field_test2\Corn_(maize)___healthy\fp_294.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9973279237747192
+data\field_test2\Corn_(maize)___healthy\fp_2997.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9992398023605347
+data\field_test2\Corn_(maize)___healthy\fp_3044.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9692568778991699
+data\field_test2\Corn_(maize)___healthy\fp_3191.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9492952823638916
+data\field_test2\Corn_(maize)___healthy\fp_3283.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9695649147033691
+data\field_test2\Corn_(maize)___healthy\fp_3442.jpg,Corn_(maize)___healthy,Corn_(maize)___Northern_Leaf_Blight,0.9776949286460876
+data\field_test2\Corn_(maize)___healthy\fp_347.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9919196367263794
+data\field_test2\Corn_(maize)___healthy\fp_3510.jpg,Corn_(maize)___healthy,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.5746256113052368
+data\field_test2\Corn_(maize)___healthy\fp_3514.jpg,Corn_(maize)___healthy,Corn_(maize)___Northern_Leaf_Blight,0.8357654809951782
+data\field_test2\Corn_(maize)___healthy\fp_3515.jpg,Corn_(maize)___healthy,Corn_(maize)___Northern_Leaf_Blight,0.9907109141349792
+data\field_test2\Corn_(maize)___healthy\fp_3516.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9998753070831299
+data\field_test2\Corn_(maize)___healthy\fp_4070.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9999603033065796
+data\field_test2\Corn_(maize)___healthy\fp_4071.jpg,Corn_(maize)___healthy,Corn_(maize)___Northern_Leaf_Blight,0.46859458088874817
+data\field_test2\Corn_(maize)___healthy\fp_4072.jpg,Corn_(maize)___healthy,Corn_(maize)___Northern_Leaf_Blight,0.8410068154335022
+data\field_test2\Corn_(maize)___healthy\fp_4081.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.8222507834434509
+data\field_test2\Corn_(maize)___healthy\fp_4179.jpg,Corn_(maize)___healthy,Corn_(maize)___Northern_Leaf_Blight,0.5001952648162842
+data\field_test2\Corn_(maize)___healthy\fp_4426.jpg,Corn_(maize)___healthy,Corn_(maize)___Northern_Leaf_Blight,0.6112654805183411
+data\field_test2\Corn_(maize)___healthy\fp_4427.jpg,Corn_(maize)___healthy,Corn_(maize)___Northern_Leaf_Blight,0.9933704137802124
+data\field_test2\Corn_(maize)___healthy\fp_4428.jpg,Corn_(maize)___healthy,Corn_(maize)___Northern_Leaf_Blight,0.8900454640388489
+data\field_test2\Corn_(maize)___healthy\fp_443.jpg,Corn_(maize)___healthy,Corn_(maize)___Common_rust_,0.5444377660751343
+data\field_test2\Corn_(maize)___healthy\fp_4604.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.829774022102356
+data\field_test2\Corn_(maize)___healthy\fp_4605.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.8702465295791626
+data\field_test2\Corn_(maize)___healthy\fp_4606.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9915406107902527
+data\field_test2\Corn_(maize)___healthy\fp_4771.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9919872283935547
+data\field_test2\Corn_(maize)___healthy\fp_4772.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9994877576828003
+data\field_test2\Corn_(maize)___healthy\fp_4773.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.7440734505653381
+data\field_test2\Corn_(maize)___healthy\fp_4820.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.5756680965423584
+data\field_test2\Corn_(maize)___healthy\fp_5057.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9290220141410828
+data\field_test2\Corn_(maize)___healthy\fp_5252.jpg,Corn_(maize)___healthy,Corn_(maize)___Common_rust_,0.7109875082969666
+data\field_test2\Corn_(maize)___healthy\fp_5406.jpg,Corn_(maize)___healthy,Corn_(maize)___Common_rust_,0.6264623403549194
+data\field_test2\Corn_(maize)___healthy\fp_5487.jpg,Corn_(maize)___healthy,Corn_(maize)___Common_rust_,0.6875611543655396
+data\field_test2\Corn_(maize)___healthy\fp_5520.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9290667772293091
+data\field_test2\Corn_(maize)___healthy\fp_5535.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9999523162841797
+data\field_test2\Corn_(maize)___healthy\fp_5562.jpg,Corn_(maize)___healthy,Corn_(maize)___Northern_Leaf_Blight,0.9796205163002014
+data\field_test2\Corn_(maize)___healthy\fp_5586.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9999909400939941
+data\field_test2\Corn_(maize)___healthy\fp_5587.jpg,Corn_(maize)___healthy,Corn_(maize)___Northern_Leaf_Blight,0.9643789529800415
+data\field_test2\Corn_(maize)___healthy\fp_5773.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.997083842754364
+data\field_test2\Corn_(maize)___healthy\fp_5774.jpg,Corn_(maize)___healthy,Corn_(maize)___Northern_Leaf_Blight,0.9961150884628296
+data\field_test2\Corn_(maize)___healthy\fp_5775.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9771164059638977
+data\field_test2\Corn_(maize)___healthy\fp_5843.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.7614200711250305
+data\field_test2\Corn_(maize)___healthy\fp_6091.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9999990463256836
+data\field_test2\Corn_(maize)___healthy\fp_614.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.6637048721313477
+data\field_test2\Corn_(maize)___healthy\fp_6183.jpg,Corn_(maize)___healthy,Corn_(maize)___Common_rust_,0.9791640639305115
+data\field_test2\Corn_(maize)___healthy\fp_6238.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9967318773269653
+data\field_test2\Corn_(maize)___healthy\fp_6239.jpg,Corn_(maize)___healthy,Corn_(maize)___Northern_Leaf_Blight,0.9362679719924927
+data\field_test2\Corn_(maize)___healthy\fp_6256.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9931631088256836
+data\field_test2\Corn_(maize)___healthy\fp_6259.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9865097403526306
+data\field_test2\Corn_(maize)___healthy\fp_6404.jpg,Corn_(maize)___healthy,Corn_(maize)___Northern_Leaf_Blight,0.9758592247962952
+data\field_test2\Corn_(maize)___healthy\fp_6405.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9992706179618835
+data\field_test2\Corn_(maize)___healthy\fp_6406.jpg,Corn_(maize)___healthy,Corn_(maize)___Northern_Leaf_Blight,0.8305018544197083
+data\field_test2\Corn_(maize)___healthy\fp_6416.jpg,Corn_(maize)___healthy,Corn_(maize)___Common_rust_,0.7658537030220032
+data\field_test2\Corn_(maize)___healthy\fp_6488.jpg,Corn_(maize)___healthy,Corn_(maize)___Common_rust_,0.9721924066543579
+data\field_test2\Corn_(maize)___healthy\fp_6504.jpg,Corn_(maize)___healthy,Corn_(maize)___Northern_Leaf_Blight,0.9423614144325256
+data\field_test2\Corn_(maize)___healthy\fp_6505.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9998304843902588
+data\field_test2\Corn_(maize)___healthy\fp_6506.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9984042048454285
+data\field_test2\Corn_(maize)___healthy\fp_6507.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9998149275779724
+data\field_test2\Corn_(maize)___healthy\fp_6568.jpg,Corn_(maize)___healthy,Corn_(maize)___Common_rust_,0.999645471572876
+data\field_test2\Corn_(maize)___healthy\fp_6569.jpg,Corn_(maize)___healthy,Corn_(maize)___Common_rust_,0.8534932732582092
+data\field_test2\Corn_(maize)___healthy\fp_670.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9409527778625488
+data\field_test2\Corn_(maize)___healthy\fp_671.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9965695142745972
+data\field_test2\Corn_(maize)___healthy\fp_6710.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9994045495986938
+data\field_test2\Corn_(maize)___healthy\fp_6711.jpg,Corn_(maize)___healthy,Corn_(maize)___Northern_Leaf_Blight,0.9554578065872192
+data\field_test2\Corn_(maize)___healthy\fp_6712.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.44479355216026306
+data\field_test2\Corn_(maize)___healthy\fp_6749.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9955288767814636
+data\field_test2\Corn_(maize)___healthy\fp_6855.jpg,Corn_(maize)___healthy,Corn_(maize)___Northern_Leaf_Blight,0.9989345669746399
+data\field_test2\Corn_(maize)___healthy\fp_6856.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9999867677688599
+data\field_test2\Corn_(maize)___healthy\fp_6920.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.98739093542099
+data\field_test2\Corn_(maize)___healthy\fp_6989.jpg,Corn_(maize)___healthy,Corn_(maize)___Northern_Leaf_Blight,0.9055073857307434
+data\field_test2\Corn_(maize)___healthy\fp_6990.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.7419317364692688
+data\field_test2\Corn_(maize)___healthy\fp_7012.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9909076690673828
+data\field_test2\Corn_(maize)___healthy\fp_7013.jpg,Corn_(maize)___healthy,Corn_(maize)___Northern_Leaf_Blight,0.552487850189209
+data\field_test2\Corn_(maize)___healthy\fp_7072.jpg,Corn_(maize)___healthy,Corn_(maize)___Common_rust_,0.9429410099983215
+data\field_test2\Corn_(maize)___healthy\fp_727.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9995982050895691
+data\field_test2\Corn_(maize)___healthy\fp_7316.jpg,Corn_(maize)___healthy,Corn_(maize)___Northern_Leaf_Blight,0.9992107152938843
+data\field_test2\Corn_(maize)___healthy\fp_7318.jpg,Corn_(maize)___healthy,Corn_(maize)___Common_rust_,0.18783394992351532
+data\field_test2\Corn_(maize)___healthy\fp_7475.jpg,Corn_(maize)___healthy,Corn_(maize)___Common_rust_,0.8566219806671143
+data\field_test2\Corn_(maize)___healthy\fp_7545.jpg,Corn_(maize)___healthy,Corn_(maize)___Common_rust_,0.8179823160171509
+data\field_test2\Corn_(maize)___healthy\fp_7721.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.996366024017334
+data\field_test2\Corn_(maize)___healthy\fp_779.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.975024402141571
+data\field_test2\Corn_(maize)___healthy\fp_7792.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.5118775367736816
+data\field_test2\Corn_(maize)___healthy\fp_7855.jpg,Corn_(maize)___healthy,Corn_(maize)___Common_rust_,0.8709548115730286
+data\field_test2\Corn_(maize)___healthy\fp_7949.jpg,Corn_(maize)___healthy,Corn_(maize)___Common_rust_,0.811334490776062
+data\field_test2\Corn_(maize)___healthy\fp_7968.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.8211140036582947
+data\field_test2\Corn_(maize)___healthy\fp_8030.jpg,Corn_(maize)___healthy,Corn_(maize)___Northern_Leaf_Blight,0.9807091951370239
+data\field_test2\Corn_(maize)___healthy\fp_8031.jpg,Corn_(maize)___healthy,Corn_(maize)___Northern_Leaf_Blight,0.2646588087081909
+data\field_test2\Corn_(maize)___healthy\fp_8098.jpg,Corn_(maize)___healthy,Corn_(maize)___Common_rust_,0.9786398410797119
+data\field_test2\Corn_(maize)___healthy\fp_8103.jpg,Corn_(maize)___healthy,Corn_(maize)___Northern_Leaf_Blight,0.9998084902763367
+data\field_test2\Corn_(maize)___healthy\fp_8105.jpg,Corn_(maize)___healthy,Corn_(maize)___Northern_Leaf_Blight,0.9879029393196106
+data\field_test2\Corn_(maize)___healthy\fp_8148.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9546252489089966
+data\field_test2\Corn_(maize)___healthy\fp_8333.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.5242838263511658
+data\field_test2\Corn_(maize)___healthy\fp_8374.jpg,Corn_(maize)___healthy,Corn_(maize)___Common_rust_,0.9382360577583313
+data\field_test2\Corn_(maize)___healthy\fp_8435.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.997412383556366
+data\field_test2\Corn_(maize)___healthy\fp_8447.jpg,Corn_(maize)___healthy,Corn_(maize)___Northern_Leaf_Blight,0.601128339767456
+data\field_test2\Corn_(maize)___healthy\fp_8501.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.6518886685371399
+data\field_test2\Corn_(maize)___healthy\fp_8567.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9472468495368958
+data\field_test2\Corn_(maize)___healthy\fp_88.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.7894635796546936
+data\field_test2\Corn_(maize)___healthy\fp_898.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.6601806879043579
+data\field_test2\Corn_(maize)___healthy\fp_90.jpg,Corn_(maize)___healthy,Corn_(maize)___Northern_Leaf_Blight,0.7042645215988159
+data\field_test2\Corn_(maize)___healthy\fp_914.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9898631572723389
+data\field_test2\Corn_(maize)___healthy\fp_954.jpg,Corn_(maize)___healthy,Corn_(maize)___healthy,0.783766508102417
+data\field_test2\Corn_(maize)___healthy\fp_997.jpg,Corn_(maize)___healthy,Corn_(maize)___Common_rust_,0.7751030921936035
+data\field_test2\Tomato___healthy\fp_1178.jpg,Tomato___healthy,Tomato___Late_blight,0.3645855486392975
+data\field_test2\Tomato___healthy\fp_1179.jpg,Tomato___healthy,Corn_(maize)___healthy,0.3649280071258545
+data\field_test2\Tomato___healthy\fp_1260.jpg,Tomato___healthy,Tomato___healthy,0.5244896411895752
+data\field_test2\Tomato___healthy\fp_1264.jpg,Tomato___healthy,Tomato___Leaf_Mold,0.9305567741394043
+data\field_test2\Tomato___healthy\fp_1275.jpg,Tomato___healthy,Tomato___Leaf_Mold,0.745280921459198
+data\field_test2\Tomato___healthy\fp_1278.jpg,Tomato___healthy,Tomato___Late_blight,0.4290134310722351
+data\field_test2\Tomato___healthy\fp_1280.jpg,Tomato___healthy,Tomato___healthy,0.45228311419487
+data\field_test2\Tomato___healthy\fp_1296.jpg,Tomato___healthy,Tomato___Late_blight,0.7253121137619019
+data\field_test2\Tomato___healthy\fp_1385.jpg,Tomato___healthy,Tomato___healthy,0.7438440918922424
+data\field_test2\Tomato___healthy\fp_1386.jpg,Tomato___healthy,Tomato___healthy,0.6953304409980774
+data\field_test2\Tomato___healthy\fp_1387.jpg,Tomato___healthy,Tomato___healthy,0.45103883743286133
+data\field_test2\Tomato___healthy\fp_1398.jpg,Tomato___healthy,Tomato___Late_blight,0.5158976912498474
+data\field_test2\Tomato___healthy\fp_1399.jpg,Tomato___healthy,Tomato___Late_blight,0.9317951798439026
+data\field_test2\Tomato___healthy\fp_1400.jpg,Tomato___healthy,Tomato___Leaf_Mold,0.888970673084259
+data\field_test2\Tomato___healthy\fp_1401.jpg,Tomato___healthy,Tomato___healthy,0.49404269456863403
+data\field_test2\Tomato___healthy\fp_1402.jpg,Tomato___healthy,Tomato___Late_blight,0.4067947566509247
+data\field_test2\Tomato___healthy\fp_1419.jpg,Tomato___healthy,Tomato___Bacterial_spot,0.8773309588432312
+data\field_test2\Tomato___healthy\fp_1420.jpg,Tomato___healthy,Tomato___healthy,0.9794096946716309
+data\field_test2\Tomato___healthy\fp_1477.jpg,Tomato___healthy,Tomato___healthy,0.8505215644836426
+data\field_test2\Tomato___healthy\fp_1478.jpg,Tomato___healthy,Tomato___healthy,0.8103456497192383
+data\field_test2\Tomato___healthy\fp_1479.jpg,Tomato___healthy,Tomato___Leaf_Mold,0.5197750329971313
+data\field_test2\Tomato___healthy\fp_1501.jpg,Tomato___healthy,Corn_(maize)___healthy,0.7851700186729431
+data\field_test2\Tomato___healthy\fp_1502.jpg,Tomato___healthy,Tomato___Late_blight,0.520492434501648
+data\field_test2\Tomato___healthy\fp_1528.jpg,Tomato___healthy,Tomato___healthy,0.41629457473754883
+data\field_test2\Tomato___healthy\fp_1529.jpg,Tomato___healthy,Tomato___healthy,0.9080832600593567
+data\field_test2\Tomato___healthy\fp_1615.jpg,Tomato___healthy,Tomato___healthy,0.48188915848731995
+data\field_test2\Tomato___healthy\fp_1616.jpg,Tomato___healthy,Tomato___healthy,0.9783585667610168
+data\field_test2\Tomato___healthy\fp_1618.jpg,Tomato___healthy,Tomato___Leaf_Mold,0.8090425729751587
+data\field_test2\Tomato___healthy\fp_1701.jpg,Tomato___healthy,Tomato___healthy,0.8851284980773926
+data\field_test2\Tomato___healthy\fp_1766.jpg,Tomato___healthy,Tomato___Bacterial_spot,0.9806661009788513
+data\field_test2\Tomato___healthy\fp_1774.jpg,Tomato___healthy,Tomato___healthy,0.33862778544425964
+data\field_test2\Tomato___healthy\fp_1796.jpg,Tomato___healthy,Tomato___Late_blight,0.9734619855880737
+data\field_test2\Tomato___healthy\fp_1797.jpg,Tomato___healthy,Tomato___Tomato_mosaic_virus,0.8972768187522888
+data\field_test2\Tomato___healthy\fp_1798.jpg,Tomato___healthy,Tomato___Bacterial_spot,0.9191500544548035
+data\field_test2\Tomato___healthy\fp_1853.jpg,Tomato___healthy,Tomato___Septoria_leaf_spot,0.37551870942115784
+data\field_test2\Tomato___healthy\fp_2155.jpg,Tomato___healthy,Tomato___healthy,0.9539690017700195
+data\field_test2\Tomato___healthy\fp_224.jpg,Tomato___healthy,Tomato___Leaf_Mold,0.46779000759124756
+data\field_test2\Tomato___healthy\fp_225.jpg,Tomato___healthy,Tomato___Late_blight,0.8184399008750916
+data\field_test2\Tomato___healthy\fp_2258.jpg,Tomato___healthy,Tomato___Late_blight,0.8919522762298584
+data\field_test2\Tomato___healthy\fp_2259.jpg,Tomato___healthy,Tomato___healthy,0.9684568047523499
+data\field_test2\Tomato___healthy\fp_2316.jpg,Tomato___healthy,Tomato___Tomato_Yellow_Leaf_Curl_Virus,0.7415322065353394
+data\field_test2\Tomato___healthy\fp_2317.jpg,Tomato___healthy,Tomato___Leaf_Mold,0.5376313924789429
+data\field_test2\Tomato___healthy\fp_2387.jpg,Tomato___healthy,Tomato___healthy,0.4130685329437256
+data\field_test2\Tomato___healthy\fp_2404.jpg,Tomato___healthy,Tomato___healthy,0.8785309791564941
+data\field_test2\Tomato___healthy\fp_2405.jpg,Tomato___healthy,Tomato___Leaf_Mold,0.7104176878929138
+data\field_test2\Tomato___healthy\fp_2406.jpg,Tomato___healthy,Tomato___Tomato_Yellow_Leaf_Curl_Virus,0.6401357054710388
+data\field_test2\Tomato___healthy\fp_2423.jpg,Tomato___healthy,Tomato___Leaf_Mold,0.4789741635322571
+data\field_test2\Tomato___healthy\fp_2424.jpg,Tomato___healthy,Tomato___Early_blight,0.2710355520248413
+data\field_test2\Tomato___healthy\fp_2517.jpg,Tomato___healthy,Tomato___healthy,0.8634529113769531
+data\field_test2\Tomato___healthy\fp_2518.jpg,Tomato___healthy,Tomato___Bacterial_spot,0.3773515820503235
+data\field_test2\Tomato___healthy\fp_2587.jpg,Tomato___healthy,Tomato___Late_blight,0.48177027702331543
+data\field_test2\Tomato___healthy\fp_2648.jpg,Tomato___healthy,Tomato___Late_blight,0.35875776410102844
+data\field_test2\Tomato___healthy\fp_2649.jpg,Tomato___healthy,Tomato___Late_blight,0.5663480758666992
+data\field_test2\Tomato___healthy\fp_2650.jpg,Tomato___healthy,Tomato___Leaf_Mold,0.8009644746780396
+data\field_test2\Tomato___healthy\fp_2678.jpg,Tomato___healthy,Tomato___Leaf_Mold,0.2725050747394562
+data\field_test2\Tomato___healthy\fp_2703.jpg,Tomato___healthy,Corn_(maize)___healthy,0.9237909317016602
+data\field_test2\Tomato___healthy\fp_2704.jpg,Tomato___healthy,Tomato___healthy,0.5683022737503052
+data\field_test2\Tomato___healthy\fp_2746.jpg,Tomato___healthy,Tomato___healthy,0.9199210405349731
+data\field_test2\Tomato___healthy\fp_2747.jpg,Tomato___healthy,Tomato___healthy,0.9119297862052917
+data\field_test2\Tomato___healthy\fp_2865.jpg,Tomato___healthy,Tomato___Late_blight,0.8848317265510559
+data\field_test2\Tomato___healthy\fp_2866.jpg,Tomato___healthy,Tomato___healthy,0.9825886487960815
+data\field_test2\Tomato___healthy\fp_2867.jpg,Tomato___healthy,Tomato___Leaf_Mold,0.9233877062797546
+data\field_test2\Tomato___healthy\fp_287.jpg,Tomato___healthy,Tomato___Bacterial_spot,0.9600250720977783
+data\field_test2\Tomato___healthy\fp_2870.jpg,Tomato___healthy,Tomato___Bacterial_spot,0.6518686413764954
+data\field_test2\Tomato___healthy\fp_2871.jpg,Tomato___healthy,Tomato___Tomato_mosaic_virus,0.386095255613327
+data\field_test2\Tomato___healthy\fp_2874.jpg,Tomato___healthy,Tomato___Bacterial_spot,0.44905540347099304
+data\field_test2\Tomato___healthy\fp_288.jpg,Tomato___healthy,Tomato___Leaf_Mold,0.8885520100593567
+data\field_test2\Tomato___healthy\fp_2922.jpg,Tomato___healthy,Tomato___healthy,0.9704287052154541
+data\field_test2\Tomato___healthy\fp_2923.jpg,Tomato___healthy,Tomato___Leaf_Mold,0.3621484041213989
+data\field_test2\Tomato___healthy\fp_2943.jpg,Tomato___healthy,Tomato___Leaf_Mold,0.43729057908058167
+data\field_test2\Tomato___healthy\fp_2944.jpg,Tomato___healthy,Tomato___healthy,0.6205213069915771
+data\field_test2\Tomato___healthy\fp_2945.jpg,Tomato___healthy,Tomato___Tomato_Yellow_Leaf_Curl_Virus,0.7991845011711121
+data\field_test2\Tomato___healthy\fp_2946.jpg,Tomato___healthy,Tomato___Late_blight,0.47259464859962463
+data\field_test2\Tomato___healthy\fp_2988.jpg,Tomato___healthy,Tomato___healthy,0.7908189296722412
+data\field_test2\Tomato___healthy\fp_3052.jpg,Tomato___healthy,Tomato___healthy,0.9909647703170776
+data\field_test2\Tomato___healthy\fp_3053.jpg,Tomato___healthy,Corn_(maize)___healthy,0.8035696148872375
+data\field_test2\Tomato___healthy\fp_3058.jpg,Tomato___healthy,Tomato___Bacterial_spot,0.429229199886322
+data\field_test2\Tomato___healthy\fp_3059.jpg,Tomato___healthy,Tomato___healthy,0.9995194673538208
+data\field_test2\Tomato___healthy\fp_3060.jpg,Tomato___healthy,Tomato___healthy,0.7075682878494263
+data\field_test2\Tomato___healthy\fp_3141.jpg,Tomato___healthy,Tomato___Leaf_Mold,0.805194079875946
+data\field_test2\Tomato___healthy\fp_3270.jpg,Tomato___healthy,Tomato___Leaf_Mold,0.5015124678611755
+data\field_test2\Tomato___healthy\fp_329.jpg,Tomato___healthy,Tomato___Late_blight,0.6972569227218628
+data\field_test2\Tomato___healthy\fp_3340.jpg,Tomato___healthy,Tomato___healthy,0.5922000408172607
+data\field_test2\Tomato___healthy\fp_3341.jpg,Tomato___healthy,Tomato___healthy,0.8638666272163391
+data\field_test2\Tomato___healthy\fp_3342.jpg,Tomato___healthy,Tomato___healthy,0.631683349609375
+data\field_test2\Tomato___healthy\fp_3521.jpg,Tomato___healthy,Tomato___healthy,0.8237127065658569
+data\field_test2\Tomato___healthy\fp_3631.jpg,Tomato___healthy,Tomato___healthy,0.9942962527275085
+data\field_test2\Tomato___healthy\fp_3632.jpg,Tomato___healthy,Tomato___Leaf_Mold,0.2503919005393982
+data\field_test2\Tomato___healthy\fp_3633.jpg,Tomato___healthy,Tomato___healthy,0.9419490098953247
+data\field_test2\Tomato___healthy\fp_3777.jpg,Tomato___healthy,Tomato___Leaf_Mold,0.7956531643867493
+data\field_test2\Tomato___healthy\fp_3778.jpg,Tomato___healthy,Tomato___Leaf_Mold,0.7255697846412659
+data\field_test2\Tomato___healthy\fp_3819.jpg,Tomato___healthy,Potato___healthy,0.560104489326477
+data\field_test2\Tomato___healthy\fp_3822.jpg,Tomato___healthy,Tomato___healthy,0.7167689204216003
+data\field_test2\Tomato___healthy\fp_3823.jpg,Tomato___healthy,Tomato___Leaf_Mold,0.4295482039451599
+data\field_test2\Tomato___healthy\fp_3824.jpg,Tomato___healthy,Tomato___Bacterial_spot,0.9396472573280334
+data\field_test2\Tomato___healthy\fp_384.jpg,Tomato___healthy,Tomato___Bacterial_spot,0.47561079263687134
+data\field_test2\Tomato___healthy\fp_385.jpg,Tomato___healthy,Tomato___Bacterial_spot,0.31607532501220703
+data\field_test2\Tomato___healthy\fp_3891.jpg,Tomato___healthy,Tomato___Leaf_Mold,0.930631697177887
+data\field_test2\Tomato___healthy\fp_3898.jpg,Tomato___healthy,Tomato___Bacterial_spot,0.6397326588630676
+data\field_test2\Tomato___healthy\fp_390.jpg,Tomato___healthy,Tomato___healthy,0.32197707891464233
+data\field_test2\Tomato___healthy\fp_3906.jpg,Tomato___healthy,Tomato___Leaf_Mold,0.8510124683380127
+data\field_test2\Tomato___healthy\fp_3907.jpg,Tomato___healthy,Tomato___Leaf_Mold,0.5144566297531128
+data\field_test2\Tomato___healthy\fp_4112.jpg,Tomato___healthy,Tomato___Leaf_Mold,0.6201997399330139
+data\field_test2\Tomato___healthy\fp_4113.jpg,Tomato___healthy,Tomato___healthy,0.8964575529098511
+data\field_test2\Tomato___healthy\fp_4114.jpg,Tomato___healthy,Tomato___Bacterial_spot,0.7421970963478088
+data\field_test2\Tomato___healthy\fp_414.jpg,Tomato___healthy,Tomato___healthy,0.5950289368629456
+data\field_test2\Tomato___healthy\fp_415.jpg,Tomato___healthy,Tomato___Late_blight,0.8357752561569214
+data\field_test2\Tomato___healthy\fp_4204.jpg,Tomato___healthy,Tomato___healthy,0.5024968385696411
+data\field_test2\Tomato___healthy\fp_4214.jpg,Tomato___healthy,Tomato___Leaf_Mold,0.39267614483833313
+data\field_test2\Tomato___healthy\fp_4280.jpg,Tomato___healthy,Tomato___Early_blight,0.4989994466304779
+data\field_test2\Tomato___healthy\fp_4281.jpg,Tomato___healthy,Tomato___Early_blight,0.8627648949623108
+data\field_test2\Tomato___healthy\fp_4282.jpg,Tomato___healthy,Tomato___Tomato_Yellow_Leaf_Curl_Virus,0.5956306457519531
+data\field_test2\Tomato___healthy\fp_4283.jpg,Tomato___healthy,Tomato___Late_blight,0.787552535533905
+data\field_test2\Tomato___healthy\fp_4284.jpg,Tomato___healthy,Tomato___Early_blight,0.3194268047809601
+data\field_test2\Tomato___healthy\fp_4370.jpg,Tomato___healthy,Tomato___Leaf_Mold,0.9478030800819397
+data\field_test2\Tomato___healthy\fp_4371.jpg,Tomato___healthy,Tomato___healthy,0.9257973432540894
+data\field_test2\Tomato___healthy\fp_4394.jpg,Tomato___healthy,Tomato___healthy,0.9399489164352417
+data\field_test2\Tomato___healthy\fp_441.jpg,Tomato___healthy,Tomato___healthy,0.9829891324043274
+data\field_test2\Tomato___healthy\fp_442.jpg,Tomato___healthy,Tomato___healthy,0.5761247873306274
+data\field_test2\Tomato___healthy\fp_4574.jpg,Tomato___healthy,Tomato___healthy,0.5528472065925598
+data\field_test2\Tomato___healthy\fp_4575.jpg,Tomato___healthy,Tomato___healthy,0.6368786692619324
+data\field_test2\Tomato___healthy\fp_4864.jpg,Tomato___healthy,Tomato___Leaf_Mold,0.6731889843940735
+data\field_test2\Tomato___healthy\fp_4865.jpg,Tomato___healthy,Tomato___Bacterial_spot,0.4540027678012848
+data\field_test2\Tomato___healthy\fp_4866.jpg,Tomato___healthy,Tomato___Tomato_Yellow_Leaf_Curl_Virus,0.9419485926628113
+data\field_test2\Tomato___healthy\fp_4873.jpg,Tomato___healthy,Tomato___Leaf_Mold,0.8355279564857483
+data\field_test2\Tomato___healthy\fp_4874.jpg,Tomato___healthy,Tomato___Leaf_Mold,0.6828446388244629
+data\field_test2\Tomato___healthy\fp_4875.jpg,Tomato___healthy,Corn_(maize)___healthy,0.5010235905647278
+data\field_test2\Tomato___healthy\fp_501.jpg,Tomato___healthy,Tomato___Bacterial_spot,0.7797603011131287
+data\field_test2\Tomato___healthy\fp_5127.jpg,Tomato___healthy,Tomato___healthy,0.8868651390075684
+data\field_test2\Tomato___healthy\fp_5128.jpg,Tomato___healthy,Tomato___healthy,0.9892920255661011
+data\field_test2\Tomato___healthy\fp_5129.jpg,Tomato___healthy,Tomato___healthy,0.30810031294822693
+data\field_test2\Tomato___healthy\fp_5130.jpg,Tomato___healthy,Tomato___healthy,0.9189497232437134
+data\field_test2\Tomato___healthy\fp_5131.jpg,Tomato___healthy,Tomato___Late_blight,0.7808723449707031
+data\field_test2\Tomato___healthy\fp_5132.jpg,Tomato___healthy,Tomato___Leaf_Mold,0.5308765172958374
+data\field_test2\Tomato___healthy\fp_5142.jpg,Tomato___healthy,Tomato___Late_blight,0.5885957479476929
+data\field_test2\Tomato___healthy\fp_5143.jpg,Tomato___healthy,Tomato___healthy,0.9347003698348999
+data\field_test2\Tomato___healthy\fp_5185.jpg,Tomato___healthy,Tomato___Late_blight,0.8536185622215271
+data\field_test2\Tomato___healthy\fp_5186.jpg,Tomato___healthy,Tomato___Leaf_Mold,0.6480901837348938
+data\field_test2\Tomato___healthy\fp_5239.jpg,Tomato___healthy,Tomato___healthy,0.9115972518920898
+data\field_test2\Tomato___healthy\fp_5240.jpg,Tomato___healthy,Tomato___Late_blight,0.595395565032959
+data\field_test2\Tomato___healthy\fp_5291.jpg,Tomato___healthy,Tomato___Leaf_Mold,0.626224935054779
+data\field_test2\Tomato___healthy\fp_5307.jpg,Tomato___healthy,Tomato___healthy,0.9801490902900696
+data\field_test2\Tomato___healthy\fp_531.jpg,Tomato___healthy,Tomato___Tomato_Yellow_Leaf_Curl_Virus,0.7752214670181274
+data\field_test2\Tomato___healthy\fp_532.jpg,Tomato___healthy,Tomato___healthy,0.844722330570221
+data\field_test2\Tomato___healthy\fp_5409.jpg,Tomato___healthy,Tomato___Late_blight,0.5238374471664429
+data\field_test2\Tomato___healthy\fp_5410.jpg,Tomato___healthy,Tomato___Late_blight,0.8062432408332825
+data\field_test2\Tomato___healthy\fp_550.jpg,Tomato___healthy,Tomato___Leaf_Mold,0.7462009787559509
+data\field_test2\Tomato___healthy\fp_551.jpg,Tomato___healthy,Tomato___Leaf_Mold,0.8320629000663757
+data\field_test2\Tomato___healthy\fp_5626.jpg,Tomato___healthy,Corn_(maize)___healthy,0.3671877682209015
+data\field_test2\Tomato___healthy\fp_5644.jpg,Tomato___healthy,Tomato___Late_blight,0.647293746471405
+data\field_test2\Tomato___healthy\fp_5757.jpg,Tomato___healthy,Tomato___Leaf_Mold,0.7315855026245117
+data\field_test2\Tomato___healthy\fp_5817.jpg,Tomato___healthy,Tomato___Bacterial_spot,0.7374407052993774
+data\field_test2\Tomato___healthy\fp_5818.jpg,Tomato___healthy,Tomato___healthy,0.9000861048698425
+data\field_test2\Tomato___healthy\fp_5890.jpg,Tomato___healthy,Tomato___healthy,0.6746644973754883
+data\field_test2\Tomato___healthy\fp_5891.jpg,Tomato___healthy,Tomato___healthy,0.31183868646621704
+data\field_test2\Tomato___healthy\fp_5950.jpg,Tomato___healthy,Tomato___healthy,0.9614821672439575
+data\field_test2\Tomato___healthy\fp_5951.jpg,Tomato___healthy,Tomato___healthy,0.6764158010482788
+data\field_test2\Tomato___healthy\fp_5952.jpg,Tomato___healthy,Tomato___healthy,0.9907109141349792
+data\field_test2\Tomato___healthy\fp_5966.jpg,Tomato___healthy,Tomato___healthy,0.9835585951805115
+data\field_test2\Tomato___healthy\fp_5967.jpg,Tomato___healthy,Tomato___Leaf_Mold,0.7825385332107544
+data\field_test2\Tomato___healthy\fp_5990.jpg,Tomato___healthy,Tomato___Leaf_Mold,0.5038498640060425
+data\field_test2\Tomato___healthy\fp_5991.jpg,Tomato___healthy,Tomato___Septoria_leaf_spot,0.5947547554969788
+data\field_test2\Tomato___healthy\fp_5992.jpg,Tomato___healthy,Tomato___Late_blight,0.9287702441215515
+data\field_test2\Tomato___healthy\fp_5993.jpg,Tomato___healthy,Tomato___Leaf_Mold,0.4435012638568878
+data\field_test2\Tomato___healthy\fp_5994.jpg,Tomato___healthy,Tomato___Leaf_Mold,0.3240946829319
+data\field_test2\Tomato___healthy\fp_5995.jpg,Tomato___healthy,Tomato___Bacterial_spot,0.530150294303894
+data\field_test2\Tomato___healthy\fp_5996.jpg,Tomato___healthy,Tomato___healthy,0.6129481792449951
+data\field_test2\Tomato___healthy\fp_5999.jpg,Tomato___healthy,Tomato___healthy,0.6746935248374939
+data\field_test2\Tomato___healthy\fp_6000.jpg,Tomato___healthy,Tomato___Tomato_mosaic_virus,0.7769405245780945
+data\field_test2\Tomato___healthy\fp_6036.jpg,Tomato___healthy,Tomato___healthy,0.5479156374931335
+data\field_test2\Tomato___healthy\fp_604.jpg,Tomato___healthy,Tomato___Leaf_Mold,0.4334917962551117
+data\field_test2\Tomato___healthy\fp_605.jpg,Tomato___healthy,Tomato___Late_blight,0.4575638175010681
+data\field_test2\Tomato___healthy\fp_606.jpg,Tomato___healthy,Tomato___healthy,0.6605827212333679
+data\field_test2\Tomato___healthy\fp_607.jpg,Tomato___healthy,Tomato___healthy,0.9747401475906372
+data\field_test2\Tomato___healthy\fp_6072.jpg,Tomato___healthy,Tomato___healthy,0.9277469515800476
+data\field_test2\Tomato___healthy\fp_6073.jpg,Tomato___healthy,Tomato___healthy,0.9379748106002808
+data\field_test2\Tomato___healthy\fp_6076.jpg,Tomato___healthy,Tomato___healthy,0.7477927803993225
+data\field_test2\Tomato___healthy\fp_6094.jpg,Tomato___healthy,Corn_(maize)___healthy,0.7119905948638916
+data\field_test2\Tomato___healthy\fp_6095.jpg,Tomato___healthy,Tomato___Tomato_Yellow_Leaf_Curl_Virus,0.700785219669342
+data\field_test2\Tomato___healthy\fp_6181.jpg,Tomato___healthy,Tomato___Bacterial_spot,0.868933379650116
+data\field_test2\Tomato___healthy\fp_6192.jpg,Tomato___healthy,Tomato___Late_blight,0.8621752262115479
+data\field_test2\Tomato___healthy\fp_6193.jpg,Tomato___healthy,Tomato___Bacterial_spot,0.6838933825492859
+data\field_test2\Tomato___healthy\fp_6204.jpg,Tomato___healthy,Tomato___healthy,0.895124077796936
+data\field_test2\Tomato___healthy\fp_6205.jpg,Tomato___healthy,Tomato___healthy,0.9800966382026672
+data\field_test2\Tomato___healthy\fp_6206.jpg,Tomato___healthy,Tomato___Leaf_Mold,0.997621476650238
+data\field_test2\Tomato___healthy\fp_6307.jpg,Tomato___healthy,Tomato___Leaf_Mold,0.5637209415435791
+data\field_test2\Tomato___healthy\fp_6308.jpg,Tomato___healthy,Tomato___healthy,0.6019514799118042
+data\field_test2\Tomato___healthy\fp_6309.jpg,Tomato___healthy,Tomato___Late_blight,0.7105810642242432
+data\field_test2\Tomato___healthy\fp_6347.jpg,Tomato___healthy,Tomato___Bacterial_spot,0.6447433233261108
+data\field_test2\Tomato___healthy\fp_6348.jpg,Tomato___healthy,Tomato___Bacterial_spot,0.713919460773468
+data\field_test2\Tomato___healthy\fp_6353.jpg,Tomato___healthy,Tomato___Leaf_Mold,0.6207916140556335
+data\field_test2\Tomato___healthy\fp_6354.jpg,Tomato___healthy,Tomato___Late_blight,0.8087158203125
+data\field_test2\Tomato___healthy\fp_6355.jpg,Tomato___healthy,Tomato___Leaf_Mold,0.700318455696106
+data\field_test2\Tomato___healthy\fp_6370.jpg,Tomato___healthy,Tomato___Tomato_Yellow_Leaf_Curl_Virus,0.44674181938171387
+data\field_test2\Tomato___healthy\fp_6511.jpg,Tomato___healthy,Tomato___healthy,0.8810557126998901
+data\field_test2\Tomato___healthy\fp_662.jpg,Tomato___healthy,Tomato___Late_blight,0.36346158385276794
+data\field_test2\Tomato___healthy\fp_6620.jpg,Tomato___healthy,Tomato___healthy,0.4083016812801361
+data\field_test2\Tomato___healthy\fp_6621.jpg,Tomato___healthy,Tomato___healthy,0.4580252170562744
+data\field_test2\Tomato___healthy\fp_663.jpg,Tomato___healthy,Tomato___Leaf_Mold,0.5322971940040588
+data\field_test2\Tomato___healthy\fp_664.jpg,Tomato___healthy,Potato___Late_blight,0.8558040261268616
+data\field_test2\Tomato___healthy\fp_6677.jpg,Tomato___healthy,Tomato___healthy,0.3959959149360657
+data\field_test2\Tomato___healthy\fp_6678.jpg,Tomato___healthy,Tomato___Leaf_Mold,0.5051062703132629
+data\field_test2\Tomato___healthy\fp_6696.jpg,Tomato___healthy,Tomato___healthy,0.9277269244194031
+data\field_test2\Tomato___healthy\fp_6697.jpg,Tomato___healthy,Tomato___healthy,0.8607255816459656
+data\field_test2\Tomato___healthy\fp_6698.jpg,Tomato___healthy,Tomato___healthy,0.6425368785858154
+data\field_test2\Tomato___healthy\fp_6734.jpg,Tomato___healthy,Tomato___Late_blight,0.7036099433898926
+data\field_test2\Tomato___healthy\fp_6735.jpg,Tomato___healthy,Tomato___Early_blight,0.4309932589530945
+data\field_test2\Tomato___healthy\fp_6736.jpg,Tomato___healthy,Tomato___Leaf_Mold,0.7259629368782043
+data\field_test2\Tomato___healthy\fp_6737.jpg,Tomato___healthy,Tomato___healthy,0.5563089847564697
+data\field_test2\Tomato___healthy\fp_6759.jpg,Tomato___healthy,Tomato___healthy,0.9151033759117126
+data\field_test2\Tomato___healthy\fp_6760.jpg,Tomato___healthy,Tomato___Leaf_Mold,0.5620603561401367
+data\field_test2\Tomato___healthy\fp_6761.jpg,Tomato___healthy,Tomato___Leaf_Mold,0.7170484066009521
+data\field_test2\Tomato___healthy\fp_6762.jpg,Tomato___healthy,Tomato___healthy,0.6308316588401794
+data\field_test2\Tomato___healthy\fp_6763.jpg,Tomato___healthy,Potato___Late_blight,0.31652742624282837
+data\field_test2\Tomato___healthy\fp_6834.jpg,Tomato___healthy,Potato___Late_blight,0.7474674582481384
+data\field_test2\Tomato___healthy\fp_6836.jpg,Tomato___healthy,Tomato___healthy,0.6886478662490845
+data\field_test2\Tomato___healthy\fp_6837.jpg,Tomato___healthy,Tomato___healthy,0.9875988364219666
+data\field_test2\Tomato___healthy\fp_6878.jpg,Tomato___healthy,Tomato___Late_blight,0.5355538725852966
+data\field_test2\Tomato___healthy\fp_6879.jpg,Tomato___healthy,Tomato___Late_blight,0.7199485301971436
+data\field_test2\Tomato___healthy\fp_6880.jpg,Tomato___healthy,Tomato___healthy,0.7211626172065735
+data\field_test2\Tomato___healthy\fp_7010.jpg,Tomato___healthy,Tomato___healthy,0.9442097544670105
+data\field_test2\Tomato___healthy\fp_7022.jpg,Tomato___healthy,Tomato___Late_blight,0.8474607467651367
+data\field_test2\Tomato___healthy\fp_7027.jpg,Tomato___healthy,Tomato___Late_blight,0.5384639501571655
+data\field_test2\Tomato___healthy\fp_7028.jpg,Tomato___healthy,Tomato___Leaf_Mold,0.9761154055595398
+data\field_test2\Tomato___healthy\fp_7029.jpg,Tomato___healthy,Corn_(maize)___Northern_Leaf_Blight,0.7616403102874756
+data\field_test2\Tomato___healthy\fp_7073.jpg,Tomato___healthy,Tomato___Bacterial_spot,0.5697003602981567
+data\field_test2\Tomato___healthy\fp_7074.jpg,Tomato___healthy,Tomato___Late_blight,0.587756335735321
+data\field_test2\Tomato___healthy\fp_7079.jpg,Tomato___healthy,Tomato___Late_blight,0.8462082743644714
+data\field_test2\Tomato___healthy\fp_7080.jpg,Tomato___healthy,Tomato___Bacterial_spot,0.3119949400424957
+data\field_test2\Tomato___healthy\fp_7087.jpg,Tomato___healthy,Tomato___Leaf_Mold,0.918582558631897
+data\field_test2\Tomato___healthy\fp_709.jpg,Tomato___healthy,Tomato___Late_blight,0.9546272158622742
+data\field_test2\Tomato___healthy\fp_7090.jpg,Tomato___healthy,Tomato___Leaf_Mold,0.7981339693069458
+data\field_test2\Tomato___healthy\fp_710.jpg,Tomato___healthy,Tomato___Leaf_Mold,0.8752528429031372
+data\field_test2\Tomato___healthy\fp_711.jpg,Tomato___healthy,Tomato___Late_blight,0.8806381225585938
+data\field_test2\Tomato___healthy\fp_712.jpg,Tomato___healthy,Tomato___Leaf_Mold,0.7288441061973572
+data\field_test2\Tomato___healthy\fp_713.jpg,Tomato___healthy,Tomato___Tomato_Yellow_Leaf_Curl_Virus,0.3953826427459717
+data\field_test2\Tomato___healthy\fp_7135.jpg,Tomato___healthy,Tomato___Leaf_Mold,0.761603832244873
+data\field_test2\Tomato___healthy\fp_714.jpg,Tomato___healthy,Tomato___Leaf_Mold,0.5554279088973999
+data\field_test2\Tomato___healthy\fp_7191.jpg,Tomato___healthy,Tomato___Tomato_Yellow_Leaf_Curl_Virus,0.30343854427337646
+data\field_test2\Tomato___healthy\fp_7192.jpg,Tomato___healthy,Tomato___Late_blight,0.5012927651405334
+data\field_test2\Tomato___healthy\fp_7193.jpg,Tomato___healthy,Tomato___Tomato_mosaic_virus,0.9299068450927734
+data\field_test2\Tomato___healthy\fp_721.jpg,Tomato___healthy,Potato___Early_blight,0.4460350573062897
+data\field_test2\Tomato___healthy\fp_724.jpg,Tomato___healthy,Tomato___Leaf_Mold,0.5359947085380554
+data\field_test2\Tomato___healthy\fp_7279.jpg,Tomato___healthy,Tomato___Leaf_Mold,0.5674360990524292
+data\field_test2\Tomato___healthy\fp_7280.jpg,Tomato___healthy,Tomato___Late_blight,0.6262076497077942
+data\field_test2\Tomato___healthy\fp_7281.jpg,Tomato___healthy,Tomato___Leaf_Mold,0.5125066637992859
+data\field_test2\Tomato___healthy\fp_7458.jpg,Tomato___healthy,Tomato___Bacterial_spot,0.3247399926185608
+data\field_test2\Tomato___healthy\fp_7459.jpg,Tomato___healthy,Tomato___Early_blight,0.6634559035301208
+data\field_test2\Tomato___healthy\fp_7531.jpg,Tomato___healthy,Tomato___Leaf_Mold,0.6175030469894409
+data\field_test2\Tomato___healthy\fp_762.jpg,Tomato___healthy,Corn_(maize)___healthy,0.5341087579727173
+data\field_test2\Tomato___healthy\fp_763.jpg,Tomato___healthy,Tomato___Late_blight,0.6806833744049072
+data\field_test2\Tomato___healthy\fp_7630.jpg,Tomato___healthy,Tomato___Leaf_Mold,0.5386717319488525
+data\field_test2\Tomato___healthy\fp_7661.jpg,Tomato___healthy,Tomato___healthy,0.4416079521179199
+data\field_test2\Tomato___healthy\fp_7717.jpg,Tomato___healthy,Tomato___healthy,0.6390465497970581
+data\field_test2\Tomato___healthy\fp_7718.jpg,Tomato___healthy,Potato___Late_blight,0.38075146079063416
+data\field_test2\Tomato___healthy\fp_7719.jpg,Tomato___healthy,Tomato___Late_blight,0.9868910908699036
+data\field_test2\Tomato___healthy\fp_7851.jpg,Tomato___healthy,Tomato___healthy,0.7313035726547241
+data\field_test2\Tomato___healthy\fp_7922.jpg,Tomato___healthy,Tomato___Leaf_Mold,0.6517826914787292
+data\field_test2\Tomato___healthy\fp_7928.jpg,Tomato___healthy,Tomato___Tomato_mosaic_virus,0.32935523986816406
+data\field_test2\Tomato___healthy\fp_7929.jpg,Tomato___healthy,Tomato___healthy,0.8270998001098633
+data\field_test2\Tomato___healthy\fp_7941.jpg,Tomato___healthy,Tomato___Late_blight,0.7517108917236328
+data\field_test2\Tomato___healthy\fp_7942.jpg,Tomato___healthy,Tomato___Bacterial_spot,0.9748805165290833
+data\field_test2\Tomato___healthy\fp_795.jpg,Tomato___healthy,Tomato___healthy,0.9897061586380005
+data\field_test2\Tomato___healthy\fp_8007.jpg,Tomato___healthy,Tomato___Leaf_Mold,0.9728584289550781
+data\field_test2\Tomato___healthy\fp_8020.jpg,Tomato___healthy,Tomato___healthy,0.9904204607009888
+data\field_test2\Tomato___healthy\fp_8023.jpg,Tomato___healthy,Tomato___healthy,0.623597264289856
+data\field_test2\Tomato___healthy\fp_8131.jpg,Tomato___healthy,Tomato___Leaf_Mold,0.9309782981872559
+data\field_test2\Tomato___healthy\fp_8133.jpg,Tomato___healthy,Tomato___Leaf_Mold,0.8614422082901001
+data\field_test2\Tomato___healthy\fp_8272.jpg,Tomato___healthy,Tomato___healthy,0.31197673082351685
+data\field_test2\Tomato___healthy\fp_8273.jpg,Tomato___healthy,Tomato___healthy,0.6714632511138916
+data\field_test2\Tomato___healthy\fp_8274.jpg,Tomato___healthy,Tomato___Leaf_Mold,0.38719984889030457
+data\field_test2\Tomato___healthy\fp_8369.jpg,Tomato___healthy,Tomato___Late_blight,0.977794885635376
+data\field_test2\Tomato___healthy\fp_8428.jpg,Tomato___healthy,Tomato___healthy,0.9954551458358765
+data\field_test2\Tomato___healthy\fp_8429.jpg,Tomato___healthy,Tomato___healthy,0.9866122007369995
+data\field_test2\Tomato___healthy\fp_8542.jpg,Tomato___healthy,Tomato___healthy,0.4752454161643982
+data\field_test2\Tomato___healthy\fp_917.jpg,Tomato___healthy,Tomato___healthy,0.8547231554985046
+data\field_test2\Tomato___healthy\fp_918.jpg,Tomato___healthy,Tomato___healthy,0.44669875502586365
+data\field_test2\Tomato___healthy\fp_919.jpg,Tomato___healthy,Tomato___healthy,0.80557781457901
+data\field_test2\Tomato___healthy\fp_957.jpg,Tomato___healthy,Tomato___healthy,0.8622514605522156
+data\field_test2\Tomato___Tomato_mosaic_virus\fp_1084.jpg,Tomato___Tomato_mosaic_virus,Tomato___Bacterial_spot,0.8981732130050659
+data\field_test2\Tomato___Tomato_mosaic_virus\fp_1231.jpg,Tomato___Tomato_mosaic_virus,Tomato___Tomato_Yellow_Leaf_Curl_Virus,0.8869196176528931
+data\field_test2\Tomato___Tomato_mosaic_virus\fp_3144.jpg,Tomato___Tomato_mosaic_virus,Tomato___Bacterial_spot,0.9966080188751221
+data\field_test2\Tomato___Tomato_mosaic_virus\fp_3145.jpg,Tomato___Tomato_mosaic_virus,Tomato___Bacterial_spot,0.9964930415153503
+data\field_test2\Tomato___Tomato_mosaic_virus\fp_3146.jpg,Tomato___Tomato_mosaic_virus,Tomato___Bacterial_spot,0.9869621992111206
+data\field_test2\Tomato___Tomato_mosaic_virus\fp_3248.jpg,Tomato___Tomato_mosaic_virus,Tomato___Bacterial_spot,0.996731162071228
+data\field_test2\Tomato___Tomato_mosaic_virus\fp_3249.jpg,Tomato___Tomato_mosaic_virus,Tomato___Bacterial_spot,0.9853143692016602
+data\field_test2\Tomato___Tomato_mosaic_virus\fp_3332.jpg,Tomato___Tomato_mosaic_virus,Tomato___Bacterial_spot,0.34064364433288574
+data\field_test2\Tomato___Tomato_mosaic_virus\fp_3645.jpg,Tomato___Tomato_mosaic_virus,Tomato___Early_blight,0.8394623398780823
+data\field_test2\Tomato___Tomato_mosaic_virus\fp_3932.jpg,Tomato___Tomato_mosaic_virus,Tomato___Leaf_Mold,0.472953200340271
+data\field_test2\Tomato___Tomato_mosaic_virus\fp_4457.jpg,Tomato___Tomato_mosaic_virus,Tomato___healthy,0.8758338689804077
+data\field_test2\Tomato___Tomato_mosaic_virus\fp_4458.jpg,Tomato___Tomato_mosaic_virus,Tomato___Bacterial_spot,0.9484045505523682
+data\field_test2\Tomato___Tomato_mosaic_virus\fp_4459.jpg,Tomato___Tomato_mosaic_virus,Tomato___Tomato_mosaic_virus,0.9930949807167053
+data\field_test2\Tomato___Tomato_mosaic_virus\fp_6438.jpg,Tomato___Tomato_mosaic_virus,Tomato___Bacterial_spot,0.9994935989379883
+data\field_test2\Tomato___Tomato_mosaic_virus\fp_698.jpg,Tomato___Tomato_mosaic_virus,Tomato___Bacterial_spot,0.7922986745834351
+data\field_test2\Tomato___Tomato_mosaic_virus\fp_7320.jpg,Tomato___Tomato_mosaic_virus,Tomato___Bacterial_spot,0.7274510264396667
+data\field_test2\Tomato___Tomato_mosaic_virus\fp_8308.jpg,Tomato___Tomato_mosaic_virus,Tomato___Bacterial_spot,0.9575581550598145
+data\field_test2\Tomato___Tomato_mosaic_virus\fp_8309.jpg,Tomato___Tomato_mosaic_virus,Tomato___Bacterial_spot,0.9958975315093994
+data\field_test2\Tomato___Tomato_mosaic_virus\fp_841.jpg,Tomato___Tomato_mosaic_virus,Tomato___Leaf_Mold,0.8474088907241821
