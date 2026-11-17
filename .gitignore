@@ -5,4 +5,5 @@ models/*.pt
 __pycache__/
 .ipynb_checkpoints/
 .env
-*.key
+*.keykissanAI_source_review.zip
+project_structure.txt
