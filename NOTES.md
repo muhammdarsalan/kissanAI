@@ -26,3 +26,8 @@
 - Paired comparison on 111 PlantDoc test images: 28 images fixed, 9 broken by fine-tuning (McNemar exact p = 0.0026). Accuracy 27.0% -> 44.1% (+17.1 points, 95% bootstrap CI +7.2 to +27.0; after-accuracy CI 35.1-53.2%).
 - Crop identified correctly by the model alone: 92.8% (was 82%). Cross-crop errors: 8 of 111 (was 20).
 - Accuracy within the right crop is 47.6%, so the main remaining problem is disease confusion within a crop, not crop confusion.
+
+## Crop-conditioned field evaluation (PlantDoc test, 111 images)
+- Crop selected by farmer (predictions restricted to that crop): top-1 45.9% (about 37-55%), correct disease in top 3: 88.3% (about 81-93%).
+- Accuracy on kept predictions with crop selected: 62% at confidence 0.90 (55% of images kept) and 0.95 (45% kept).
+- Design decision: the app shows the top 3 candidates for the selected crop plus an expert-confirmation note; it does not present a single confident diagnosis.
