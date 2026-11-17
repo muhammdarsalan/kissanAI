@@ -1,0 +1,554 @@
+true,pred_all,pred_crop,conf_crop,in_top3
+Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Northern_Leaf_Blight,0.684083104133606,True
+Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.4726674556732178,True
+Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Northern_Leaf_Blight,0.925672173500061,True
+Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Northern_Leaf_Blight,0.9762306213378906,True
+Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Northern_Leaf_Blight,0.7852575778961182,True
+Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Northern_Leaf_Blight,0.9998552799224854,True
+Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.94981449842453,True
+Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.9775229096412659,True
+Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,0.9748431444168091,True
+Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Northern_Leaf_Blight,0.9752534031867981,True
+Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.7806129455566406,True
+Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Northern_Leaf_Blight,0.7552803158760071,True
+Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.8042529225349426,True
+Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Northern_Leaf_Blight,0.9972003698348999,True
+Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Northern_Leaf_Blight,0.9829030632972717,True
+Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Northern_Leaf_Blight,0.9616767168045044,True
+Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Northern_Leaf_Blight,0.9058287143707275,True
+Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Northern_Leaf_Blight,0.9974505305290222,True
+Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Northern_Leaf_Blight,0.9150862097740173,True
+Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Northern_Leaf_Blight,0.6073631048202515,True
+Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.6221237182617188,True
+Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Northern_Leaf_Blight,0.9459879994392395,True
+Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.9773017764091492,True
+Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Northern_Leaf_Blight,0.9541647434234619,True
+Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Northern_Leaf_Blight,0.9668673872947693,True
+Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,0.8496646881103516,False
+Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,0.999388575553894,True
+Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,0.9941427111625671,True
+Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Northern_Leaf_Blight,0.9454540014266968,True
+Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.5396261811256409,True
+Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Northern_Leaf_Blight,0.901333749294281,True
+Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Northern_Leaf_Blight,0.8270857334136963,True
+Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Northern_Leaf_Blight,0.9969700574874878,True
+Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.9010263085365295,True
+Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,0.594264566898346,True
+Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.8379738926887512,True
+Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.5763484239578247,True
+Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Northern_Leaf_Blight,0.893235981464386,True
+Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Northern_Leaf_Blight,0.9969090819358826,True
+Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Northern_Leaf_Blight,0.5607277154922485,True
+Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Northern_Leaf_Blight,0.9707350730895996,True
+Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Northern_Leaf_Blight,0.9853432178497314,True
+Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.6048250794410706,True
+Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Northern_Leaf_Blight,0.9991415739059448,True
+Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Northern_Leaf_Blight,0.8924655914306641,True
+Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Northern_Leaf_Blight,0.7650837898254395,True
+Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Northern_Leaf_Blight,0.9833648800849915,True
+Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Northern_Leaf_Blight,0.8993520140647888,True
+Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.9781472086906433,True
+Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.9584822654724121,True
+Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Northern_Leaf_Blight,0.7603530287742615,True
+Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Northern_Leaf_Blight,0.8101439476013184,True
+Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.9528799653053284,True
+Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.7930195331573486,True
+Corn_(maize)___Common_rust_,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Northern_Leaf_Blight,0.979417622089386,True
+Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,0.9267783164978027,True
+Corn_(maize)___Common_rust_,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Northern_Leaf_Blight,0.9868571162223816,True
+Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,0.4838983416557312,True
+Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,0.883413553237915,True
+Corn_(maize)___Common_rust_,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.8437540531158447,True
+Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,0.9594961404800415,True
+Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,0.9913881421089172,True
+Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,0.9842219352722168,True
+Corn_(maize)___Common_rust_,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Northern_Leaf_Blight,0.8486335873603821,True
+Corn_(maize)___Common_rust_,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.9537545442581177,True
+Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,0.6269213557243347,True
+Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,0.6266871094703674,True
+Corn_(maize)___Common_rust_,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.9757124781608582,True
+Corn_(maize)___Common_rust_,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.9259741306304932,True
+Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,0.5138201117515564,True
+Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,0.47907254099845886,True
+Corn_(maize)___Common_rust_,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.6358745098114014,True
+Corn_(maize)___Common_rust_,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Northern_Leaf_Blight,0.8904003500938416,True
+Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,0.9415709376335144,True
+Corn_(maize)___Common_rust_,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.5335081815719604,True
+Corn_(maize)___Common_rust_,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9950320720672607,True
+Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,0.8847396969795227,True
+Corn_(maize)___Common_rust_,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.6693199872970581,True
+Corn_(maize)___Common_rust_,Corn_(maize)___healthy,Corn_(maize)___healthy,0.5497335195541382,True
+Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,0.5152592062950134,True
+Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,0.7680399417877197,True
+Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,0.9921214580535889,True
+Corn_(maize)___Common_rust_,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.5379551649093628,True
+Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,0.9797888398170471,True
+Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,0.9411540031433105,True
+Corn_(maize)___Common_rust_,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Northern_Leaf_Blight,0.9056649208068848,True
+Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,0.6265923976898193,True
+Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,0.9440086483955383,True
+Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,0.6811333298683167,True
+Corn_(maize)___Common_rust_,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Northern_Leaf_Blight,0.48613035678863525,True
+Corn_(maize)___Common_rust_,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Northern_Leaf_Blight,0.9507463574409485,True
+Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,0.9000166654586792,True
+Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,0.5978957414627075,True
+Corn_(maize)___Common_rust_,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Northern_Leaf_Blight,0.7392351627349854,True
+Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,0.9864561557769775,True
+Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,0.8377153873443604,True
+Corn_(maize)___Common_rust_,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.7004691362380981,True
+Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,0.9595402479171753,True
+Corn_(maize)___Common_rust_,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.8971149325370789,True
+Corn_(maize)___Common_rust_,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.9475278258323669,True
+Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,0.9714637398719788,True
+Corn_(maize)___Common_rust_,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.7244239449501038,True
+Corn_(maize)___Common_rust_,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Northern_Leaf_Blight,0.9267382025718689,True
+Corn_(maize)___healthy,Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,0.9629034399986267,True
+Corn_(maize)___healthy,Corn_(maize)___healthy,Corn_(maize)___healthy,0.999992847442627,True
+Corn_(maize)___healthy,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Northern_Leaf_Blight,0.9569514989852905,True
+Corn_(maize)___healthy,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9798880815505981,True
+Corn_(maize)___healthy,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Northern_Leaf_Blight,0.9988160133361816,False
+Corn_(maize)___healthy,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9566612839698792,True
+Corn_(maize)___healthy,Corn_(maize)___healthy,Corn_(maize)___healthy,0.5495321154594421,True
+Corn_(maize)___healthy,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Northern_Leaf_Blight,0.4861304759979248,True
+Corn_(maize)___healthy,Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,0.6529653668403625,True
+Corn_(maize)___healthy,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9997760653495789,True
+Corn_(maize)___healthy,Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,0.7896273732185364,True
+Corn_(maize)___healthy,Tomato___healthy,Corn_(maize)___Northern_Leaf_Blight,0.9043454527854919,True
+Corn_(maize)___healthy,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9837049841880798,True
+Corn_(maize)___healthy,Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,0.9877272844314575,True
+Corn_(maize)___healthy,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Northern_Leaf_Blight,0.8851411938667297,True
+Corn_(maize)___healthy,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9993077516555786,True
+Corn_(maize)___healthy,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Northern_Leaf_Blight,0.9998544454574585,False
+Corn_(maize)___healthy,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Northern_Leaf_Blight,0.9209775328636169,True
+Corn_(maize)___healthy,Corn_(maize)___healthy,Corn_(maize)___healthy,0.5811479687690735,True
+Corn_(maize)___healthy,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9163586497306824,True
+Corn_(maize)___healthy,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9999642372131348,True
+Corn_(maize)___healthy,Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,0.5537104606628418,True
+Corn_(maize)___healthy,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9997184872627258,True
+Corn_(maize)___healthy,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Northern_Leaf_Blight,0.5378389954566956,True
+Corn_(maize)___healthy,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9998390674591064,True
+Corn_(maize)___healthy,Tomato___healthy,Corn_(maize)___Northern_Leaf_Blight,0.5739057660102844,True
+Corn_(maize)___healthy,Corn_(maize)___healthy,Corn_(maize)___healthy,0.47091445326805115,True
+Corn_(maize)___healthy,Corn_(maize)___healthy,Corn_(maize)___healthy,0.7943181991577148,True
+Corn_(maize)___healthy,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Northern_Leaf_Blight,0.6604806780815125,True
+Corn_(maize)___healthy,Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,0.8400942087173462,True
+Corn_(maize)___healthy,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Northern_Leaf_Blight,0.7372803688049316,True
+Corn_(maize)___healthy,Corn_(maize)___healthy,Corn_(maize)___healthy,0.6209242343902588,True
+Corn_(maize)___healthy,Corn_(maize)___healthy,Corn_(maize)___healthy,0.7898344993591309,True
+Corn_(maize)___healthy,Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,0.5747877359390259,False
+Corn_(maize)___healthy,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.45368874073028564,True
+Corn_(maize)___healthy,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Northern_Leaf_Blight,0.9392613768577576,True
+Corn_(maize)___healthy,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Northern_Leaf_Blight,0.9983235001564026,True
+Corn_(maize)___healthy,Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,0.7265463471412659,True
+Corn_(maize)___healthy,Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,0.9849250912666321,True
+Corn_(maize)___healthy,Corn_(maize)___healthy,Corn_(maize)___healthy,0.993341863155365,True
+Corn_(maize)___healthy,Corn_(maize)___healthy,Corn_(maize)___healthy,0.5081023573875427,True
+Corn_(maize)___healthy,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9069957733154297,True
+Corn_(maize)___healthy,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9999457597732544,True
+Corn_(maize)___healthy,Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,0.7887837290763855,True
+Corn_(maize)___healthy,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9776453971862793,True
+Corn_(maize)___healthy,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Northern_Leaf_Blight,0.9939961433410645,True
+Corn_(maize)___healthy,Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,0.8838575482368469,True
+Corn_(maize)___healthy,Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,0.9289093613624573,True
+Corn_(maize)___healthy,Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,0.9876543879508972,True
+Corn_(maize)___healthy,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9999685287475586,True
+Corn_(maize)___healthy,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9973493814468384,True
+Corn_(maize)___healthy,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9973708391189575,True
+Corn_(maize)___healthy,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9992398023605347,True
+Corn_(maize)___healthy,Corn_(maize)___healthy,Corn_(maize)___healthy,0.969264805316925,True
+Corn_(maize)___healthy,Corn_(maize)___healthy,Corn_(maize)___healthy,0.949448823928833,True
+Corn_(maize)___healthy,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9706786870956421,True
+Corn_(maize)___healthy,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Northern_Leaf_Blight,0.9892433881759644,True
+Corn_(maize)___healthy,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9919706583023071,True
+Corn_(maize)___healthy,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.584750235080719,False
+Corn_(maize)___healthy,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Northern_Leaf_Blight,0.8379413485527039,True
+Corn_(maize)___healthy,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Northern_Leaf_Blight,0.9907168745994568,True
+Corn_(maize)___healthy,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9999417066574097,True
+Corn_(maize)___healthy,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9999686479568481,True
+Corn_(maize)___healthy,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Northern_Leaf_Blight,0.5202943682670593,True
+Corn_(maize)___healthy,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Northern_Leaf_Blight,0.9317957758903503,False
+Corn_(maize)___healthy,Corn_(maize)___healthy,Corn_(maize)___healthy,0.8223785161972046,True
+Corn_(maize)___healthy,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Northern_Leaf_Blight,0.57675701379776,True
+Corn_(maize)___healthy,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Northern_Leaf_Blight,0.6671056747436523,True
+Corn_(maize)___healthy,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Northern_Leaf_Blight,0.993504524230957,True
+Corn_(maize)___healthy,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Northern_Leaf_Blight,0.9411946535110474,False
+Corn_(maize)___healthy,Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,0.5453996062278748,True
+Corn_(maize)___healthy,Corn_(maize)___healthy,Corn_(maize)___healthy,0.83060222864151,True
+Corn_(maize)___healthy,Corn_(maize)___healthy,Corn_(maize)___healthy,0.8702709674835205,True
+Corn_(maize)___healthy,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9917098879814148,True
+Corn_(maize)___healthy,Corn_(maize)___healthy,Corn_(maize)___healthy,0.993152379989624,True
+Corn_(maize)___healthy,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9998717308044434,True
+Corn_(maize)___healthy,Corn_(maize)___healthy,Corn_(maize)___healthy,0.7449873089790344,True
+Corn_(maize)___healthy,Corn_(maize)___healthy,Corn_(maize)___healthy,0.581444263458252,True
+Corn_(maize)___healthy,Corn_(maize)___healthy,Corn_(maize)___healthy,0.92906653881073,True
+Corn_(maize)___healthy,Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,0.7109912037849426,True
+Corn_(maize)___healthy,Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,0.6268213391304016,True
+Corn_(maize)___healthy,Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,0.7664170861244202,True
+Corn_(maize)___healthy,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9290673136711121,True
+Corn_(maize)___healthy,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9999526739120483,True
+Corn_(maize)___healthy,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Northern_Leaf_Blight,0.9796383380889893,True
+Corn_(maize)___healthy,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9999916553497314,True
+Corn_(maize)___healthy,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Northern_Leaf_Blight,0.9643789529800415,True
+Corn_(maize)___healthy,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9971012473106384,True
+Corn_(maize)___healthy,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Northern_Leaf_Blight,0.9961150884628296,False
+Corn_(maize)___healthy,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9845941066741943,True
+Corn_(maize)___healthy,Corn_(maize)___healthy,Corn_(maize)___healthy,0.7614454030990601,True
+Corn_(maize)___healthy,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9999990463256836,True
+Corn_(maize)___healthy,Corn_(maize)___healthy,Corn_(maize)___healthy,0.668499767780304,True
+Corn_(maize)___healthy,Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,0.979164719581604,True
+Corn_(maize)___healthy,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9974326491355896,True
+Corn_(maize)___healthy,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Northern_Leaf_Blight,0.9373431205749512,True
+Corn_(maize)___healthy,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9931827187538147,True
+Corn_(maize)___healthy,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9865310788154602,True
+Corn_(maize)___healthy,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Northern_Leaf_Blight,0.9758821725845337,True
+Corn_(maize)___healthy,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9992857575416565,True
+Corn_(maize)___healthy,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Northern_Leaf_Blight,0.8328940868377686,True
+Corn_(maize)___healthy,Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,0.7658541202545166,True
+Corn_(maize)___healthy,Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,0.9722059369087219,True
+Corn_(maize)___healthy,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Northern_Leaf_Blight,0.9440374374389648,False
+Corn_(maize)___healthy,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9999358654022217,True
+Corn_(maize)___healthy,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9984422326087952,True
+Corn_(maize)___healthy,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9998167157173157,True
+Corn_(maize)___healthy,Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,0.999645471572876,True
+Corn_(maize)___healthy,Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,0.8680751919746399,True
+Corn_(maize)___healthy,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9409963488578796,True
+Corn_(maize)___healthy,Corn_(maize)___healthy,Corn_(maize)___healthy,0.997078537940979,True
+Corn_(maize)___healthy,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9994183778762817,True
+Corn_(maize)___healthy,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Northern_Leaf_Blight,0.955471932888031,True
+Corn_(maize)___healthy,Corn_(maize)___healthy,Corn_(maize)___healthy,0.7643918991088867,True
+Corn_(maize)___healthy,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9956627488136292,True
+Corn_(maize)___healthy,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Northern_Leaf_Blight,0.9989878535270691,True
+Corn_(maize)___healthy,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9999966621398926,True
+Corn_(maize)___healthy,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9874083995819092,True
+Corn_(maize)___healthy,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Northern_Leaf_Blight,0.9072678089141846,False
+Corn_(maize)___healthy,Corn_(maize)___healthy,Corn_(maize)___healthy,0.8484822511672974,True
+Corn_(maize)___healthy,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9960750937461853,True
+Corn_(maize)___healthy,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Northern_Leaf_Blight,0.5526000261306763,True
+Corn_(maize)___healthy,Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,0.9429519176483154,True
+Corn_(maize)___healthy,Corn_(maize)___healthy,Corn_(maize)___healthy,0.999620795249939,True
+Corn_(maize)___healthy,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Northern_Leaf_Blight,0.9992115497589111,True
+Corn_(maize)___healthy,Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,0.307773619890213,False
+Corn_(maize)___healthy,Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,0.8566403985023499,True
+Corn_(maize)___healthy,Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,0.8181237578392029,True
+Corn_(maize)___healthy,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9964370727539062,True
+Corn_(maize)___healthy,Corn_(maize)___healthy,Corn_(maize)___healthy,0.975024402141571,True
+Corn_(maize)___healthy,Corn_(maize)___healthy,Corn_(maize)___healthy,0.5119703412055969,True
+Corn_(maize)___healthy,Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,0.870955765247345,True
+Corn_(maize)___healthy,Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,0.8113779425621033,True
+Corn_(maize)___healthy,Corn_(maize)___healthy,Corn_(maize)___healthy,0.8211209774017334,True
+Corn_(maize)___healthy,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Northern_Leaf_Blight,0.9808409810066223,True
+Corn_(maize)___healthy,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Northern_Leaf_Blight,0.3370620906352997,True
+Corn_(maize)___healthy,Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,0.9786409735679626,True
+Corn_(maize)___healthy,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Northern_Leaf_Blight,0.999810516834259,True
+Corn_(maize)___healthy,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Northern_Leaf_Blight,0.9879276156425476,True
+Corn_(maize)___healthy,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9546700119972229,True
+Corn_(maize)___healthy,Corn_(maize)___healthy,Corn_(maize)___healthy,0.5242868065834045,True
+Corn_(maize)___healthy,Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,0.9382362365722656,False
+Corn_(maize)___healthy,Corn_(maize)___healthy,Corn_(maize)___healthy,0.997416615486145,True
+Corn_(maize)___healthy,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Northern_Leaf_Blight,0.6012594103813171,True
+Corn_(maize)___healthy,Corn_(maize)___healthy,Corn_(maize)___healthy,0.653932511806488,True
+Corn_(maize)___healthy,Corn_(maize)___healthy,Corn_(maize)___healthy,0.9478155374526978,True
+Corn_(maize)___healthy,Corn_(maize)___healthy,Corn_(maize)___healthy,0.7895168662071228,True
+Corn_(maize)___healthy,Corn_(maize)___healthy,Corn_(maize)___healthy,0.6619526147842407,True
+Corn_(maize)___healthy,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Northern_Leaf_Blight,0.7123282551765442,False
+Corn_(maize)___healthy,Corn_(maize)___healthy,Corn_(maize)___healthy,0.989899218082428,True
+Corn_(maize)___healthy,Corn_(maize)___healthy,Corn_(maize)___healthy,0.7839256525039673,True
+Corn_(maize)___healthy,Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,0.7751304507255554,False
+Tomato___healthy,Tomato___Late_blight,Tomato___Late_blight,0.36729615926742554,False
+Tomato___healthy,Corn_(maize)___healthy,Tomato___Late_blight,0.3077287971973419,False
+Tomato___healthy,Tomato___healthy,Tomato___healthy,0.7423025965690613,True
+Tomato___healthy,Tomato___Leaf_Mold,Tomato___Leaf_Mold,0.9306007027626038,True
+Tomato___healthy,Tomato___Leaf_Mold,Tomato___Leaf_Mold,0.7464949488639832,True
+Tomato___healthy,Tomato___Late_blight,Tomato___Late_blight,0.42917221784591675,True
+Tomato___healthy,Tomato___healthy,Tomato___healthy,0.47963204979896545,True
+Tomato___healthy,Tomato___Late_blight,Tomato___Late_blight,0.7458277940750122,True
+Tomato___healthy,Tomato___healthy,Tomato___healthy,0.7474969625473022,True
+Tomato___healthy,Tomato___healthy,Tomato___healthy,0.7120615839958191,True
+Tomato___healthy,Tomato___healthy,Tomato___healthy,0.4772680997848511,True
+Tomato___healthy,Tomato___Late_blight,Tomato___Late_blight,0.5190733671188354,True
+Tomato___healthy,Tomato___Late_blight,Tomato___Late_blight,0.931799590587616,False
+Tomato___healthy,Tomato___Leaf_Mold,Tomato___Leaf_Mold,0.8942683339118958,True
+Tomato___healthy,Tomato___healthy,Tomato___healthy,0.5044068694114685,True
+Tomato___healthy,Tomato___Late_blight,Tomato___Late_blight,0.4201642572879791,True
+Tomato___healthy,Tomato___Bacterial_spot,Tomato___Bacterial_spot,0.8808472752571106,False
+Tomato___healthy,Tomato___healthy,Tomato___healthy,0.9819205403327942,True
+Tomato___healthy,Tomato___healthy,Tomato___healthy,0.9599769711494446,True
+Tomato___healthy,Tomato___healthy,Tomato___healthy,0.8253752589225769,True
+Tomato___healthy,Tomato___Leaf_Mold,Tomato___Leaf_Mold,0.5241369605064392,True
+Tomato___healthy,Corn_(maize)___healthy,Tomato___Leaf_Mold,0.46513643860816956,True
+Tomato___healthy,Tomato___Late_blight,Tomato___Late_blight,0.6456879377365112,True
+Tomato___healthy,Tomato___healthy,Tomato___healthy,0.44881606101989746,True
+Tomato___healthy,Tomato___healthy,Tomato___healthy,0.9604973196983337,True
+Tomato___healthy,Tomato___healthy,Tomato___healthy,0.48644524812698364,True
+Tomato___healthy,Tomato___healthy,Tomato___healthy,0.9850689768791199,True
+Tomato___healthy,Tomato___Leaf_Mold,Tomato___Leaf_Mold,0.8157700300216675,False
+Tomato___healthy,Tomato___healthy,Tomato___healthy,0.9078208804130554,True
+Tomato___healthy,Tomato___Bacterial_spot,Tomato___Bacterial_spot,0.9814642071723938,False
+Tomato___healthy,Tomato___healthy,Tomato___healthy,0.49805861711502075,True
+Tomato___healthy,Tomato___Late_blight,Tomato___Late_blight,0.9748468399047852,True
+Tomato___healthy,Tomato___Tomato_mosaic_virus,Tomato___Tomato_mosaic_virus,0.8977664113044739,True
+Tomato___healthy,Tomato___Bacterial_spot,Tomato___Bacterial_spot,0.9193519949913025,False
+Tomato___healthy,Tomato___Septoria_leaf_spot,Tomato___Septoria_leaf_spot,0.4067407250404358,False
+Tomato___healthy,Tomato___healthy,Tomato___healthy,0.954207181930542,True
+Tomato___healthy,Tomato___Leaf_Mold,Tomato___Leaf_Mold,0.5135648846626282,False
+Tomato___healthy,Tomato___Late_blight,Tomato___Late_blight,0.8187139630317688,False
+Tomato___healthy,Tomato___Late_blight,Tomato___Late_blight,0.8931891322135925,True
+Tomato___healthy,Tomato___healthy,Tomato___healthy,0.9788951873779297,True
+Tomato___healthy,Tomato___Tomato_Yellow_Leaf_Curl_Virus,Tomato___Tomato_Yellow_Leaf_Curl_Virus,0.7421702146530151,False
+Tomato___healthy,Tomato___Leaf_Mold,Tomato___Leaf_Mold,0.6157100796699524,False
+Tomato___healthy,Tomato___healthy,Tomato___healthy,0.4318038821220398,True
+Tomato___healthy,Tomato___healthy,Tomato___healthy,0.8987892866134644,True
+Tomato___healthy,Tomato___Leaf_Mold,Tomato___Leaf_Mold,0.7153104543685913,True
+Tomato___healthy,Tomato___Tomato_Yellow_Leaf_Curl_Virus,Tomato___Tomato_Yellow_Leaf_Curl_Virus,0.6473687887191772,False
+Tomato___healthy,Tomato___Leaf_Mold,Tomato___Leaf_Mold,0.4795628786087036,True
+Tomato___healthy,Tomato___Early_blight,Tomato___Early_blight,0.511594831943512,False
+Tomato___healthy,Tomato___healthy,Tomato___healthy,0.8867355585098267,True
+Tomato___healthy,Tomato___Bacterial_spot,Tomato___Bacterial_spot,0.38001635670661926,False
+Tomato___healthy,Tomato___Late_blight,Tomato___Late_blight,0.7499749660491943,True
+Tomato___healthy,Tomato___Late_blight,Tomato___Late_blight,0.5945019125938416,False
+Tomato___healthy,Tomato___Late_blight,Tomato___Late_blight,0.5735648274421692,True
+Tomato___healthy,Tomato___Leaf_Mold,Tomato___Leaf_Mold,0.8081345558166504,False
+Tomato___healthy,Tomato___Leaf_Mold,Tomato___Leaf_Mold,0.2756126821041107,False
+Tomato___healthy,Corn_(maize)___healthy,Tomato___healthy,0.9290443658828735,True
+Tomato___healthy,Tomato___healthy,Tomato___healthy,0.590884804725647,True
+Tomato___healthy,Tomato___healthy,Tomato___healthy,0.920731782913208,True
+Tomato___healthy,Tomato___healthy,Tomato___healthy,0.9126599431037903,True
+Tomato___healthy,Tomato___Late_blight,Tomato___Late_blight,0.8849874138832092,True
+Tomato___healthy,Tomato___healthy,Tomato___healthy,0.9834262132644653,True
+Tomato___healthy,Tomato___Leaf_Mold,Tomato___Leaf_Mold,0.926815927028656,False
+Tomato___healthy,Tomato___Bacterial_spot,Tomato___Bacterial_spot,0.97523432970047,False
+Tomato___healthy,Tomato___Bacterial_spot,Tomato___Bacterial_spot,0.7042248249053955,True
+Tomato___healthy,Tomato___Tomato_mosaic_virus,Tomato___Tomato_mosaic_virus,0.3880367875099182,True
+Tomato___healthy,Tomato___Bacterial_spot,Tomato___Bacterial_spot,0.4553593397140503,True
+Tomato___healthy,Tomato___Leaf_Mold,Tomato___Leaf_Mold,0.888584315776825,True
+Tomato___healthy,Tomato___healthy,Tomato___healthy,0.9704745411872864,True
+Tomato___healthy,Tomato___Leaf_Mold,Tomato___Leaf_Mold,0.3954700529575348,True
+Tomato___healthy,Tomato___Leaf_Mold,Tomato___Leaf_Mold,0.45524686574935913,True
+Tomato___healthy,Tomato___healthy,Tomato___healthy,0.6871882081031799,True
+Tomato___healthy,Tomato___Tomato_Yellow_Leaf_Curl_Virus,Tomato___Tomato_Yellow_Leaf_Curl_Virus,0.8135337829589844,True
+Tomato___healthy,Tomato___Late_blight,Tomato___Late_blight,0.7719274163246155,True
+Tomato___healthy,Tomato___healthy,Tomato___healthy,0.7918601632118225,True
+Tomato___healthy,Tomato___healthy,Tomato___healthy,0.9941765069961548,True
+Tomato___healthy,Corn_(maize)___healthy,Tomato___healthy,0.38752123713493347,True
+Tomato___healthy,Tomato___Bacterial_spot,Tomato___Bacterial_spot,0.4304704964160919,False
+Tomato___healthy,Tomato___healthy,Tomato___healthy,0.9995218515396118,True
+Tomato___healthy,Tomato___healthy,Tomato___healthy,0.7147230505943298,True
+Tomato___healthy,Tomato___Leaf_Mold,Tomato___Leaf_Mold,0.8052721619606018,True
+Tomato___healthy,Tomato___Leaf_Mold,Tomato___Leaf_Mold,0.502167284488678,True
+Tomato___healthy,Tomato___Late_blight,Tomato___Late_blight,0.710131824016571,False
+Tomato___healthy,Tomato___healthy,Tomato___healthy,0.5933066010475159,True
+Tomato___healthy,Tomato___healthy,Tomato___healthy,0.8895140886306763,True
+Tomato___healthy,Tomato___healthy,Tomato___healthy,0.7404730916023254,True
+Tomato___healthy,Tomato___healthy,Tomato___healthy,0.8796193599700928,True
+Tomato___healthy,Tomato___healthy,Tomato___healthy,0.9948305487632751,True
+Tomato___healthy,Tomato___Leaf_Mold,Tomato___Leaf_Mold,0.295126348733902,True
+Tomato___healthy,Tomato___healthy,Tomato___healthy,0.9482691287994385,True
+Tomato___healthy,Tomato___Leaf_Mold,Tomato___Leaf_Mold,0.795718252658844,False
+Tomato___healthy,Tomato___Leaf_Mold,Tomato___Leaf_Mold,0.7377057075500488,True
+Tomato___healthy,Potato___healthy,Tomato___healthy,0.7144696116447449,True
+Tomato___healthy,Tomato___healthy,Tomato___healthy,0.75803142786026,True
+Tomato___healthy,Tomato___Leaf_Mold,Tomato___Leaf_Mold,0.5163148045539856,False
+Tomato___healthy,Tomato___Bacterial_spot,Tomato___Bacterial_spot,0.9414560794830322,False
+Tomato___healthy,Tomato___Bacterial_spot,Tomato___Bacterial_spot,0.48239678144454956,True
+Tomato___healthy,Tomato___Bacterial_spot,Tomato___Bacterial_spot,0.3361571431159973,True
+Tomato___healthy,Tomato___Leaf_Mold,Tomato___Leaf_Mold,0.9311097264289856,False
+Tomato___healthy,Tomato___Bacterial_spot,Tomato___Bacterial_spot,0.6413471698760986,False
+Tomato___healthy,Tomato___healthy,Tomato___healthy,0.46433261036872864,True
+Tomato___healthy,Tomato___Leaf_Mold,Tomato___Leaf_Mold,0.8538289070129395,False
+Tomato___healthy,Tomato___Leaf_Mold,Tomato___Leaf_Mold,0.5179029703140259,True
+Tomato___healthy,Tomato___Leaf_Mold,Tomato___Leaf_Mold,0.6203624606132507,True
+Tomato___healthy,Tomato___healthy,Tomato___healthy,0.9137041568756104,True
+Tomato___healthy,Tomato___Bacterial_spot,Tomato___Bacterial_spot,0.7488285303115845,False
+Tomato___healthy,Tomato___healthy,Tomato___healthy,0.652972400188446,True
+Tomato___healthy,Tomato___Late_blight,Tomato___Late_blight,0.836169421672821,True
+Tomato___healthy,Tomato___healthy,Tomato___healthy,0.6592434048652649,True
+Tomato___healthy,Tomato___Leaf_Mold,Tomato___Leaf_Mold,0.427002489566803,True
+Tomato___healthy,Tomato___Early_blight,Tomato___Early_blight,0.5014930963516235,False
+Tomato___healthy,Tomato___Early_blight,Tomato___Early_blight,0.868713915348053,False
+Tomato___healthy,Tomato___Tomato_Yellow_Leaf_Curl_Virus,Tomato___Tomato_Yellow_Leaf_Curl_Virus,0.5965175628662109,False
+Tomato___healthy,Tomato___Late_blight,Tomato___Late_blight,0.8000308275222778,True
+Tomato___healthy,Tomato___Early_blight,Tomato___Early_blight,0.32419610023498535,False
+Tomato___healthy,Tomato___Leaf_Mold,Tomato___Leaf_Mold,0.9480976462364197,True
+Tomato___healthy,Tomato___healthy,Tomato___healthy,0.9407130479812622,True
+Tomato___healthy,Tomato___healthy,Tomato___healthy,0.956841766834259,True
+Tomato___healthy,Tomato___healthy,Tomato___healthy,0.9978229999542236,True
+Tomato___healthy,Tomato___healthy,Tomato___healthy,0.6329832077026367,True
+Tomato___healthy,Tomato___healthy,Tomato___healthy,0.5539679527282715,True
+Tomato___healthy,Tomato___healthy,Tomato___healthy,0.8472534418106079,True
+Tomato___healthy,Tomato___Leaf_Mold,Tomato___Leaf_Mold,0.855161190032959,True
+Tomato___healthy,Tomato___Bacterial_spot,Tomato___Bacterial_spot,0.45677486062049866,True
+Tomato___healthy,Tomato___Tomato_Yellow_Leaf_Curl_Virus,Tomato___Tomato_Yellow_Leaf_Curl_Virus,0.9772500395774841,True
+Tomato___healthy,Tomato___Leaf_Mold,Tomato___Leaf_Mold,0.8429291844367981,False
+Tomato___healthy,Tomato___Leaf_Mold,Tomato___Leaf_Mold,0.6829743385314941,False
+Tomato___healthy,Corn_(maize)___healthy,Tomato___Tomato_Yellow_Leaf_Curl_Virus,0.597173273563385,True
+Tomato___healthy,Tomato___Bacterial_spot,Tomato___Bacterial_spot,0.781231164932251,True
+Tomato___healthy,Tomato___healthy,Tomato___healthy,0.899095892906189,True
+Tomato___healthy,Tomato___healthy,Tomato___healthy,0.9898480772972107,True
+Tomato___healthy,Tomato___healthy,Tomato___healthy,0.41395774483680725,True
+Tomato___healthy,Tomato___healthy,Tomato___healthy,0.9203591346740723,True
+Tomato___healthy,Tomato___Late_blight,Tomato___Late_blight,0.8150568008422852,False
+Tomato___healthy,Tomato___Leaf_Mold,Tomato___Leaf_Mold,0.5936894416809082,True
+Tomato___healthy,Tomato___Late_blight,Tomato___Late_blight,0.5886019468307495,False
+Tomato___healthy,Tomato___healthy,Tomato___healthy,0.9511799216270447,True
+Tomato___healthy,Tomato___Late_blight,Tomato___Late_blight,0.8663301467895508,True
+Tomato___healthy,Tomato___Leaf_Mold,Tomato___Leaf_Mold,0.7313812971115112,False
+Tomato___healthy,Tomato___healthy,Tomato___healthy,0.9146563410758972,True
+Tomato___healthy,Tomato___Late_blight,Tomato___Late_blight,0.5971906185150146,True
+Tomato___healthy,Tomato___Leaf_Mold,Tomato___Leaf_Mold,0.7366694808006287,True
+Tomato___healthy,Tomato___healthy,Tomato___healthy,0.9808624982833862,True
+Tomato___healthy,Tomato___Tomato_Yellow_Leaf_Curl_Virus,Tomato___Tomato_Yellow_Leaf_Curl_Virus,0.7780646681785583,False
+Tomato___healthy,Tomato___healthy,Tomato___healthy,0.8530603051185608,True
+Tomato___healthy,Tomato___Late_blight,Tomato___Late_blight,0.5389754176139832,True
+Tomato___healthy,Tomato___Late_blight,Tomato___Late_blight,0.8732923865318298,True
+Tomato___healthy,Tomato___Leaf_Mold,Tomato___Leaf_Mold,0.7468146681785583,True
+Tomato___healthy,Tomato___Leaf_Mold,Tomato___Leaf_Mold,0.8967476487159729,True
+Tomato___healthy,Corn_(maize)___healthy,Tomato___Tomato_Yellow_Leaf_Curl_Virus,0.5094414949417114,True
+Tomato___healthy,Tomato___Late_blight,Tomato___Late_blight,0.6751670837402344,False
+Tomato___healthy,Tomato___Leaf_Mold,Tomato___Leaf_Mold,0.7317301034927368,True
+Tomato___healthy,Tomato___Bacterial_spot,Tomato___Bacterial_spot,0.7480643391609192,False
+Tomato___healthy,Tomato___healthy,Tomato___healthy,0.9150233268737793,True
+Tomato___healthy,Tomato___healthy,Tomato___healthy,0.8554227948188782,True
+Tomato___healthy,Tomato___healthy,Tomato___healthy,0.3789292871952057,True
+Tomato___healthy,Tomato___healthy,Tomato___healthy,0.9775582551956177,True
+Tomato___healthy,Tomato___healthy,Tomato___healthy,0.6837968826293945,True
+Tomato___healthy,Tomato___healthy,Tomato___healthy,0.9934170246124268,True
+Tomato___healthy,Tomato___healthy,Tomato___healthy,0.9850703477859497,True
+Tomato___healthy,Tomato___Leaf_Mold,Tomato___Leaf_Mold,0.7830588221549988,True
+Tomato___healthy,Tomato___Leaf_Mold,Tomato___Leaf_Mold,0.5043721199035645,True
+Tomato___healthy,Tomato___Septoria_leaf_spot,Tomato___Septoria_leaf_spot,0.5951429009437561,False
+Tomato___healthy,Tomato___Late_blight,Tomato___Late_blight,0.9341273307800293,True
+Tomato___healthy,Tomato___Leaf_Mold,Tomato___Leaf_Mold,0.4446167051792145,True
+Tomato___healthy,Tomato___Leaf_Mold,Tomato___Leaf_Mold,0.33051931858062744,True
+Tomato___healthy,Tomato___Bacterial_spot,Tomato___Bacterial_spot,0.5347294211387634,True
+Tomato___healthy,Tomato___healthy,Tomato___healthy,0.6130563020706177,True
+Tomato___healthy,Tomato___healthy,Tomato___healthy,0.6857388019561768,True
+Tomato___healthy,Tomato___Tomato_mosaic_virus,Tomato___Tomato_mosaic_virus,0.7771604657173157,True
+Tomato___healthy,Tomato___healthy,Tomato___healthy,0.5480594635009766,True
+Tomato___healthy,Tomato___Leaf_Mold,Tomato___Leaf_Mold,0.46218815445899963,True
+Tomato___healthy,Tomato___Late_blight,Tomato___Late_blight,0.6337419152259827,True
+Tomato___healthy,Tomato___healthy,Tomato___healthy,0.6639825105667114,True
+Tomato___healthy,Tomato___healthy,Tomato___healthy,0.9960059523582458,True
+Tomato___healthy,Tomato___healthy,Tomato___healthy,0.9553912878036499,True
+Tomato___healthy,Tomato___healthy,Tomato___healthy,0.9930064678192139,True
+Tomato___healthy,Tomato___healthy,Tomato___healthy,0.8325048089027405,True
+Tomato___healthy,Corn_(maize)___healthy,Tomato___Late_blight,0.46243816614151,True
+Tomato___healthy,Tomato___Tomato_Yellow_Leaf_Curl_Virus,Tomato___Tomato_Yellow_Leaf_Curl_Virus,0.7736403346061707,True
+Tomato___healthy,Tomato___Bacterial_spot,Tomato___Bacterial_spot,0.8742355108261108,False
+Tomato___healthy,Tomato___Late_blight,Tomato___Late_blight,0.862345814704895,False
+Tomato___healthy,Tomato___Bacterial_spot,Tomato___Bacterial_spot,0.684624195098877,False
+Tomato___healthy,Tomato___healthy,Tomato___healthy,0.9057012796401978,True
+Tomato___healthy,Tomato___healthy,Tomato___healthy,0.9805454015731812,True
+Tomato___healthy,Tomato___Leaf_Mold,Tomato___Leaf_Mold,0.9976442456245422,False
+Tomato___healthy,Tomato___Leaf_Mold,Tomato___Leaf_Mold,0.564122200012207,True
+Tomato___healthy,Tomato___healthy,Tomato___healthy,0.6038246154785156,True
+Tomato___healthy,Tomato___Late_blight,Tomato___Late_blight,0.7146418690681458,False
+Tomato___healthy,Tomato___Bacterial_spot,Tomato___Bacterial_spot,0.6462571024894714,False
+Tomato___healthy,Tomato___Bacterial_spot,Tomato___Bacterial_spot,0.7141596674919128,False
+Tomato___healthy,Tomato___Leaf_Mold,Tomato___Leaf_Mold,0.6217691898345947,True
+Tomato___healthy,Tomato___Late_blight,Tomato___Late_blight,0.8187631964683533,True
+Tomato___healthy,Tomato___Leaf_Mold,Tomato___Leaf_Mold,0.7339538931846619,False
+Tomato___healthy,Tomato___Tomato_Yellow_Leaf_Curl_Virus,Tomato___Tomato_Yellow_Leaf_Curl_Virus,0.4500628113746643,True
+Tomato___healthy,Tomato___healthy,Tomato___healthy,0.8819307684898376,True
+Tomato___healthy,Tomato___Late_blight,Tomato___Late_blight,0.36762043833732605,True
+Tomato___healthy,Tomato___healthy,Tomato___healthy,0.4720756709575653,True
+Tomato___healthy,Tomato___healthy,Tomato___healthy,0.47159555554389954,True
+Tomato___healthy,Tomato___Leaf_Mold,Tomato___Leaf_Mold,0.5327035188674927,True
+Tomato___healthy,Potato___Late_blight,Tomato___Late_blight,0.5030789375305176,True
+Tomato___healthy,Tomato___healthy,Tomato___healthy,0.39839571714401245,True
+Tomato___healthy,Tomato___Leaf_Mold,Tomato___Leaf_Mold,0.5186654925346375,True
+Tomato___healthy,Tomato___healthy,Tomato___healthy,0.9306778311729431,True
+Tomato___healthy,Tomato___healthy,Tomato___healthy,0.862994909286499,True
+Tomato___healthy,Tomato___healthy,Tomato___healthy,0.6453225016593933,True
+Tomato___healthy,Tomato___Late_blight,Tomato___Late_blight,0.716736912727356,False
+Tomato___healthy,Tomato___Early_blight,Tomato___Early_blight,0.4457574486732483,False
+Tomato___healthy,Tomato___Leaf_Mold,Tomato___Leaf_Mold,0.7265335917472839,True
+Tomato___healthy,Tomato___healthy,Tomato___healthy,0.5733787417411804,True
+Tomato___healthy,Tomato___healthy,Tomato___healthy,0.9633076190948486,True
+Tomato___healthy,Tomato___Leaf_Mold,Tomato___Leaf_Mold,0.6221116185188293,True
+Tomato___healthy,Tomato___Leaf_Mold,Tomato___Leaf_Mold,0.7437463998794556,True
+Tomato___healthy,Tomato___healthy,Tomato___healthy,0.6489123106002808,True
+Tomato___healthy,Potato___Late_blight,Tomato___Early_blight,0.2915160059928894,False
+Tomato___healthy,Potato___Late_blight,Tomato___healthy,0.4970467984676361,True
+Tomato___healthy,Tomato___healthy,Tomato___healthy,0.690654456615448,True
+Tomato___healthy,Tomato___healthy,Tomato___healthy,0.989704430103302,True
+Tomato___healthy,Tomato___Late_blight,Tomato___Late_blight,0.5356221199035645,True
+Tomato___healthy,Tomato___Late_blight,Tomato___Late_blight,0.725437343120575,True
+Tomato___healthy,Tomato___healthy,Tomato___healthy,0.9384501576423645,True
+Tomato___healthy,Tomato___healthy,Tomato___healthy,0.9510067701339722,True
+Tomato___healthy,Tomato___Late_blight,Tomato___Late_blight,0.850659191608429,False
+Tomato___healthy,Tomato___Late_blight,Tomato___Late_blight,0.5596457719802856,True
+Tomato___healthy,Tomato___Leaf_Mold,Tomato___Leaf_Mold,0.986738920211792,True
+Tomato___healthy,Corn_(maize)___Northern_Leaf_Blight,Tomato___Leaf_Mold,0.5589579343795776,True
+Tomato___healthy,Tomato___Bacterial_spot,Tomato___Bacterial_spot,0.5798961520195007,False
+Tomato___healthy,Tomato___Late_blight,Tomato___Late_blight,0.5902808904647827,True
+Tomato___healthy,Tomato___Late_blight,Tomato___Late_blight,0.8462667465209961,False
+Tomato___healthy,Tomato___Bacterial_spot,Tomato___Bacterial_spot,0.3265112340450287,False
+Tomato___healthy,Tomato___Leaf_Mold,Tomato___Leaf_Mold,0.9186590313911438,True
+Tomato___healthy,Tomato___Late_blight,Tomato___Late_blight,0.9549365043640137,False
+Tomato___healthy,Tomato___Leaf_Mold,Tomato___Leaf_Mold,0.8899813294410706,False
+Tomato___healthy,Tomato___Leaf_Mold,Tomato___Leaf_Mold,0.9001621007919312,True
+Tomato___healthy,Tomato___Late_blight,Tomato___Late_blight,0.880832850933075,True
+Tomato___healthy,Tomato___Leaf_Mold,Tomato___Leaf_Mold,0.7315496206283569,True
+Tomato___healthy,Tomato___Tomato_Yellow_Leaf_Curl_Virus,Tomato___Tomato_Yellow_Leaf_Curl_Virus,0.45718467235565186,False
+Tomato___healthy,Tomato___Leaf_Mold,Tomato___Leaf_Mold,0.7617025375366211,False
+Tomato___healthy,Tomato___Leaf_Mold,Tomato___Leaf_Mold,0.5560137033462524,False
+Tomato___healthy,Tomato___Tomato_Yellow_Leaf_Curl_Virus,Tomato___Tomato_Yellow_Leaf_Curl_Virus,0.3094756603240967,True
+Tomato___healthy,Tomato___Late_blight,Tomato___Late_blight,0.503097414970398,True
+Tomato___healthy,Tomato___Tomato_mosaic_virus,Tomato___Tomato_mosaic_virus,0.9302940964698792,False
+Tomato___healthy,Potato___Early_blight,Tomato___Late_blight,0.4953455328941345,False
+Tomato___healthy,Tomato___Leaf_Mold,Tomato___Leaf_Mold,0.7310063242912292,True
+Tomato___healthy,Tomato___Leaf_Mold,Tomato___Leaf_Mold,0.5678361654281616,False
+Tomato___healthy,Tomato___Late_blight,Tomato___Late_blight,0.6438896059989929,False
+Tomato___healthy,Tomato___Leaf_Mold,Tomato___Leaf_Mold,0.5128412842750549,False
+Tomato___healthy,Tomato___Bacterial_spot,Tomato___Bacterial_spot,0.351943701505661,False
+Tomato___healthy,Tomato___Early_blight,Tomato___Early_blight,0.7761408686637878,False
+Tomato___healthy,Tomato___Leaf_Mold,Tomato___Leaf_Mold,0.6308490037918091,True
+Tomato___healthy,Corn_(maize)___healthy,Tomato___Leaf_Mold,0.7127348184585571,False
+Tomato___healthy,Tomato___Late_blight,Tomato___Late_blight,0.7065385580062866,True
+Tomato___healthy,Tomato___Leaf_Mold,Tomato___Leaf_Mold,0.5414997339248657,True
+Tomato___healthy,Tomato___healthy,Tomato___healthy,0.44700273871421814,True
+Tomato___healthy,Tomato___healthy,Tomato___healthy,0.6413058638572693,True
+Tomato___healthy,Potato___Late_blight,Tomato___Leaf_Mold,0.4674692153930664,True
+Tomato___healthy,Tomato___Late_blight,Tomato___Late_blight,0.992669939994812,False
+Tomato___healthy,Tomato___healthy,Tomato___healthy,0.7339479923248291,True
+Tomato___healthy,Tomato___Leaf_Mold,Tomato___Leaf_Mold,0.6699797511100769,True
+Tomato___healthy,Tomato___Tomato_mosaic_virus,Tomato___Tomato_mosaic_virus,0.3360450565814972,True
+Tomato___healthy,Tomato___healthy,Tomato___healthy,0.8271421194076538,True
+Tomato___healthy,Tomato___Late_blight,Tomato___Late_blight,0.7640971541404724,True
+Tomato___healthy,Tomato___Bacterial_spot,Tomato___Bacterial_spot,0.9763873815536499,False
+Tomato___healthy,Tomato___healthy,Tomato___healthy,0.9941709637641907,True
+Tomato___healthy,Tomato___Leaf_Mold,Tomato___Leaf_Mold,0.9734483957290649,False
+Tomato___healthy,Tomato___healthy,Tomato___healthy,0.9905242323875427,True
+Tomato___healthy,Tomato___healthy,Tomato___healthy,0.6243188381195068,True
+Tomato___healthy,Tomato___Leaf_Mold,Tomato___Leaf_Mold,0.9312345385551453,True
+Tomato___healthy,Tomato___Leaf_Mold,Tomato___Leaf_Mold,0.8646794557571411,False
+Tomato___healthy,Tomato___healthy,Tomato___healthy,0.3301239609718323,True
+Tomato___healthy,Tomato___healthy,Tomato___healthy,0.6718268990516663,True
+Tomato___healthy,Tomato___Leaf_Mold,Tomato___Leaf_Mold,0.39138108491897583,False
+Tomato___healthy,Tomato___Late_blight,Tomato___Late_blight,0.9808952212333679,False
+Tomato___healthy,Tomato___healthy,Tomato___healthy,0.9968569278717041,True
+Tomato___healthy,Tomato___healthy,Tomato___healthy,0.9889262914657593,True
+Tomato___healthy,Tomato___healthy,Tomato___healthy,0.5363765954971313,True
+Tomato___healthy,Tomato___healthy,Tomato___healthy,0.8552702069282532,True
+Tomato___healthy,Tomato___healthy,Tomato___healthy,0.6061602234840393,True
+Tomato___healthy,Tomato___healthy,Tomato___healthy,0.9648637175559998,True
+Tomato___healthy,Tomato___healthy,Tomato___healthy,0.8639796376228333,True
+Tomato___Tomato_mosaic_virus,Tomato___Bacterial_spot,Tomato___Bacterial_spot,0.8982556462287903,False
+Tomato___Tomato_mosaic_virus,Tomato___Tomato_Yellow_Leaf_Curl_Virus,Tomato___Tomato_Yellow_Leaf_Curl_Virus,0.8969694375991821,False
+Tomato___Tomato_mosaic_virus,Tomato___Bacterial_spot,Tomato___Bacterial_spot,0.9966277480125427,False
+Tomato___Tomato_mosaic_virus,Tomato___Bacterial_spot,Tomato___Bacterial_spot,0.9965842962265015,False
+Tomato___Tomato_mosaic_virus,Tomato___Bacterial_spot,Tomato___Bacterial_spot,0.9933299422264099,False
+Tomato___Tomato_mosaic_virus,Tomato___Bacterial_spot,Tomato___Bacterial_spot,0.9973379969596863,False
+Tomato___Tomato_mosaic_virus,Tomato___Bacterial_spot,Tomato___Bacterial_spot,0.990740180015564,False
+Tomato___Tomato_mosaic_virus,Tomato___Bacterial_spot,Tomato___Bacterial_spot,0.35287439823150635,False
+Tomato___Tomato_mosaic_virus,Tomato___Early_blight,Tomato___Early_blight,0.877358615398407,False
+Tomato___Tomato_mosaic_virus,Tomato___Leaf_Mold,Tomato___Leaf_Mold,0.47297653555870056,False
+Tomato___Tomato_mosaic_virus,Tomato___healthy,Tomato___healthy,0.9122103452682495,False
+Tomato___Tomato_mosaic_virus,Tomato___Bacterial_spot,Tomato___Bacterial_spot,0.9486190676689148,False
+Tomato___Tomato_mosaic_virus,Tomato___Tomato_mosaic_virus,Tomato___Tomato_mosaic_virus,0.9931148886680603,True
+Tomato___Tomato_mosaic_virus,Tomato___Bacterial_spot,Tomato___Bacterial_spot,0.9994980096817017,False
+Tomato___Tomato_mosaic_virus,Tomato___Bacterial_spot,Tomato___Bacterial_spot,0.7927070260047913,False
+Tomato___Tomato_mosaic_virus,Tomato___Bacterial_spot,Tomato___Bacterial_spot,0.7275134325027466,False
+Tomato___Tomato_mosaic_virus,Tomato___Bacterial_spot,Tomato___Bacterial_spot,0.9585726261138916,False
+Tomato___Tomato_mosaic_virus,Tomato___Bacterial_spot,Tomato___Bacterial_spot,0.9961206316947937,False
+Tomato___Tomato_mosaic_virus,Tomato___Leaf_Mold,Tomato___Leaf_Mold,0.8489170074462891,False

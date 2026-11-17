@@ -1,0 +1,27 @@
+﻿images: 111
+crop unknown (any class)      : 0.441
+crop selected by the farmer   : 0.459
+crop selected, correct in top3: 0.883
+                                                    mean  count
+true                                                           
+Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot  0.25      4
+Corn_(maize)___Common_rust_                         0.70     10
+Corn_(maize)___Northern_Leaf_Blight                 0.33     12
+Potato___Early_blight                               0.38      8
+Potato___Late_blight                                0.62      8
+Tomato___Bacterial_spot                             0.44      9
+Tomato___Early_blight                               0.56      9
+Tomato___Late_blight                                0.50     10
+Tomato___Leaf_Mold                                  0.33      6
+Tomato___Septoria_leaf_spot                         0.45     11
+Tomato___Tomato_Yellow_Leaf_Curl_Virus              0.83      6
+Tomato___Tomato_mosaic_virus                        0.10     10
+Tomato___healthy                                    0.50      8
+
+threshold  coverage  accuracy_on_kept (crop selected)
+      0.0     1.000             0.459
+      0.5     0.928             0.466
+      0.7     0.766             0.529
+      0.8     0.658             0.589
+      0.9     0.550             0.623
+     0.95     0.450             0.620

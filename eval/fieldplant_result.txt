@@ -1,0 +1,35 @@
+﻿FIELD accuracy: 0.412 on 553 images
+                                                    mean  count
+true                                                           
+Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot  0.78     54
+Corn_(maize)___Common_rust_                         0.08     49
+Corn_(maize)___healthy                              0.91    152
+Tomato___Tomato_mosaic_virus                        0.00     19
+Tomato___healthy                                    0.15    279
+most common mistakes:
+ true                          pred                                              
+Tomato___healthy              Tomato___Late_blight                                  107
+                              Tomato___Early_blight                                  59
+                              Corn_(maize)___healthy                                 40
+Corn_(maize)___Common_rust_   Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot     34
+Tomato___healthy              Tomato___Leaf_Mold                                     10
+Corn_(maize)___Common_rust_   Corn_(maize)___Northern_Leaf_Blight                     7
+Corn_(maize)___healthy        Tomato___Early_blight                                   5
+Tomato___healthy              Tomato___Tomato_Yellow_Leaf_Curl_Virus                  5
+Tomato___Tomato_mosaic_virus  Tomato___Early_blight                                   5
+                              Tomato___Late_blight                                    5
+
+threshold  coverage  accuracy_on_kept
+      0.0     1.000             0.412
+      0.5     0.863             0.436
+      0.7     0.700             0.463
+      0.8     0.582             0.494
+      0.9     0.452             0.572
+     0.95     0.358             0.626
+
+UNKNOWN leaves: 199 images
+  rejected at threshold 0.5: 0.236
+  rejected at threshold 0.7: 0.538
+  rejected at threshold 0.8: 0.663
+  rejected at threshold 0.9: 0.809
+  rejected at threshold 0.95: 0.884
